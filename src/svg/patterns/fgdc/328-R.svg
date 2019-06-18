@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="16.065" height="16.065" viewBox="0 -16.065 16.065 16.065">
+	<g>
+		<rect y="-16.065" style="fill:none;" width="16.065" height="16.065"/>
+		<line style="fill:none;stroke:#ED1B2E;stroke-width:0.65;" x1="2.019" y1="-3.988" x2="6.177" y2="-3.988"/>
+		<line style="fill:none;stroke:#ED1B2E;stroke-width:0.65;" x1="4.055" y1="-6.067" x2="4.055" y2="-1.91"/>
+		<line style="fill:none;stroke:#ED1B2E;stroke-width:0.65;" x1="10.048" y1="-12.128" x2="14.206" y2="-12.128"/>
+		<line style="fill:none;stroke:#ED1B2E;stroke-width:0.65;" x1="12.084" y1="-14.206" x2="12.084" y2="-10.049"/>
+	</g>
+</svg>
