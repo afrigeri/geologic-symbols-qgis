@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Geologic symbols in QGIS'
-copyright = '2019, Alessandro Frigeri'
+copyright = '2019, Alessandro Frigeri IAPS/INAF'
 author = 'Alessandro Frigeri'
 
 # The full version, including alpha/beta/rc tags
