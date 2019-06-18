@@ -17,12 +17,14 @@ Here you find symbols for QGIS useful in geological mapping.  At the moment ther
 6. Select the __geologic_symblib.xml__ file you have found in the zip file
 7. You should now have the geologic symbols working in your QGis!
 
-### Current status
+### Development of new symbols
 
-The [status page](STATUS.md) lists available symbols together with reference code and description.   
+You can add new symbols by adding to the src/xml the xml file generated into the Style Manager.
 
 ### Usage notes
 
 convention here is to draw features clockwise, so non-symmetric symbology is displayed correctly.
+
+
 
 

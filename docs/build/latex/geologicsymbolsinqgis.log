@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.5)  12 JUN 2019 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.5)  18 JUN 2019 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1154,7 +1154,10 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 
 ]
 Chapter 1.
-[1
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 98.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [1
 
 ] [2
 
@@ -1168,32 +1171,38 @@ Chapter 3.
 
 ]
 Chapter 4.
-[7] [8
+<style_manager.png, id=85, 960.58875pt x 585.18625pt>
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 149.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+File: style_manager.png Graphic file (type png)
+
+<use style_manager.png>
+Package pdftex.def Info: style_manager.png used on input line 149.
+(pdftex.def)             Requested size: 469.75453pt x 286.18123pt.
+ [7 <./style_manager.png>] [8]
+Chapter 5.
+(./geologicsymbolsinqgis.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
+ [9
 
 ]
-Chapter 5.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 110.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-(./geologicsymbolsinqgis.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
  (./geologicsymbolsinqgis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
 Package rerunfilecheck Info: File `geologicsymbolsinqgis.out' has not changed.
-(rerunfilecheck)             Checksum: 725D015F934F1C73C0B6F5AA5A1B9980;635.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
+(rerunfilecheck)             Checksum: 1AC847230D0A8093A0A45D1910B44217;861.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
  ) 
 Here is how much of TeX's memory you used:
- 13524 strings out of 492995
- 188027 string characters out of 6132705
- 275444 words of memory out of 5000000
- 16787 multiletter control sequences out of 15000+600000
- 37059 words of font info for 50 fonts, out of 8000000 for 9000
+ 13590 strings out of 492995
+ 188977 string characters out of 6132705
+ 275522 words of memory out of 5000000
+ 16831 multiletter control sequences out of 15000+600000
+ 38672 words of font info for 57 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  37i,11n,45p,293b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -1201,10 +1210,10 @@ exlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2017/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2017/t
 exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb>
-Output written on geologicsymbolsinqgis.pdf (13 pages, 49681 bytes).
+Output written on geologicsymbolsinqgis.pdf (13 pages, 258125 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
+ 74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

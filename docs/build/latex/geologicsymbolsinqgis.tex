@@ -72,7 +72,7 @@
 
 
 \title{Geologic symbols in QGIS}
-\date{Jun 12, 2019}
+\date{Jun 18, 2019}
 \release{1.0}
 \author{Alessandro Frigeri}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -91,17 +91,75 @@
 
 \chapter{Introduction}
 \label{\detokenize{intro:introduction}}\label{\detokenize{intro::doc}}
-This is the intro
+Geologic mapping is an interpretative process which usually is finalized in the production of a geologic map, where a wide range of symbols are used to visually encode the information over the map sheet.
+
+Symbology is divided into three main categories:
+\begin{itemize}
+\item {} 
+line symbols: describing linear geologic feature, from geologic contact to faults and lineations
+
+\item {} 
+point symbols: describing point measurements (strike, dip) or describing features too small to be mapped differently
+
+\item {} 
+area patterns: differentiating one terrain/material/unit from another
+
+\end{itemize}
 
 
-\chapter{TEST}
-\label{\detokenize{installation:test}}\label{\detokenize{installation::doc}}
+\chapter{Installation}
+\label{\detokenize{installation:installation}}\label{\detokenize{installation::doc}}\begin{itemize}
+\item {} 
+Download the zipfile containing the symbology files.
+
+\item {} 
+Extract the zip archive and move the svg directory to a place where you want to store the patterns and symbols. It can be any directory.
+
+\item {} 
+Open QGis and go to ‘Settings -\textgreater{} Options’ (Ubuntu) or ‘Preferences’ (OSX) and select the second tab from the top: ‘System’
+
+\item {} 
+Under the SVG Paths form click the add button and select the directory where you moved the svg directory
+
+\item {} 
+In QGis, go to ‘Settings -\textgreater{} Style Manager’ and click on ‘Import/Export -\textgreater{} Import items’ button (at bottom-left)
+
+\item {} 
+Select the geologic\_symblib.xml file you have found in the zip file
+
+\end{itemize}
+
+You should now have the geologic symbols working in your QGis!
+
 
 \chapter{Usage and conventions}
 \label{\detokenize{usage:usage-and-conventions}}\label{\detokenize{usage::doc}}
 
-\chapter{Symbols development/design}
-\label{\detokenize{developers_guide:symbols-development-design}}\label{\detokenize{developers_guide::doc}}
+\chapter{Symbol’s developer/designer guide}
+\label{\detokenize{developers_guide:symbol-s-developer-designer-guide}}\label{\detokenize{developers_guide::doc}}
+This guide will drive you through the process of designing new symbols you can submit to the main repository.
+
+All you have to do is to design your symbol and export it to an xml file which can then be added to the current library.
+
+
+\section{The Style Manager}
+\label{\detokenize{developers_guide:the-style-manager}}
+The style manager allow to design a symbol from scratch.
+
+\noindent\sphinxincludegraphics{{style_manager}.png}
+
+\# Authority’s specific Conventions
+
+\#\#\# FGCD
+
+Naming:
+\begin{quote}
+
+XX.YYY: string
+\end{quote}
+
+here XX is the name of the FGDC section, and YYY is the code of the symbol, padded with 0s if the number is lower than 100.
+
 This is the tutorial
 
 
