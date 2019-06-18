@@ -21,6 +21,7 @@ $(TARGET): $(SRC_DIR)
 	python scripts/merge.py $< $@
 
 all:
+	make update_usgs_patterns
 	make $(TARGET)
 
 clean:
