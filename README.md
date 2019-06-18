@@ -1,7 +1,7 @@
 
 ![QGIS](docs/images/ss01.png)
 
-## Geologic symbols library for QGIS 
+## Geologic symbols library and development for QGIS 
 #### June, 2019
 
 
