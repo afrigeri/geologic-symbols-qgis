@@ -2,7 +2,7 @@
 ![QGIS](docs/images/ss01.png)
 
 ## Geologic symbols library and development for QGIS 
-#### Alessandro Frigeri - June, 2019
+#### Alessandro Frigeri, IAPS/INAF - June, 2019
 
 
 Here you find symbols for QGIS useful in geological mapping.  At the moment there are symbols defined by FGDC, but others from different mapping authorities/institutionis can be added.

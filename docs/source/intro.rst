@@ -11,3 +11,8 @@ Symbology is divided into three main categories:
 * area patterns: differentiating one terrain/material/unit from another
 
 
+Guidelines
+----------
+
+.. _a Canadian Geologic Survey : http://gq.mines.gouv.qc.ca/documents/EXAMINE/DV201406/DV201406.pdf
+
