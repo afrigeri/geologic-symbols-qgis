@@ -25,6 +25,7 @@ You can add new symbols by adding to the src/xml the xml file generated into the
 
 convention here is to draw features clockwise, so non-symmetric symbology is displayed correctly.
 
+
 ### Similar projects
 
 The problem of having a meaningful symbology in modern softwares has been in the air from a while.  Similarly to this project some other example have been available and are actively creating interesting solutions.
