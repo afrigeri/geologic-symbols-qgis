@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol clip_to_extent="1" type="line" name="25.074: NDY" tags="planetary geology,fgdc,pippo" alpha="1" force_rhr="0">
+    <symbol clip_to_extent="1" type="line" name="25.074: Base of scarp, planetary—Barb points downscarp" tags="" alpha="1" force_rhr="0">
       <layer class="MarkerLine" locked="0" enabled="1" pass="0">
         <prop v="3" k="interval"/>
         <prop v="3x:0,0,0,0,0,0" k="interval_map_unit_scale"/>

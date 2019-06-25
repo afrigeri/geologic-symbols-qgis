@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol favorite="1" name="25.084: NDY" alpha="1" force_rhr="0" type="line" clip_to_extent="1" tags="fgdc,25.84,planetary,geology">
+    <symbol favorite="1" name="25.084: Elevated plateau, planetary (mapped to scale)— Hachures point downscarp" alpha="1" force_rhr="0" type="line" clip_to_extent="1" tags="fgdc,25.84,planetary,geology">
       <layer locked="0" enabled="1" class="SimpleLine" pass="0">
         <prop k="capstyle" v="square"/>
         <prop k="customdash" v="5;2"/>
