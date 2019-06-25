@@ -24,6 +24,9 @@ all:
 	make update_usgs_patterns
 	make $(TARGET)
 
+all_nonet: clean
+	make $(TARGET)
+
 clean:
 	-rm $(TARGET)
 

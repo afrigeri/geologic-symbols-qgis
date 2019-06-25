@@ -29,6 +29,13 @@ def indent(elem, level=0):
             elem.tail = j
     return elem
 
+def name_parser(name):
+    '''
+    name convention:
+    
+    [name or id] : [ description ]
+    '''
+    return name.split(':')
 
 srcdir = sys.argv[1]
 dst = sys.argv[2] 
@@ -46,10 +53,17 @@ for rootdir, dirs, files in os.walk( srcdir ):
          auth = os.path.dirname( xmlfile ).split('/')[-1]
          tree = ET.parse( xmlfile )
          root = tree.getroot()
-         for symbol in root.findall("./symbols/symbol"):    
-            symbol.attrib['tags'] = auth+',geology'
-            print(symbol.attrib['name'])
-         symbols.append(symbol)   
+         if root.findall("./symbols/symbol"):
+            for symbol in root.findall("./symbols/symbol"):    
+               symbol.attrib['tags'] = auth+',geology'
+               print(symbol.attrib['name'])
+            symbols.append(symbol)   
+         if root.findall("./colorramps/colorramp"):
+            colorramps = ET.SubElement(top, 'colorramps')
+            for colorramp in root.findall("./colorramps/colorramp"):
+               colorramp.attrib['tags'] = auth+',geology'
+               print(colorramp.attrib['name'])
+            colorramps.append(colorramp)
 
 ElementTree(indent(top)).write(dst)
 

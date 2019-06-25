@@ -2,7 +2,7 @@
 <qgis_style version="1">
   <symbols/>
   <colorramps>
-    <colorramp tags="maps,topography" favorite="1" type="preset" name="Parula">
+    <colorramp tags="maps,topography" favorite="1" type="preset" name="Parula: a topographic map gradient">
       <prop k="preset_color_0" v="53,42,135,255"/>
       <prop k="preset_color_1" v="53,44,138,255"/>
       <prop k="preset_color_10" v="54,57,166,255"/>

@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol name="fgdc-25.11" tags="planetary geology,25.117" clip_to_extent="1" type="line" alpha="1" force_rhr="0" favorite="1">
+    <symbol name="25.011: NDY" tags="planetary geology,25.117" clip_to_extent="1" type="line" alpha="1" force_rhr="0" favorite="1">
       <layer enabled="1" pass="0" class="SimpleLine" locked="0">
         <prop k="capstyle" v="square"/>
         <prop k="customdash" v="1.5;0.75"/>
