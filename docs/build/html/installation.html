@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="utf-8" />
-    <title>TEST &#8212; Geologic symbols in QGIS 1.0 documentation</title>
+    <title>Installation &#8212; Geologic symbols in QGIS 1.0 documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
@@ -14,8 +14,8 @@
     <script type="text/javascript" src="_static/language_data.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="&lt;no title&gt;" href="usage.html" />
-    <link rel="prev" title="&lt;no title&gt;" href="intro.html" />
+    <link rel="next" title="Usage and conventions" href="usage.html" />
+    <link rel="prev" title="Introduction" href="intro.html" />
    
   <link rel="stylesheet" href="_static/custom.css" type="text/css" />
   
@@ -32,8 +32,17 @@
 
           <div class="body" role="main">
             
-  <div class="section" id="test">
-<h1>TEST<a class="headerlink" href="#test" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="installation">
+<h1>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li><p>Download the zipfile containing the symbology files.</p></li>
+<li><p>Extract the zip archive and move the svg directory to a place where you want to store the patterns and symbols. It can be any directory.</p></li>
+<li><p>Open QGis and go to ‘Settings -&gt; Options’ (Ubuntu) or ‘Preferences’ (OSX) and select the second tab from the top: ‘System’</p></li>
+<li><p>Under the SVG Paths form click the add button and select the directory where you moved the svg directory</p></li>
+<li><p>In QGis, go to ‘Settings -&gt; Style Manager’ and click on ‘Import/Export -&gt; Import items’ button (at bottom-left)</p></li>
+<li><p>Select the geologic_symblib.xml file you have found in the zip file</p></li>
+</ul>
+<p>You should now have the geologic symbols working in your QGis!</p>
 </div>
 
 
@@ -55,15 +64,19 @@
 <h3>Navigation</h3>
 <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul class="current">
-<li class="toctree-l1 current"><a class="current reference internal" href="#">TEST</a></li>
+<li class="toctree-l1"><a class="reference internal" href="intro.html">Introduction</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="usage.html">Usage and conventions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="developers_guide.html">Adding new symbols to the library</a></li>
+<li class="toctree-l1"><a class="reference internal" href="developers_guide.html#symbol-s-developer-designer-guide">Symbol’s developer/designer guide</a></li>
 </ul>
 
 <div class="relations">
 <h3>Related Topics</h3>
 <ul>
   <li><a href="index.html">Documentation overview</a><ul>
-      <li>Previous: <a href="intro.html" title="previous chapter">&lt;no title&gt;</a></li>
-      <li>Next: <a href="usage.html" title="next chapter">&lt;no title&gt;</a></li>
+      <li>Previous: <a href="intro.html" title="previous chapter">Introduction</a></li>
+      <li>Next: <a href="usage.html" title="next chapter">Usage and conventions</a></li>
   </ul></li>
 </ul>
 </div>
@@ -90,14 +103,14 @@
       <div class="clearer"></div>
     </div>
     <div class="footer">
-      &copy;2019, Alessandro Frigeri.
+      &copy;2019, Alessandro Frigeri IAPS/INAF.
       
       |
       Powered by <a href="http://sphinx-doc.org/">Sphinx 2.1.1</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |
-      <a href="_sources/installation.md.txt"
+      <a href="_sources/installation.rst.txt"
           rel="nofollow">Page source</a>
     </div>
 

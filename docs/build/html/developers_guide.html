@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="utf-8" />
-    <title>Symbols development/design &#8212; Geologic symbols in QGIS 1.0 documentation</title>
+    <title>Adding new symbols to the library &#8212; Geologic symbols in QGIS 1.0 documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
@@ -32,8 +32,32 @@
 
           <div class="body" role="main">
             
-  <div class="section" id="symbols-development-design">
-<h1>Symbols development/design<a class="headerlink" href="#symbols-development-design" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="adding-new-symbols-to-the-library">
+<h1>Adding new symbols to the library<a class="headerlink" href="#adding-new-symbols-to-the-library" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="guidelines-for-new-symbols">
+<h2>Guidelines for new symbols<a class="headerlink" href="#guidelines-for-new-symbols" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>The symbol directory corresponds with the realative authority</p></li>
+<li><p>The symbol’s name is composed by two parts: [NAME] : [Description]</p></li>
+</ol>
+</div>
+</div>
+<div class="section" id="symbol-s-developer-designer-guide">
+<h1>Symbol’s developer/designer guide<a class="headerlink" href="#symbol-s-developer-designer-guide" title="Permalink to this headline">¶</a></h1>
+<p>This guide will drive you through the process of designing new symbols you can submit to the main repository.</p>
+<p>All you have to do is to design your symbol and export it to an xml file which can then be added to the current library.</p>
+<div class="section" id="the-style-manager">
+<h2>The Style Manager<a class="headerlink" href="#the-style-manager" title="Permalink to this headline">¶</a></h2>
+<p>The style manager allow to design a symbol from scratch.</p>
+<img alt="_images/style_manager.png" src="_images/style_manager.png" />
+<p># Authority’s specific Conventions</p>
+<p>### FGCD</p>
+<p>Naming:</p>
+<blockquote>
+<div><p>XX.YYY: string</p>
+</div></blockquote>
+<p>here XX is the name of the FGDC section, and YYY is the code of the symbol, padded with 0s if the number is lower than 100.</p>
+</div>
 </div>
 
 
@@ -55,10 +79,17 @@
 <h3>Navigation</h3>
 <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="intro.html">Geologic Symbos in QGIS</a></li>
-<li class="toctree-l1"><a class="reference internal" href="installation.html">TEST</a></li>
+<li class="toctree-l1"><a class="reference internal" href="intro.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="installation.html">Installation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="usage.html">Usage and conventions</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Symbols development/design</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Adding new symbols to the library</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#guidelines-for-new-symbols">Guidelines for new symbols</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="#symbol-s-developer-designer-guide">Symbol’s developer/designer guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#the-style-manager">The Style Manager</a></li>
+</ul>
+</li>
 </ul>
 
 <div class="relations">
@@ -93,7 +124,7 @@
       <div class="clearer"></div>
     </div>
     <div class="footer">
-      &copy;2019, Alessandro Frigeri.
+      &copy;2019, Alessandro Frigeri IAPS/INAF.
       
       |
       Powered by <a href="http://sphinx-doc.org/">Sphinx 2.1.1</a>

@@ -72,7 +72,7 @@
 
 
 \title{Geologic symbols in QGIS}
-\date{Jun 18, 2019}
+\date{Jun 25, 2019}
 \release{1.0}
 \author{Alessandro Frigeri}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -111,35 +111,61 @@ area patterns: differentiating one terrain/material/unit from another
 \label{\detokenize{intro:guidelines}}
 
 \chapter{Installation}
-\label{\detokenize{installation:installation}}\label{\detokenize{installation::doc}}\begin{itemize}
+\label{\detokenize{installation:installation}}\label{\detokenize{installation::doc}}
+To install the geologic symbol library you need to download the zipfile of the current distribution, which is available at the github project’s page: \sphinxurl{http://www.github.com/afrigeri/geologic-symbols-qgis}.
+
+Once you have the geologic\_symblib.zip, decompress it in a directory of your choice.
+
+For example, if you are running a Mac OSX, you can extract the contents of the zipfile into a folder called \_\_foo\_\_.
+
+Within the \_\_foo\_\_ directory you will find:
+\begin{enumerate}
+\def\theenumi{\arabic{enumi}}
+\def\labelenumi{\theenumi .}
+\makeatletter\def\p@enumii{\p@enumi \theenumi .}\makeatother
 \item {} 
-Download the zipfile containing the symbology files.
+an xml file called geologic\_symblib.xml, which is the symbol library
 
 \item {} 
-Extract the zip archive and move the svg directory to a place where you want to store the patterns and symbols. It can be any directory.
+a folder called svg, which contains svg graphics and patterns
 
-\item {} 
-Open QGis and go to ‘Settings -\textgreater{} Options’ (Ubuntu) or ‘Preferences’ (OSX) and select the second tab from the top: ‘System’
+\end{enumerate}
 
-\item {} 
-Under the SVG Paths form click the add button and select the directory where you moved the svg directory
+Now we can configure QGIS to use the symbol library.
 
-\item {} 
-In QGis, go to ‘Settings -\textgreater{} Style Manager’ and click on ‘Import/Export -\textgreater{} Import items’ button (at bottom-left)
+First we tell QGIS where to look for SVG pattern and graphics.  In the main program go to ‘Settings -\textgreater{} Options’, if you have Linux, or ‘Preferences’ if you run on OSX.  From the panel, select the second tab from the top: ‘System’.
 
-\item {} 
-Select the geologic\_symblib.xml file you have found in the zip file
+In the ‘SVG Paths’ form, click on the ‘+’ button and select the \_\_foo\_\_ directory where the svg folder  and xml file are located.
 
-\end{itemize}
+Then got to the main QGIS menu and open the ‘Style Manager’ window from the ‘Settings’ menu.
 
-You should now have the geologic symbols working in your QGis!
+At the bottom left of the ‘Style Manager’ click on ‘Import/Export’ button and then ‘Import items’.  Now select the geologic\_symblib.xml file.
+
+You should now have the geologic symbol library available in QGIS.  From the Style Manager you can select all the symbols or only a sub-group of them.  For example, you can select only the FGDC symbols by clicking on the fgdc tag on the left part of the Style Manager.
 
 
 \chapter{Usage and conventions}
 \label{\detokenize{usage:usage-and-conventions}}\label{\detokenize{usage::doc}}
 
+\chapter{Adding new symbols to the library}
+\label{\detokenize{developers_guide:adding-new-symbols-to-the-library}}\label{\detokenize{developers_guide::doc}}
+
+\section{Guidelines for new symbols}
+\label{\detokenize{developers_guide:guidelines-for-new-symbols}}\begin{enumerate}
+\def\theenumi{\arabic{enumi}}
+\def\labelenumi{\theenumi .}
+\makeatletter\def\p@enumii{\p@enumi \theenumi .}\makeatother
+\item {} 
+The symbol directory corresponds with the realative authority
+
+\item {} 
+The symbol’s name is composed by two parts: {[}NAME{]} : {[}Description{]}
+
+\end{enumerate}
+
+
 \chapter{Symbol’s developer/designer guide}
-\label{\detokenize{developers_guide:symbol-s-developer-designer-guide}}\label{\detokenize{developers_guide::doc}}
+\label{\detokenize{developers_guide:symbol-s-developer-designer-guide}}
 This guide will drive you through the process of designing new symbols you can submit to the main repository.
 
 All you have to do is to design your symbol and export it to an xml file which can then be added to the current library.

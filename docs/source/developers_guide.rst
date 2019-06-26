@@ -1,3 +1,12 @@
+Adding new symbols to the library
+=================================
+
+Guidelines for new symbols
+--------------------------
+
+1. The symbol directory corresponds with the realative authority  
+2. The symbol's name is composed by two parts: [NAME] : [Description]
+
 
 Symbol's developer/designer guide
 =================================

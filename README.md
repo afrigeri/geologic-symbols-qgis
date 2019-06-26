@@ -17,6 +17,14 @@ Here you find symbols for QGIS useful in geological mapping.  At the moment ther
 6. Select the __geologic_symblib.xml__ file you have found in the zip file
 7. You should now have the geologic symbols working in your QGis!
 
+### How to contribute
+
+There are several options to contribute to this project, as adding new symbols or refer a problem in an existing symbols.
+
+1. Clone and work on your local copy
+or 
+2. Send the symbol you would like to add in the 'issue' section above, making sure the new symbol is aligned with the guidelines for designer.  
+
 ### Development of new symbols
 
 You can add new symbols by adding to the src/xml the xml file generated into the Style Manager.

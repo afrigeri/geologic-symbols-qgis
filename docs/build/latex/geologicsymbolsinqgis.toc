@@ -3,6 +3,8 @@
 \contentsline {section}{\numberline {1.1}Guidelines}{1}{section.1.1}
 \contentsline {chapter}{\numberline {2}Installation}{3}{chapter.2}
 \contentsline {chapter}{\numberline {3}Usage and conventions}{5}{chapter.3}
-\contentsline {chapter}{\numberline {4}Symbol\IeC {\textquoteright }s developer/designer guide}{7}{chapter.4}
-\contentsline {section}{\numberline {4.1}The Style Manager}{7}{section.4.1}
-\contentsline {chapter}{\numberline {5}Indices and tables}{9}{chapter.5}
+\contentsline {chapter}{\numberline {4}Adding new symbols to the library}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Guidelines for new symbols}{7}{section.4.1}
+\contentsline {chapter}{\numberline {5}Symbol\IeC {\textquoteright }s developer/designer guide}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}The Style Manager}{9}{section.5.1}
+\contentsline {chapter}{\numberline {6}Indices and tables}{11}{chapter.6}
