@@ -24,7 +24,11 @@ There are several options to contribute to this project, as adding new symbols o
 
 1. Clone and work on your local copy
 or 
-2. Send the symbol you would like to add in the 'issue' section above, making sure the new symbol is aligned with the guidelines for designer.  
+2. Send the symbol you would like to add in the 'issue' section above on this page. Select the 'New Symbol' green tag and attach the xml of the single symbol.
+
+Remember to follow these simple guidelines:
+1. Symbols should comply as mush as possible with the original instructions.  If something can not be replicated, just indicate it in the issue tracker for future reference.
+2. __Naming__: all the symbols should be named as follow: [code or id] : [Description]. This way it will be much more easier to use the symbols in QGIS.
 
 ### Development of new symbols
 
