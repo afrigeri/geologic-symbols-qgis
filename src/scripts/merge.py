@@ -64,7 +64,7 @@ for rootdir, dirs, files in os.walk( srcdir ):
                n = (symbol.attrib['name'])
                c,d = name_parser( n )
             symbols.append(symbol)
-            writer.value_matrix.append([auth,c,d,''])
+            writer.value_matrix.append([auth,str(c),d,''])
                
          if root.findall("./colorramps/colorramp"):
             colorramps = ET.SubElement(top, 'colorramps')
