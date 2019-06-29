@@ -22,13 +22,13 @@ A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software in
 6. Select the __geologic_symblib.xml__ file you have found in the zip file
 7. You should now have the geologic symbols working in your QGis!
 
-### How to contribute / add new symbols
+### How to contribute: add new symbols or fix existing ones
 
 There are several options to contribute to this project, as adding new symbols or refer a problem in an existing symbols.
 
 1. Clone and work on your local copy 
 or 
-2. If you want to add symbols/graphics to the library, send the single symbol/svg __one symbol/graphics per file__ in the 'issue' section above on this page. Select the 'New Symbol' green tag and attach the xml/svg file to the issue message (you will have to rename it .txt).
+2. If you want to add symbols/graphics or update/fix existing ones, send the single symbol/svg __one symbol/graphics per file__ in the 'issue' section above on this page. When submitting the symbol select the 'New Symbol' green tag of 'Symbol Fix' orange tag from the menu on the right, and attach the xml/svg file to the issue message (you will have to rename it .txt).
 
 Remember to follow these simple guidelines:
 1. Symbols should comply as much as possible with the original instructions.  If something can not be replicated, just indicate it in the issue tracker for future reference.

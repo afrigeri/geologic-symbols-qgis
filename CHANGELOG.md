@@ -13,5 +13,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
-- issue tracker tag __New Symbol__ for new symbols
+- issue tracker tag __new symbol__ for new symbols
+- issue tracker tag __symbol fix__ for fixes to existing symbols 
 
