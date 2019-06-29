@@ -1,17 +1,17 @@
 
 ![QGIS](docs/images/style_manager_v1.png)
 
-## Geologic symbols library and development for QGIS 
-#### Alessandro Frigeri, IAPS/INAF - June, 2019
+# Geologic symbols library and development for QGIS 
+## Alessandro Frigeri, IAPS/INAF - June, 2019
 
 
 Here you find symbols for QGIS useful in geological mapping.  At the moment there are symbols defined by FGDC, but others from different mapping authorities/institutionis can be added.
 
-### System requirements
+## System requirements
 
 A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software installation on MS Windows, OS X or GNU/Linux.
 
-### Installation and setup
+## Installation and setup
 
 1. Download the [zipfile](https://github.com/afrigeri/geologic-symbols-qgis/raw/master/dist/geologic_symbols_qgis.zip) containing the symbology files.
 2. Extract the zip archive and move the __svg__ directory to a place where you want to store the patterns and symbols.  It can be any directory.
@@ -22,7 +22,7 @@ A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software in
 6. Select the __geologic_symblib.xml__ file you have found in the zip file
 7. You should now have the geologic symbols working in your QGis!
 
-### How to contribute: add new symbols or fix existing ones
+## How to contribute: add new symbols or fix existing ones
 
 If you don't find a symbol in the [STATUS](STATUS.md) table, or you have found a mistake, you can contribute to the project.
 
@@ -37,11 +37,11 @@ Remember to follow these simple guidelines:
 2. __Naming__: all the symbols should be named as follow: [code or id] : [Description]. This way it will be much more easier to use the symbols in QGIS.
 3. For __asymmetric symbols__, convention here is to draw features clockwise.
 
-### Usage notes
+## Usage notes and conventions
 
 Convention here is to draw features clockwise, so non-symmetric symbology is displayed correctly.
 
-### Similar projects
+## Similar projects
 
 The problem of having a meaningful symbology in modern softwares has been in the air from a while.  Similarly to this project some other example have been available and are actively creating interesting solutions.
 
@@ -49,7 +49,7 @@ The problem of having a meaningful symbology in modern softwares has been in the
  * [Stefan Revets project on SourceForge, 2015-2016](https://sourceforge.net/projects/qgisgeologysymbology/)
  * [FGCD Geologic Patterns for the Web by Daven Quinn, 2017](https://davenquinn.com/projects/geologic-patterns/). This project adopts the FGDC pattern of Daven Quinn, contributed by USGS personnell.
 
-### References
+## References
 
 * A. Nass, S. van Gasselt, R. Jaumann, H. Asche, Implementation of cartographic symbols for planetary mapping in geographic information systems, Planetary and Space Science, Volume 59, Issues 11-12, September 2011, Pages 1255-1264, ISSN 0032-0633, http://dx.doi.org/10.1016/j.pss.2010.08.022.
 (http://www.sciencedirect.com/science/article/pii/S0032063310002606)
