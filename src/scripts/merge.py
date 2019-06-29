@@ -10,7 +10,12 @@ from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
 import os,sys
 from xml.dom import minidom
 import glob
+from pytablewriter import MarkdownTableWriter
 
+writer = MarkdownTableWriter()
+writer.table_name = "Table of symbols"
+writer.headers = ["Authority", "code", "description", "notes"]
+writer.value_matrix = []
 
 def indent(elem, level=0):
     i = "\n" + level*"  "
@@ -56,8 +61,11 @@ for rootdir, dirs, files in os.walk( srcdir ):
          if root.findall("./symbols/symbol"):
             for symbol in root.findall("./symbols/symbol"):    
                symbol.attrib['tags'] = auth+',geology'
-               print(symbol.attrib['name'])
-            symbols.append(symbol)   
+               n = (symbol.attrib['name'])
+               c,d = name_parser( n )
+            symbols.append(symbol)
+            writer.value_matrix.append([auth,c,d,''])
+               
          if root.findall("./colorramps/colorramp"):
             colorramps = ET.SubElement(top, 'colorramps')
             for colorramp in root.findall("./colorramps/colorramp"):
@@ -66,4 +74,5 @@ for rootdir, dirs, files in os.walk( srcdir ):
             colorramps.append(colorramp)
 
 ElementTree(indent(top)).write(dst)
-
+writer.write_table()
+writer.dump("../STATUS.md")

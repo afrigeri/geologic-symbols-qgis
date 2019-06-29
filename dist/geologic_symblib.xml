@@ -839,7 +839,7 @@
           <prop k="color" v="255,0,0,255" />
           <prop k="fixedAspectRatio" v="0" />
           <prop k="horizontal_anchor_point" v="1" />
-          <prop k="name" v="symbols/fgdc/fgdc-25.117_arrow.svg" />
+          <prop k="name" v="svg/symbols/fgdc/fgdc-25.117_arrow.svg" />
           <prop k="offset" v="0,0" />
           <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
           <prop k="offset_unit" v="MM" />
