@@ -24,6 +24,8 @@ A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software in
 
 ### How to contribute: add new symbols or fix existing ones
 
+If you don't find a symbol in the [STATUS](STATUS.md) table, or you have found a mistake, you can contribute to the project.
+
 There are several options to contribute to this project, as adding new symbols or refer a problem in an existing symbols.
 
 1. Clone and work on your local copy 
