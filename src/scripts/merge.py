@@ -11,9 +11,10 @@ import os,sys
 from xml.dom import minidom
 import glob
 from pytablewriter import MarkdownTableWriter
+import datetime
 
 writer = MarkdownTableWriter()
-writer.table_name = "Table of symbols"
+writer.table_name = "Table of symbols, updated "+datetime.date.today().strftime("%B %d, %Y")
 writer.headers = ["Authority", "code", "description", "notes"]
 writer.value_matrix = []
 

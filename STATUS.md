@@ -1,4 +1,4 @@
-# Table of symbols
+# Table of symbols, updated June 29, 2019
 |Authority |  code  |                                        description                                         |notes|
 |----------|--------|--------------------------------------------------------------------------------------------|-----|
 |colorramps|Parula  | a topographic map gradient                                                                 |     |
