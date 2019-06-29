@@ -70,8 +70,10 @@ for rootdir, dirs, files in os.walk( srcdir ):
             colorramps = ET.SubElement(top, 'colorramps')
             for colorramp in root.findall("./colorramps/colorramp"):
                colorramp.attrib['tags'] = auth+',geology'
-               print(colorramp.attrib['name'])
+               n = colorramp.attrib['name']
+               c,d = name_parser( n )
             colorramps.append(colorramp)
+            writer.value_matrix.append([auth,str(c),d,''])
 
 ElementTree(indent(top)).write(dst)
 writer.write_table()
