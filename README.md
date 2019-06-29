@@ -39,7 +39,7 @@ Remember to follow these simple guidelines:
 
 ## Usage notes and conventions
 
-Convention here is to draw features clockwise, so non-symmetric symbology is displayed correctly.
+Convention here is to draw area features clockwise, and linear features with patterns drawn on the left side, so non-symmetric symbology is displayed correctly.
 
 ## Similar projects
 
