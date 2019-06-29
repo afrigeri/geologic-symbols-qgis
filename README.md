@@ -5,7 +5,7 @@
 #### Alessandro Frigeri, IAPS/INAF - June, 2019
 
 
-This project brings into QGIS symbols useful in geological mapping.  Styling for points, lines, fill patterns and gradients are included.  The symbols currently included in the library can be found in the (STATUS table)[STATUS.md].  Currently the library includes symbols defined by FGDC, but others from different mapping authorities/institutionis can be added.
+This project brings into QGIS symbols useful in geological mapping.  Styling for points, lines, fill patterns and gradients are included.  The symbols currently included in the library can be found in the [STATUS table](STATUS.md).  Currently the library includes symbols defined by FGDC, but others from different mapping authorities/institutionis can be added.
 
 ## System requirements
 
