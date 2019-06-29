@@ -7,37 +7,37 @@
 
 Here you find symbols for QGIS useful in geological mapping.  At the moment there are symbols defined by FGDC, but others from different mapping authorities/institutionis can be added.
 
+### System requirements
+
+A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software installation on MS Windows, OS X or GNU/Linux.
+
 ### Installation and setup
 
 1. Download the [zipfile](https://github.com/afrigeri/geologic-symbols-qgis/raw/master/dist/geologic_symbols_qgis.zip) containing the symbology files.
 2. Extract the zip archive and move the __svg__ directory to a place where you want to store the patterns and symbols.  It can be any directory.
 3. Open QGis and go to 'Settings -> Options' (Ubuntu) or 'Preferences' (OSX) and select the second tab from the top: 'System'
 4. Under the __SVG Paths__ form click the add button and select the the __svg__ directory you have just extracted from the zipfile.
-5. close and open QGIS to make __SVG Paths__ modification active
+5. Quit and open QGIS to make __SVG Paths__ modification active
 5. In QGis, go to 'Settings -> Style Manager' and click on 'Import/Export -> Import items' button (at bottom-left)
 6. Select the __geologic_symblib.xml__ file you have found in the zip file
 7. You should now have the geologic symbols working in your QGis!
 
-### How to contribute
+### How to contribute / add new symbols
 
 There are several options to contribute to this project, as adding new symbols or refer a problem in an existing symbols.
 
-1. Clone and work on your local copy
+1. Clone and work on your local copy 
 or 
-2. Send the symbol you would like to add in the 'issue' section above on this page. Select the 'New Symbol' green tag and attach the xml of the single symbol.
+2. If you want to add symbols/graphics to the library, send the single symbol/svg __one symbol/graphics a time__ in the 'issue' section above on this page. Select the 'New Symbol' green tag and attach the xml/svg file to the issue message (you will have to rename it .txt).
 
 Remember to follow these simple guidelines:
-1. Symbols should comply as mush as possible with the original instructions.  If something can not be replicated, just indicate it in the issue tracker for future reference.
+1. Symbols should comply as much as possible with the original instructions.  If something can not be replicated, just indicate it in the issue tracker for future reference.
 2. __Naming__: all the symbols should be named as follow: [code or id] : [Description]. This way it will be much more easier to use the symbols in QGIS.
-
-### Development of new symbols
-
-You can add new symbols by adding to the src/xml the xml file generated into the Style Manager.
+3. For __asymmetric symbols__, convention here is to draw features clockwise.
 
 ### Usage notes
 
-convention here is to draw features clockwise, so non-symmetric symbology is displayed correctly.
-
+Convention here is to draw features clockwise, so non-symmetric symbology is displayed correctly.
 
 ### Similar projects
 
