@@ -3,9 +3,13 @@
 |----------|--------|-----------------------------------------------------------------------------------------------------|-----|
 |colorramps|Parula  | a topographic map gradient                                                                          |     |
 |fgdc      |25.018  | Strike-slip fault, planetary, left-lateral offset—Location approximate. Arrows show relative motion |     |
+|fgdc      |25.034  | Concentric fracture, planetary (associated with coronae)                                            |     |
 |fgdc      |25.019  | Strike-slip fault, planetary, left-lateral offset—Location inferred. Arrows show relative motion    |     |
 |fgdc      |25.033  | Radial fracture, planetary (associated with coronae)                                                |     |
+|fgdc      |25.022  | Thrust fault, planetary—Location approximate. Sawteeth on upper plate                               |     |
+|fgdc      |25.023  | Thrust fault, planetary—Location inferred. Sawteeth on upper plate                                  |     |
 |fgdc      |17.001  | NDY                                                                                                 |     |
+|fgdc      |25.021  | Thrust fault, planetary—Location accurate. Sawteeth on upper plate                                  |     |
 |fgdc      |25.009  | Normal fault, planetary - Location accurate. Ball and bar on downthrown block                       |     |
 |fgdc      |25.008  | Fault, planetary, sense of offset unspecified - location concealed                                  |     |
 |fgdc      |25.034  | Concentric fracture, planetary (associated with coronae)                                            |     |
