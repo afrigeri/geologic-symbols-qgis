@@ -1,7 +1,501 @@
 <qgis_style version="1">
   <!--geologic symbols for QGis-->
 <symbols>
-    <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.033: Radial fracture, planetary (associated with coronae)" tags="fgdc,geology" type="line">
+    <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.018: Strike-slip fault, planetary, left-lateral offset&#8212;Location approximate. Arrows show relative motion" tags="fgdc,geology" type="line">
+      <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="-0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.018: Strike-slip fault, planetary, left-lateral offset&#8212;Location approximate. Arrows show relative motion@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="5" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="lastvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.018: Strike-slip fault, planetary, left-lateral offset&#8212;Location approximate. Arrows show relative motion@0@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.018: Strike-slip fault, planetary, left-lateral offset&#8212;Location approximate. Arrows show relative motion@1" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="3" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="-0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="firstvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.018: Strike-slip fault, planetary, left-lateral offset&#8212;Location approximate. Arrows show relative motion@1@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="3.5;0.75" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.375" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="1" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.019: Strike-slip fault, planetary, left-lateral offset&#8212;Location inferred. Arrows show relative motion" tags="fgdc,geology" type="line">
+      <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="-0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.019: Strike-slip fault, planetary, left-lateral offset&#8212;Location inferred. Arrows show relative motion@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="5" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="lastvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.019: Strike-slip fault, planetary, left-lateral offset&#8212;Location inferred. Arrows show relative motion@0@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.019: Strike-slip fault, planetary, left-lateral offset&#8212;Location inferred. Arrows show relative motion@1" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="3" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="-0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="firstvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.019: Strike-slip fault, planetary, left-lateral offset&#8212;Location inferred. Arrows show relative motion@1@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="1.5;0.75" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.375" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="1" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.033: Radial fracture, planetary (associated with coronae)" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
       <prop k="customdash" v="5;2" />
@@ -203,6 +697,253 @@
       <prop k="offset_unit" v="MM" />
       <prop k="ring_filter" v="0" />
       <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.020: Strike-slip fault, planetary, left-lateral offset&#8212;Location concealed. Arrows show relative motion" tags="fgdc,geology" type="line">
+      <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="-0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.020: Strike-slip fault, planetary, left-lateral offset&#8212;Location concealed. Arrows show relative motion@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="5" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="lastvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.020: Strike-slip fault, planetary, left-lateral offset&#8212;Location concealed. Arrows show relative motion@0@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.020: Strike-slip fault, planetary, left-lateral offset&#8212;Location concealed. Arrows show relative motion@1" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="3" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="-0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="firstvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.020: Strike-slip fault, planetary, left-lateral offset&#8212;Location concealed. Arrows show relative motion@1@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="0.5;0.75" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.375" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="1" />
       <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <data_defined_properties>
           <Option type="Map">
@@ -1337,6 +2078,500 @@
         </data_defined_properties>
       </layer>
     </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.013: Strike-slip fault, planetary, right-lateral offset&#8212;Location accurate. Arrows show relative motion" tags="fgdc,geology" type="line">
+      <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="-0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.013: Strike-slip fault, planetary, right-lateral offset&#8212;Location accurate. Arrows show relative motion@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="-75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="5" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="firstvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.013: Strike-slip fault, planetary, right-lateral offset&#8212;Location accurate. Arrows show relative motion@0@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.013: Strike-slip fault, planetary, right-lateral offset&#8212;Location accurate. Arrows show relative motion@1" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="-75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="3" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="-0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="lastvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.013: Strike-slip fault, planetary, right-lateral offset&#8212;Location accurate. Arrows show relative motion@1@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="1.5;0.75" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.375" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.017: Strike-slip fault, planetary, left-lateral offset&#8212;Location accurate. Arrows show relative motion" tags="fgdc,geology" type="line">
+      <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="-0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.017: Strike-slip fault, planetary, left-lateral offset&#8212;Location accurate. Arrows show relative motion@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="5" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="lastvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.017: Strike-slip fault, planetary, left-lateral offset&#8212;Location accurate. Arrows show relative motion@0@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.017: Strike-slip fault, planetary, left-lateral offset&#8212;Location accurate. Arrows show relative motion@1" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="3" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="-0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="firstvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.017: Strike-slip fault, planetary, left-lateral offset&#8212;Location accurate. Arrows show relative motion@1@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="3.5;0.75" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.375" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
   <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.003: Contact, planetary - Location inferred" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
@@ -1375,6 +2610,747 @@
       <prop k="line_color" v="0,0,0,255" />
       <prop k="line_style" v="dash" />
       <prop k="line_width" v="0.15" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="1" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.016: Strike-slip fault, planetary, right-lateral offset&#8212;Location concealed. Arrows show relative motion" tags="fgdc,geology" type="line">
+      <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="-0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.016: Strike-slip fault, planetary, right-lateral offset&#8212;Location concealed. Arrows show relative motion@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="-75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="5" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="firstvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.016: Strike-slip fault, planetary, right-lateral offset&#8212;Location concealed. Arrows show relative motion@0@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.016: Strike-slip fault, planetary, right-lateral offset&#8212;Location concealed. Arrows show relative motion@1" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="-75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="3" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="-0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="lastvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.016: Strike-slip fault, planetary, right-lateral offset&#8212;Location concealed. Arrows show relative motion@1@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="0.5;0.75" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.375" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="1" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.014: Strike-slip fault, planetary, right-lateral offset&#8212;Location approximate. Arrows show relative motion" tags="fgdc,geology" type="line">
+      <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="-0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.014: Strike-slip fault, planetary, right-lateral offset&#8212;Location approximate. Arrows show relative motion@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="-75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="5" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="firstvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.014: Strike-slip fault, planetary, right-lateral offset&#8212;Location approximate. Arrows show relative motion@0@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.014: Strike-slip fault, planetary, right-lateral offset&#8212;Location approximate. Arrows show relative motion@1" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="-75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="3" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="-0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="lastvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.014: Strike-slip fault, planetary, right-lateral offset&#8212;Location approximate. Arrows show relative motion@1@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="3.5;0.75" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.375" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="1" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.015: Strike-slip fault, planetary, right-lateral offset&#8212;Location inferred. Arrows show relative motion" tags="fgdc,geology" type="line">
+      <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="-0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.015: Strike-slip fault, planetary, right-lateral offset&#8212;Location inferred. Arrows show relative motion@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="-75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="5" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="firstvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.015: Strike-slip fault, planetary, right-lateral offset&#8212;Location inferred. Arrows show relative motion@0@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="90" />
+      <prop k="hash_length" v="5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0.8" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.015: Strike-slip fault, planetary, right-lateral offset&#8212;Location inferred. Arrows show relative motion@1" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="0,0,0,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.2" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        <layer class="HashLine" enabled="1" locked="0" pass="0">
+            <prop k="average_angle_length" v="4" />
+          <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="average_angle_unit" v="MM" />
+          <prop k="hash_angle" v="-75" />
+          <prop k="hash_length" v="1.93" />
+          <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="hash_length_unit" v="MM" />
+          <prop k="interval" v="3" />
+          <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="interval_unit" v="MM" />
+          <prop k="offset" v="-0.41" />
+          <prop k="offset_along_line" v="1.1" />
+          <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_along_line_unit" v="MM" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="placement" v="lastvertex" />
+          <prop k="ring_filter" v="0" />
+          <prop k="rotate" v="1" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@@25.015: Strike-slip fault, planetary, right-lateral offset&#8212;Location inferred. Arrows show relative motion@1@1" type="line">
+              <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+                <prop k="capstyle" v="square" />
+              <prop k="customdash" v="5;2" />
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="customdash_unit" v="MM" />
+              <prop k="draw_inside_polygon" v="0" />
+              <prop k="joinstyle" v="bevel" />
+              <prop k="line_color" v="0,0,0,255" />
+              <prop k="line_style" v="solid" />
+              <prop k="line_width" v="0.2" />
+              <prop k="line_width_unit" v="MM" />
+              <prop k="offset" v="0" />
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <prop k="offset_unit" v="MM" />
+              <prop k="ring_filter" v="0" />
+              <prop k="use_custom_dash" v="0" />
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+              <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" type="QString" value="" />
+                  <Option name="properties" />
+                  <Option name="type" type="QString" value="collection" />
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="1.5;0.75" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.375" />
       <prop k="line_width_unit" v="MM" />
       <prop k="offset" v="0" />
       <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
