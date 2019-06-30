@@ -1,0 +1,86 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols>
+    <symbol force_rhr="0" name="25.022: Thrust fault, planetary—Location approximate. Sawteeth on upper plate" clip_to_extent="1" tags="fgdc,geology,fgdc_25.021-024_VG20190628" alpha="1" type="line">
+      <layer class="SimpleLine" pass="0" locked="0" enabled="1">
+        <prop v="square" k="capstyle"/>
+        <prop v="3.5;0.75" k="customdash"/>
+        <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+        <prop v="MM" k="customdash_unit"/>
+        <prop v="0" k="draw_inside_polygon"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0,0,255" k="line_color"/>
+        <prop v="solid" k="line_style"/>
+        <prop v="0.375" k="line_width"/>
+        <prop v="MM" k="line_width_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="use_custom_dash"/>
+        <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer class="MarkerLine" pass="0" locked="0" enabled="1">
+        <prop v="4" k="average_angle_length"/>
+        <prop v="3x:0,0,0,0,0,0" k="average_angle_map_unit_scale"/>
+        <prop v="MM" k="average_angle_unit"/>
+        <prop v="12.75" k="interval"/>
+        <prop v="3x:0,0,0,0,0,0" k="interval_map_unit_scale"/>
+        <prop v="MM" k="interval_unit"/>
+        <prop v="0" k="offset"/>
+        <prop v="1.75" k="offset_along_line"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_along_line_map_unit_scale"/>
+        <prop v="MM" k="offset_along_line_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="MM" k="offset_unit"/>
+        <prop v="interval" k="placement"/>
+        <prop v="0" k="ring_filter"/>
+        <prop v="1" k="rotate"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+        <symbol force_rhr="0" name="@25.022: Thrust fault, planetary—Location approximate. Sawteeth on upper plate@1" clip_to_extent="1" alpha="1" type="marker">
+          <layer class="SimpleMarker" pass="0" locked="0" enabled="1">
+            <prop v="180" k="angle"/>
+            <prop v="0,0,0,255" k="color"/>
+            <prop v="1" k="horizontal_anchor_point"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="triangle" k="name"/>
+            <prop v="0,-0.80000000000000004" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="MM" k="offset_unit"/>
+            <prop v="35,35,35,255" k="outline_color"/>
+            <prop v="no" k="outline_style"/>
+            <prop v="0" k="outline_width"/>
+            <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+            <prop v="MM" k="outline_width_unit"/>
+            <prop v="diameter" k="scale_method"/>
+            <prop v="1.5" k="size"/>
+            <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+            <prop v="MM" k="size_unit"/>
+            <prop v="1" k="vertical_anchor_point"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option value="" name="name" type="QString"/>
+                <Option name="properties"/>
+                <Option value="collection" name="type" type="QString"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+</qgis_style>
