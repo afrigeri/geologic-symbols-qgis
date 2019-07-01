@@ -18,6 +18,7 @@
 |fgdc      |25.126  |  Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow         |     |
 |fgdc      |25.118  | Dark-colored ejecta, planetary                                                                      |     |
 |fgdc      |25.119  | Light-colored ejecta, planetary                                                                     |     |
+|fgdc      |25.122  | Secondary crater field, planetary                                                                   |     |
 |fgdc      |30.1.001| Index topographic contour (1st option)                                                              |     |
 |fgdc      |25.058  | Narrow channel (possible lava channel), planetary - Arrows point in direction of flow               |     |
 |fgdc      |30.1.003| Intermediate topographic contour (1st option)                                                       |     |
