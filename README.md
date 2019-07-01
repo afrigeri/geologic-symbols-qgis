@@ -1,5 +1,5 @@
 
-![QGIS](docs/images/style_manager_v1.png)
+![QGIS](docs/images/ss02.png)
 
 # Geologic symbols library and development for QGIS 
 #### Alessandro Frigeri, IAPS/INAF - June, 2019
