@@ -2,7 +2,7 @@
 We have 1 entries for colorramps.
 We have 41 entries for fgdc.
 
-                |notes|
+|Authority |  code  |                                             description                                             |notes|
 |----------|--------|-----------------------------------------------------------------------------------------------------|-----|
 |colorramps|Parula  | a topographic map gradient                                                                          |     |
 |fgdc      |25.018  | Strike-slip fault, planetary, left-lateral offset—Location approximate. Arrows show relative motion |     |
