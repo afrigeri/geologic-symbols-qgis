@@ -1,5 +1,8 @@
 # Table of symbols, updated July 01, 2019
-|Authority |  code  |                                             description                                             |notes|
+We have 1 entries for colorramps.
+We have 41 entries for fgdc.
+
+                |notes|
 |----------|--------|-----------------------------------------------------------------------------------------------------|-----|
 |colorramps|Parula  | a topographic map gradient                                                                          |     |
 |fgdc      |25.018  | Strike-slip fault, planetary, left-lateral offset—Location approximate. Arrows show relative motion |     |
