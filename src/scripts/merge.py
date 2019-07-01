@@ -70,6 +70,7 @@ for rootdir, dirs, files in os.walk( srcdir ):
             for symbol in root.findall("./symbols/symbol"):    
                symbol.attrib['tags'] = auth+',geology'
                n = (symbol.attrib['name'])
+               print(n)
                c,d = name_parser( n )
             symbols.append(symbol)
             count_dict[auth] += 1
