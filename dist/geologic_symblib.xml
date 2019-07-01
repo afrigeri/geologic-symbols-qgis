@@ -1,144 +1,7 @@
 <qgis_style version="1">
   <!--geologic symbols for QGis-->
 <symbols>
-    <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.045: Ridge crest (possible dike), planetary" tags="xml,geology" type="line">
-      <layer class="HashLine" enabled="1" locked="0" pass="0">
-        <prop k="average_angle_length" v="4" />
-      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="average_angle_unit" v="MM" />
-      <prop k="hash_angle" v="20" />
-      <prop k="hash_length" v="3.5" />
-      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="hash_length_unit" v="MM" />
-      <prop k="interval" v="3" />
-      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="interval_unit" v="MM" />
-      <prop k="offset" v="0" />
-      <prop k="offset_along_line" v="0" />
-      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="offset_along_line_unit" v="MM" />
-      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="offset_unit" v="MM" />
-      <prop k="placement" v="centralpoint" />
-      <prop k="ring_filter" v="0" />
-      <prop k="rotate" v="1" />
-      <data_defined_properties>
-          <Option type="Map">
-            <Option name="name" type="QString" value="" />
-          <Option name="properties" />
-          <Option name="type" type="QString" value="collection" />
-          </Option>
-        </data_defined_properties>
-      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.045: Ridge crest (possible dike), planetary@0" type="line">
-          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
-            <prop k="capstyle" v="square" />
-          <prop k="customdash" v="5;2" />
-          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
-          <prop k="customdash_unit" v="MM" />
-          <prop k="draw_inside_polygon" v="0" />
-          <prop k="joinstyle" v="bevel" />
-          <prop k="line_color" v="35,35,35,255" />
-          <prop k="line_style" v="solid" />
-          <prop k="line_width" v="0.26" />
-          <prop k="line_width_unit" v="MM" />
-          <prop k="offset" v="0" />
-          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
-          <prop k="offset_unit" v="MM" />
-          <prop k="ring_filter" v="0" />
-          <prop k="use_custom_dash" v="0" />
-          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
-          <data_defined_properties>
-              <Option type="Map">
-                <Option name="name" type="QString" value="" />
-              <Option name="properties" />
-              <Option name="type" type="QString" value="collection" />
-              </Option>
-            </data_defined_properties>
-          </layer>
-        </symbol>
-      </layer>
-    <layer class="HashLine" enabled="1" locked="0" pass="0">
-        <prop k="average_angle_length" v="4" />
-      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="average_angle_unit" v="MM" />
-      <prop k="hash_angle" v="-20" />
-      <prop k="hash_length" v="3.5" />
-      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="hash_length_unit" v="MM" />
-      <prop k="interval" v="3" />
-      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="interval_unit" v="MM" />
-      <prop k="offset" v="0" />
-      <prop k="offset_along_line" v="0" />
-      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="offset_along_line_unit" v="MM" />
-      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="offset_unit" v="MM" />
-      <prop k="placement" v="centralpoint" />
-      <prop k="ring_filter" v="0" />
-      <prop k="rotate" v="1" />
-      <data_defined_properties>
-          <Option type="Map">
-            <Option name="name" type="QString" value="" />
-          <Option name="properties" />
-          <Option name="type" type="QString" value="collection" />
-          </Option>
-        </data_defined_properties>
-      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.045: Ridge crest (possible dike), planetary@1" type="line">
-          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
-            <prop k="capstyle" v="square" />
-          <prop k="customdash" v="5;2" />
-          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
-          <prop k="customdash_unit" v="MM" />
-          <prop k="draw_inside_polygon" v="0" />
-          <prop k="joinstyle" v="bevel" />
-          <prop k="line_color" v="35,35,35,255" />
-          <prop k="line_style" v="solid" />
-          <prop k="line_width" v="0.25" />
-          <prop k="line_width_unit" v="MM" />
-          <prop k="offset" v="0" />
-          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
-          <prop k="offset_unit" v="MM" />
-          <prop k="ring_filter" v="0" />
-          <prop k="use_custom_dash" v="0" />
-          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
-          <data_defined_properties>
-              <Option type="Map">
-                <Option name="name" type="QString" value="" />
-              <Option name="properties" />
-              <Option name="type" type="QString" value="collection" />
-              </Option>
-            </data_defined_properties>
-          </layer>
-        </symbol>
-      </layer>
-    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
-        <prop k="capstyle" v="square" />
-      <prop k="customdash" v="5;2" />
-      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="customdash_unit" v="MM" />
-      <prop k="draw_inside_polygon" v="0" />
-      <prop k="joinstyle" v="round" />
-      <prop k="line_color" v="35,35,35,255" />
-      <prop k="line_style" v="solid" />
-      <prop k="line_width" v="0.25" />
-      <prop k="line_width_unit" v="MM" />
-      <prop k="offset" v="0" />
-      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <prop k="offset_unit" v="MM" />
-      <prop k="ring_filter" v="0" />
-      <prop k="use_custom_dash" v="0" />
-      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
-      <data_defined_properties>
-          <Option type="Map">
-            <Option name="name" type="QString" value="" />
-          <Option name="properties" />
-          <Option name="type" type="QString" value="collection" />
-          </Option>
-        </data_defined_properties>
-      </layer>
-    </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.018: Strike-slip fault, planetary, left-lateral offset&#8212;Location approximate. Arrows show relative motion" tags="fgdc,geology" type="line">
+    <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.018: Strike-slip fault, planetary, left-lateral offset&#8212;Location approximate. Arrows show relative motion" tags="fgdc,geology" type="line">
       <layer class="HashLine" enabled="1" locked="0" pass="0">
         <prop k="average_angle_length" v="4" />
       <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
@@ -1582,6 +1445,143 @@
             </data_defined_properties>
           </layer>
         </symbol>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.045: Ridge crest (possible dike), planetary" tags="fgdc,geology" type="line">
+      <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="20" />
+      <prop k="hash_length" v="3.5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.045: Ridge crest (possible dike), planetary@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="HashLine" enabled="1" locked="0" pass="0">
+        <prop k="average_angle_length" v="4" />
+      <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="average_angle_unit" v="MM" />
+      <prop k="hash_angle" v="-20" />
+      <prop k="hash_length" v="3.5" />
+      <prop k="hash_length_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="hash_length_unit" v="MM" />
+      <prop k="interval" v="3" />
+      <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="interval_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_along_line" v="0" />
+      <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_along_line_unit" v="MM" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="placement" v="centralpoint" />
+      <prop k="ring_filter" v="0" />
+      <prop k="rotate" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.045: Ridge crest (possible dike), planetary@1" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.25" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="round" />
+      <prop k="line_color" v="35,35,35,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.25" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
       </layer>
     </symbol>
   <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.119: Light-colored ejecta, planetary" tags="fgdc,geology" type="fill">

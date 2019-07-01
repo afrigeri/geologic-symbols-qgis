@@ -1,8 +1,7 @@
 # Table of symbols, updated July 01, 2019
 There are:
- * 1 entries for xml.
  * 1 entries for extra.
- * 42 entries for fgdc.
+ * 43 entries for fgdc.
 
 |Authority|  code  |                                             description                                             |notes|
 |---------|--------|-----------------------------------------------------------------------------------------------------|-----|
@@ -35,6 +34,7 @@ There are:
 |fgdc     |25.034  | Concentric fracture, planetary (associated with coronae)                                            |     |
 |fgdc     |25.034  | Concentric fracture, planetary (associated with coronae)                                            |     |
 |fgdc     |25.041  | Ridge crest, planetary (1st option)                                                                 |     |
+|fgdc     |25.045  | Ridge crest (possible dike), planetary                                                              |     |
 |fgdc     |25.058  | Narrow channel (possible lava channel), planetary - Arrows point in direction of flow               |     |
 |fgdc     |25.074  | Base of scarp, planetary—Barb points downscarp                                                      |     |
 |fgdc     |25.084  | Elevated plateau, planetary (mapped to scale)— Hachures point downscarp                             |     |
@@ -49,4 +49,3 @@ There are:
 |fgdc     |30.1.001| Index topographic contour (1st option)                                                              |     |
 |fgdc     |30.1.003| Intermediate topographic contour (1st option)                                                       |     |
 |fgdc     |31.021  | Sample locality—Showing sample number                                                               |     |
-|xml      |25.045  | Ridge crest (possible dike), planetary                                                              |     |
