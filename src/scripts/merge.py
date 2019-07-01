@@ -87,6 +87,7 @@ for rootdir, dirs, files in os.walk( srcdir ):
             writer.value_matrix.append([auth,str(c),d,''])
 
 ElementTree(indent(top)).write(dst)
+writer.value_matrix.sort()
 writer.write_table()
 status_file.write(status_header)
 status_file.write("There are:\n")    
