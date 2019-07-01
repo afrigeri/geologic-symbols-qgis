@@ -3792,7 +3792,7 @@
     </symbol>
   </symbols>
 <colorramps>
-    <colorramp favorite="1" name="Parula: a topographic map gradient" tags="colorramps,geology" type="preset">
+    <colorramp favorite="1" name="Parula: a topographic map gradient" tags="extra,geology" type="preset">
       <prop k="preset_color_0" v="53,42,135,255" />
     <prop k="preset_color_1" v="53,44,138,255" />
     <prop k="preset_color_10" v="54,57,166,255" />

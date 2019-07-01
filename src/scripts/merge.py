@@ -88,8 +88,9 @@ for rootdir, dirs, files in os.walk( srcdir ):
 ElementTree(indent(top)).write(dst)
 writer.write_table()
 status_file.write(status_header)
+status_file.write("There are:\n")    
 for k in count_dict.keys():
-    status_file.write("We have %d entries for %s.\n"%(count_dict[k],k))    
+    status_file.write(" * %d entries for %s.\n"%(count_dict[k],k))    
 status_file.write("\n")    
 
 status_file.write(writer.dumps()) 
