@@ -21,6 +21,7 @@
 |fgdc      |30.1.001| Index topographic contour (1st option)                                                              |     |
 |fgdc      |25.058  | Narrow channel (possible lava channel), planetary - Arrows point in direction of flow               |     |
 |fgdc      |30.1.003| Intermediate topographic contour (1st option)                                                       |     |
+|fgdc      |25.124  | Joint or fracture pattern, planetary                                                                |     |
 |fgdc      |25.074  | Base of scarp, planetary—Barb points downscarp                                                      |     |
 |fgdc      |25.101  | Central peak of impact crater, planetary (1st option)                                               |     |
 |fgdc      |25.117  | Slide or slump material, planetary—Arrow indicates direction of movement                            |     |
