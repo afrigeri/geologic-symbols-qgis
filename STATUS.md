@@ -1,5 +1,6 @@
 # Table of symbols, updated July 01, 2019
 There are:
+ * 1 entries for xml.
  * 1 entries for extra.
  * 42 entries for fgdc.
 
@@ -48,3 +49,4 @@ There are:
 |fgdc     |30.1.001| Index topographic contour (1st option)                                                              |     |
 |fgdc     |30.1.003| Intermediate topographic contour (1st option)                                                       |     |
 |fgdc     |31.021  | Sample locality—Showing sample number                                                               |     |
+|xml      |25.045  | Ridge crest (possible dike), planetary                                                              |     |
