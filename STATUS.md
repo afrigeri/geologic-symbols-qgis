@@ -1,4 +1,4 @@
-# Table of symbols, updated June 30, 2019
+# Table of symbols, updated July 01, 2019
 |Authority |  code  |                                             description                                             |notes|
 |----------|--------|-----------------------------------------------------------------------------------------------------|-----|
 |colorramps|Parula  | a topographic map gradient                                                                          |     |
@@ -8,7 +8,7 @@
 |fgdc      |25.033  | Radial fracture, planetary (associated with coronae)                                                |     |
 |fgdc      |25.022  | Thrust fault, planetary—Location approximate. Sawteeth on upper plate                               |     |
 |fgdc      |25.023  | Thrust fault, planetary—Location inferred. Sawteeth on upper plate                                  |     |
-|fgdc      |17.001  | NDY                                                                                                 |     |
+|fgdc      |17.001  | Outline of slip surface of landslide—Identity and existence certain, location accurate              |     |
 |fgdc      |25.021  | Thrust fault, planetary—Location accurate. Sawteeth on upper plate                                  |     |
 |fgdc      |25.009  | Normal fault, planetary - Location accurate. Ball and bar on downthrown block                       |     |
 |fgdc      |25.008  | Fault, planetary, sense of offset unspecified - location concealed                                  |     |
@@ -18,9 +18,9 @@
 |fgdc      |25.126  |  Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow         |     |
 |fgdc      |25.118  | Dark-colored ejecta, planetary                                                                      |     |
 |fgdc      |25.119  | Light-colored ejecta, planetary                                                                     |     |
-|fgdc      |30.1.001| NDY                                                                                                 |     |
+|fgdc      |30.1.001| Index topographic contour (1st option)                                                              |     |
 |fgdc      |25.058  | Narrow channel (possible lava channel), planetary - Arrows point in direction of flow               |     |
-|fgdc      |30.1.003| NDY                                                                                                 |     |
+|fgdc      |30.1.003| Intermediate topographic contour (1st option)                                                       |     |
 |fgdc      |25.074  | Base of scarp, planetary—Barb points downscarp                                                      |     |
 |fgdc      |25.101  | Central peak of impact crater, planetary (1st option)                                               |     |
 |fgdc      |25.117  | Slide or slump material, planetary—Arrow indicates direction of movement                            |     |
@@ -40,4 +40,4 @@
 |fgdc      |25.014  | Strike-slip fault, planetary, right-lateral offset—Location approximate. Arrows show relative motion|     |
 |fgdc      |25.015  | Strike-slip fault, planetary, right-lateral offset—Location inferred. Arrows show relative motion   |     |
 |fgdc      |25.001  | Contact, planetary - Location accurate                                                              |     |
-|fgdc      |31.021  | NDY                                                                                                 |     |
+|fgdc      |31.021  | Sample locality—Showing sample number                                                               |     |
