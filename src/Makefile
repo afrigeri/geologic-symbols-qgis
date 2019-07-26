@@ -18,7 +18,7 @@ DIST_FILES := svg $(DIST_DIR)/$(TARGET_XML)
 
 $(TARGET): $(SRC_DIR)
 	mkdir -p $(DIST_DIR)
-	python3.6 scripts/merge.py $< $@
+	python3 scripts/merge.py $< $@
 
 all:
 	make update_usgs_patterns
