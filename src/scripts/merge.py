@@ -13,10 +13,30 @@ import glob
 from pytablewriter import MarkdownTableWriter
 import datetime
 
+from PyQt5.QtCore import QSize
+from PyQt5.QtGui import QImage, QPainter
+ 
+import qgis
+from qgis.core import (QgsSymbol,
+                       QgsFillSymbol,
+                       QgsMarkerSymbol,
+                       QgsLineSymbol,
+                       QgsLimitedRandomColorRamp,
+                       QgsStyleModel,
+                       QgsStyle,
+                       QgsStyleProxyModel,
+                       QgsTextFormat,
+                       QgsPalLayerSettings,
+                       QgsWkbTypes)
+
+from qgis.testing import start_app
+
+start_app()
+
 writer = MarkdownTableWriter()
 status_header = "# Table of symbols, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
 writer.table_name = ""
-writer.headers = ["Authority", "code", "description", "notes"]
+writer.headers = ["graphics","authority", "code", "description", "notes"]
 writer.value_matrix = []
 
 def indent(elem, level=0):
@@ -62,6 +82,13 @@ for rootdir, dirs, files in os.walk( srcdir ):
       if filename.endswith(".xml"): 
          xmlfile = os.path.join(rootdir, filename)
          auth = os.path.dirname( xmlfile ).split('/')[-1]
+         
+         #if n_styles != 1:
+         #   print("xml should contain just one symbol")
+         #   print("{} contains {}".format(xmlfile,n_styles))
+         #   sys.exit(0)
+
+
          if auth not in count_dict.keys():
             count_dict[auth] = 0
          tree = ET.parse( xmlfile )
@@ -74,7 +101,27 @@ for rootdir, dirs, files in os.walk( srcdir ):
                c,d = name_parser( n )
             symbols.append(symbol)
             count_dict[auth] += 1
-            writer.value_matrix.append([auth,str(c),d,''])
+            
+
+            style = QgsStyle()
+            style.importXml( xmlfile )
+            n_styles = style.symbolCount()
+            symbol_name = style.symbolNames()[0]
+            symbol = style.symbol(symbol_name)
+            size = QSize(64, 64)
+            image = symbol.asImage(size)
+            path, filename = os.path.split( xmlfile )
+            png_filename = filename.replace('.xml','.png')
+            png_dir = os.path.join("../docs/images/library/",auth)
+
+            if not os.path.exists( png_dir ):
+               os.makedirs( png_dir )
+            image.save(r"{}".format(png_dir+'/'+png_filename), "PNG")
+            
+            status_path = os.path.join("docs/images/library/",auth)
+            lnk = "![]({})".format( os.path.join( status_path, png_filename ))
+            writer.value_matrix.append([ lnk ,auth,str(c),d,''])
+
                
          if root.findall("./colorramps/colorramp"):
             colorramps = ET.SubElement(top, 'colorramps')

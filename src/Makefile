@@ -16,6 +16,9 @@ TARGET := $(DIST_DIR)/$(TARGET_XML)
 
 DIST_FILES := svg $(DIST_DIR)/$(TARGET_XML)
 
+DOCS_DIR := ../docs
+ICONS_DIR := $(DOCS_DIR)/images/library
+
 $(TARGET): $(SRC_DIR)
 	mkdir -p $(DIST_DIR)
 	python3 scripts/merge.py $< $@
