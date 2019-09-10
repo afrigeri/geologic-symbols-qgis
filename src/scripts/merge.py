@@ -16,7 +16,7 @@ from pytablewriter import MarkdownTableWriter
 
 import datetime
 
-from PyQt5.QtCore import QSize
+from PyQt5.QtCore import QSize, QSettings
 from PyQt5.QtGui import QImage, QPainter
  
 import qgis
@@ -32,9 +32,23 @@ from qgis.core import (QgsSymbol,
                        QgsPalLayerSettings,
                        QgsWkbTypes)
 
+#svg_paths = QSettings().value('svg/searchPathsForSVG')
+#print(svg_paths)
+#svg_paths.append('./svg')
+#QSettings().setValue('svg/searchPathsForSVG', svg_paths)
+
+
 from qgis.testing import start_app
 
-start_app()
+QGISAPP = start_app()
+
+svgpaths = QGISAPP.svgPaths()
+svgpaths.append('.svg/')
+svgpaths.append( os.path.join( os.getcwd(),'svg') ) 
+QGISAPP.setDefaultSvgPaths(svgpaths)
+print("PIPPO")
+print(QGISAPP.svgPaths())
+
 
 writer = MarkdownTableWriter()
 status_header = "# Table of symbols, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
