@@ -17,7 +17,10 @@ from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
 import os,sys
 from xml.dom import minidom
 import glob
-from pytablewriter import MarkdownTableWriter, String
+
+import pytablewriter
+from pytablewriter import MarkdownTableWriter
+
 import datetime
 
 from PyQt5.QtCore import QSize
@@ -38,16 +41,13 @@ from qgis.core import (QgsSymbol,
 
 from qgis.testing import start_app
 
-from validation import *
-
-
 start_app()
 
 writer = MarkdownTableWriter()
 status_header = "# Table of symbols, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
 writer.table_name = ""
 writer.headers = ["graphics","authority", "code", "description", "notes"]
-writer.type_hints = [String,String,String,String,String]
+writer.type_hints = [pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String]
 writer.value_matrix = []
 
 def indent(elem, level=0):
@@ -87,7 +87,7 @@ symbols = ET.SubElement(top, 'symbols')
 
 count_dict = {}
 
-status_file  = open('../STATUS.md','w')
+status_file  = open('../STATUS.md','w') 
 
 for rootdir, dirs, files in os.walk( srcdir ):    
    for filename in files:

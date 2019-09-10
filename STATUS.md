@@ -1,7 +1,7 @@
 # Table of symbols, updated September 10, 2019
 There are:
+ * 116 entries for fgdc.
  * 1 entries for extra.
- * 85 entries for fgdc.
 
 |                 graphics                 |authority|           code            |                                                            description                                                            |notes|
 |------------------------------------------|---------|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-----|
@@ -58,6 +58,8 @@ There are:
 |![](docs/images/library/fgdc/25.050.png)  |fgdc     |25.050                     | Radially grooved ejecta (schematic), planetary                                                                                    |     |
 |![](docs/images/library/fgdc/25.051.png)  |fgdc     |25.051                     | Furrow, planetary                                                                                                                 |     |
 |![](docs/images/library/fgdc/25.052.png)  |fgdc     |25.052                     | Trough or narrow depression, planetary                                                                                            |     |
+|![](docs/images/library/fgdc/25.053.png)  |fgdc     |25.053                     | Depression (mapped to scale), planetary                                                                                           |     |
+|![](docs/images/library/fgdc/25.054.png)  |fgdc     |25.054                     | Large depression (mapped to scale), planetary                                                                                     |     |
 |![](docs/images/library/fgdc/25.055.png)  |fgdc     |25.055                     | Shallow, linear depression or valley, or narrow channel, planetary                                                                |     |
 |![](docs/images/library/fgdc/25.056.png)  |fgdc     |25.056                     | Channel (canali), planetary                                                                                                       |     |
 |![](docs/images/library/fgdc/25.057.png)  |fgdc     |25.057                     | Channel (canali)-Two short dashes where structureless or indefinite                                                               |     |
@@ -78,10 +80,39 @@ There are:
 |![](docs/images/library/fgdc/25.072.png)  |fgdc     |25.072                     | Lobate scarp, planetary-Hachures point downscarp                                                                                  |     |
 |![](docs/images/library/fgdc/25.073.png)  |fgdc     |25.073                     | Basal scarp, planetary-Hachures point downscarp                                                                                   |     |
 |![](docs/images/library/fgdc/25.074.png)  |fgdc     |25.074                     | Base of scarp, planetary—Barb points downscarp                                                                                    |     |
+|![](docs/images/library/fgdc/25.075.png)  |fgdc     |25.075                     | Dome, edifice, or circular sharp, planetary (mapped to scale) -- Hachures point downscarp                                         |     |
+|![](docs/images/library/fgdc/25.076.png)  |fgdc     |25.076                     | Very small shield, dome, or volcanic construct, planetary (not mapped to scale)                                                   |     |
+|![](docs/images/library/fgdc/25.077.png)  |fgdc     |25.077                     | Small shield, dome, or volcanic construct, planetary (not mapped to scale)                                                        |     |
+|![](docs/images/library/fgdc/25.078.png)  |fgdc     |25.078                     | Large, steep-sided shield, dome, or volcanic construct, planetary (not mapped to scale)                                           |     |
+|![](docs/images/library/fgdc/25.079.png)  |fgdc     |25.079                     | Mesa, planetary (not mapped to scale)                                                                                             |     |
+|![](docs/images/library/fgdc/25.080.png)  |fgdc     |25.080                     | Large shield, dome, or volcanic construct, planetary (mapped to scale)—Hachures point downscarp                                   |     |
+|![](docs/images/library/fgdc/25.081.png)  |fgdc     |25.081                     | Large cone, planetary (mapped to scale)— Hachures point downscarp                                                                 |     |
+|![](docs/images/library/fgdc/25.082.png)  |fgdc     |25.082                     | Knob or central peak, planetary (not mapped to scale)                                                                             |     |
 |![](docs/images/library/fgdc/25.084.png)  |fgdc     |25.084                     | Elevated plateau, planetary (mapped to scale)— Hachures point downscarp                                                           |     |
+|![](docs/images/library/fgdc/25.085.png)  |fgdc     |25.085                     | Steep-sided edifice, planetary (not mapped to scale)                                                                              |     |
+|![](docs/images/library/fgdc/25.087.png)  |fgdc     |25.087                     | Large edifice, planetary (not mapped to scale)                                                                                    |     |
+|![](docs/images/library/fgdc/25.088.png)  |fgdc     |25.088                     | Very small tholi, planetary (not mapped to scale)                                                                                 |     |
+|![](docs/images/library/fgdc/25.089.png)  |fgdc     |25.089                     | Small tholi, planetary (not mapped to scale)                                                                                      |     |
+|![](docs/images/library/fgdc/25.091.png)  |fgdc     |25.091                     | Corona, planetary                                                                                                                 |     |
+|![](docs/images/library/fgdc/25.092.png)  |fgdc     |25.092                     | Nova, planetary                                                                                                                   |     |
+|![](docs/images/library/fgdc/25.093.png)  |fgdc     |25.093                     | Palimpsest ring, planetary                                                                                                        |     |
+|![](docs/images/library/fgdc/25.094.png)  |fgdc     |25.094                     | Raised rim of larger impact crater, planetary— Hachures point into crater                                                         |     |
+|![](docs/images/library/fgdc/25.095.png)  |fgdc     |25.095                     | Raised rim of smaller impact crater, planetary                                                                                    |     |
+|![](docs/images/library/fgdc/25.097.png)  |fgdc     |25.097                     | Degraded impact crater rim, planetary (1st option)                                                                                |     |
+|![](docs/images/library/fgdc/25.098.png)  |fgdc     |25.098                     | Rimless impact crater, subdued impact crater rim, degraded impact crater rim (2nd option), or buried impact crater rim, planetary |     |
+|![](docs/images/library/fgdc/25.099.png)  |fgdc     |25.099                     | Secondary impact crater chain and cluster, planetary                                                                              |     |
+|![](docs/images/library/fgdc/25.100.png)  |fgdc     |25.100                     | Basin ring, planetary                                                                                                             |     |
 |![](docs/images/library/fgdc/25.101.png)  |fgdc     |25.101                     | Central peak of impact crater, planetary (1st option)                                                                             |     |
 |![](docs/images/library/fgdc/25.102.png)  |fgdc     |25.102                     | Central peak of impact crater, planetary (2nd option)                                                                             |     |
 |![](docs/images/library/fgdc/25.104.png)  |fgdc     |25.124                     | Joint or fracture pattern, planetary                                                                                              |     |
+|![](docs/images/library/fgdc/25.105.png)  |fgdc     |25.105                     | Pit-crater chain (mapped to scale), planetary                                                                                     |     |
+|![](docs/images/library/fgdc/25.106.png)  |fgdc     |25.106                     | Small endogenic crater, planetary                                                                                                 |     |
+|![](docs/images/library/fgdc/25.107.png)  |fgdc     |25.107                     | Small endogenic crater (mapped to scale), planetary                                                                               |     |
+|![](docs/images/library/fgdc/25.109.png)  |fgdc     |25.109                     | Large endogenic crater (mapped to scale), planetary                                                                               |     |
+|![](docs/images/library/fgdc/25.111.png)  |fgdc     |25.111                     | Caldera, planetary                                                                                                                |     |
+|![](docs/images/library/fgdc/25.114.png)  |fgdc     |25.114                     | Flow front, planetary—Arrow indicates flow direction                                                                              |     |
+|![](docs/images/library/fgdc/25.115.png)  |fgdc     |25.115                     | Mountain (rugged), planetary—Origin uncertain                                                                                     |     |
+|![](docs/images/library/fgdc/25.116.png)  |fgdc     |25.116                     | Channel bars, planetary—May be erosional or depositional                                                                          |     |
 |![](docs/images/library/fgdc/25.117.png)  |fgdc     |25.117                     | Slide or slump material, planetary—Arrow indicates direction of movement                                                          |     |
 |![](docs/images/library/fgdc/25.118.png)  |fgdc     |25.118                     | Dark-colored ejecta, planetary                                                                                                    |     |
 |![](docs/images/library/fgdc/25.119.png)  |fgdc     |25.119                     | Light-colored ejecta, planetary                                                                                                   |     |
