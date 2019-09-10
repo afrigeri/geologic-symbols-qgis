@@ -4,6 +4,13 @@
 #
 # (c) 2019 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali - INAF - Rome
 #
+import logging as log
+
+log.basicConfig(filename="merge.log",
+                            filemode='w',
+                            format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
+                            datefmt='%H:%M:%S',
+                            level=log.INFO)
 
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
@@ -30,6 +37,9 @@ from qgis.core import (QgsSymbol,
                        QgsWkbTypes)
 
 from qgis.testing import start_app
+
+from validation import *
+
 
 start_app()
 
@@ -63,7 +73,8 @@ def name_parser(name):
     
     [name or id] : [ description ]
     '''
-    return name.split(':')
+    a, b = name.split(':')
+    return a.strip(), b.strip()
 
 srcdir = sys.argv[1]
 dst = sys.argv[2] 
@@ -76,7 +87,7 @@ symbols = ET.SubElement(top, 'symbols')
 
 count_dict = {}
 
-status_file  = open('../STATUS.md','w') 
+status_file  = open('../STATUS.md','w')
 
 for rootdir, dirs, files in os.walk( srcdir ):    
    for filename in files:
@@ -94,6 +105,10 @@ for rootdir, dirs, files in os.walk( srcdir ):
             count_dict[auth] = 0
          tree = ET.parse( xmlfile )
          root = tree.getroot()
+
+         if not validate_and_clean_xml(root,filename=extract_name(filename)):
+             log.error(f"cannot validate {filename}")
+
          if root.findall("./symbols/symbol"):
             for symbol in root.findall("./symbols/symbol"):    
                symbol.attrib['tags'] = auth+',geology'
