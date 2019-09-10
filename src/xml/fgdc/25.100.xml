@@ -1,0 +1,32 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols>
+    <symbol name="25.100: Basin ring, planetary" type="line" alpha="1" clip_to_extent="1">
+      <layer enabled="1" locked="0" pass="0" class="SimpleLine">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="0.75;0.75"/>
+        <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MM"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="35,35,35,255"/>
+        <prop k="line_style" v="dash"/>
+        <prop k="line_width" v="0.375"/>
+        <prop k="line_width_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="use_custom_dash" v="1"/>
+        <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+</qgis_style>
