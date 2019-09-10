@@ -10,7 +10,10 @@ from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
 import os,sys
 from xml.dom import minidom
 import glob
+
+import pytablewriter
 from pytablewriter import MarkdownTableWriter
+
 import datetime
 
 from PyQt5.QtCore import QSize
@@ -37,6 +40,7 @@ writer = MarkdownTableWriter()
 status_header = "# Table of symbols, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
 writer.table_name = ""
 writer.headers = ["graphics","authority", "code", "description", "notes"]
+writer.type_hints = [pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String]
 writer.value_matrix = []
 
 def indent(elem, level=0):
@@ -120,9 +124,7 @@ for rootdir, dirs, files in os.walk( srcdir ):
             
             status_path = os.path.join("docs/images/library/",auth)
             lnk = "![]({})".format( os.path.join( status_path, png_filename ))
-            # * tags added because otherwise writer mistakenly interpreting fgdc codes 
-            # as numbers rather than strings - noted by @luca-penasa
-            writer.value_matrix.append([ lnk ,auth,'*'+str(c)+'*', d ,''])
+            writer.value_matrix.append([ lnk ,auth,str(c), d ,''])
 
                
          if root.findall("./colorramps/colorramp"):
@@ -133,7 +135,7 @@ for rootdir, dirs, files in os.walk( srcdir ):
                c,d = name_parser( n )
             colorramps.append(colorramp)
             count_dict[auth] += 1
-            writer.value_matrix.append([auth,'*'+str(c)+'*',d,''])
+            writer.value_matrix.append([auth,str(c),d,''])
 
 ElementTree(indent(top)).write(dst)
 writer.value_matrix.sort()
