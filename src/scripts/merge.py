@@ -10,7 +10,7 @@ from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
 import os,sys
 from xml.dom import minidom
 import glob
-from pytablewriter import MarkdownTableWriter
+from pytablewriter import MarkdownTableWriter, String
 import datetime
 
 from PyQt5.QtCore import QSize
@@ -37,6 +37,7 @@ writer = MarkdownTableWriter()
 status_header = "# Table of symbols, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
 writer.table_name = ""
 writer.headers = ["graphics","authority", "code", "description", "notes"]
+writer.type_hints = [String,String,String,String,String]
 writer.value_matrix = []
 
 def indent(elem, level=0):
