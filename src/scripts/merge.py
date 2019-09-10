@@ -120,7 +120,8 @@ for rootdir, dirs, files in os.walk( srcdir ):
             
             status_path = os.path.join("docs/images/library/",auth)
             lnk = "![]({})".format( os.path.join( status_path, png_filename ))
-            writer.value_matrix.append([ lnk ,auth,str(c),d,''])
+            print("********",c,str(c))
+            writer.value_matrix.append([ lnk ,auth,'*'+c+'*', d ,''])
 
                
          if root.findall("./colorramps/colorramp"):
@@ -131,6 +132,7 @@ for rootdir, dirs, files in os.walk( srcdir ):
                c,d = name_parser( n )
             colorramps.append(colorramp)
             count_dict[auth] += 1
+            print("********",c,str(c))
             writer.value_matrix.append([auth,str(c),d,''])
 
 ElementTree(indent(top)).write(dst)
