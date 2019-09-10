@@ -18,3 +18,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Added 7 strike slip fault symbols [@valemercurii](https://github.com/valemercurii)
 - Added 4 thrust fault symbols [@valemercurii](https://github.com/valemercurii)
 - Added 44 new symbols [@marchunterUSGS](https://github.com/marchunterUSGS)
+- Added graphical representation of the symbols in the STATUS page
+- Added 31 new symbols [@erikaluzzi](https://github.com/erikaluzzi)
+- Fixed code for the generation of symboll list [@luca-penasa](https://github.com/luca-penasa)
+
