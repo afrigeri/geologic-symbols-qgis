@@ -75,7 +75,7 @@ def validate_and_clean_xml(root, svgdir=os.path.abspath(os.path.join(os.path.dir
     if "\n" in desc:
         log.warning(f"filename {filename}: description contains newline char.")
 
-    import regex as re
+    import re
     svgpattern = ".*\.svg"
     allp = list(root.iter('prop'))
     svgs = []
