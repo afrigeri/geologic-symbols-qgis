@@ -328,6 +328,81 @@
         </data_defined_properties>
       </layer>
     </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.131: Reticulate pattern on plains, planetary" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
   <symbol alpha="1" clip_to_extent="1" name="25.035: Fold crest, planetary" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
@@ -2184,6 +2259,56 @@
         </symbol>
       </layer>
     </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.124: Joint or fracture pattern, planetary&#10;" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="0,0,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.26" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/430-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="20" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.124: Joint or fracture pattern, planetary&#10;@0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
   <symbol alpha="1" clip_to_extent="1" name="25.070: ARea of eolian transport, planetary-Arrow points in direction of air flow" tags="fgdc,geology" type="line">
       <layer class="ArrowLine" enabled="1" locked="0" pass="0">
         <prop k="arrow_start_width" v="0.375" />
@@ -2883,6 +3008,156 @@
         </symbol>
       </layer>
     </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.123: Diffuse highland-lowland boundary scarp, planetary" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/102-R.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.120: Terrace deopsits, planetary @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.133: Superficial crater material having weak radar backscatter coefficient, planetary" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
   <symbol alpha="1" clip_to_extent="1" name="25.106: Small endogenic crater, planetary" tags="fgdc,geology" type="marker">
       <layer class="SimpleMarker" enabled="1" locked="0" pass="0">
         <prop k="angle" v="0" />
@@ -3503,6 +3778,156 @@
         </data_defined_properties>
       </layer>
     </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.135: Halo without associated crater, planetary" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.125: Area of reticulate grooves, planetary - Showing trend " tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
   <symbol alpha="1" clip_to_extent="1" name="25.098: Rimless impact crater, subdued impact crater rim,&#10;degraded impact crater rim (2nd option), or buried&#10;impact crater rim, planetary" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
@@ -3686,6 +4111,81 @@
             </data_defined_properties>
           </layer>
         </symbol>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.132: Fracture zone, planetary" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
       </layer>
     </symbol>
   <symbol alpha="1" clip_to_extent="1" name="25.029: Regional fracture, planetary" tags="fgdc,geology" type="line">
@@ -3945,6 +4445,81 @@
       <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="size_unit" v="MM" />
       <prop k="vertical_anchor_point" v="1" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.130: Splotch, planetary&#8212;Circular, radar-bright halo on surface" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -4566,6 +5141,81 @@
         </symbol>
       </layer>
     </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.129: Mantling material, planetary&#8212;Light-col" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
   <symbol alpha="1" clip_to_extent="1" name="25.109: Large endogenic crater (mapped to scale), planetary" tags="fgdc,geology" type="line">
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <prop k="capstyle" v="square" />
@@ -5040,6 +5690,81 @@
       <prop k="offset" v="0" />
       <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="offset_unit" v="MM" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.134: Crater-associated ejecta halo, planetary" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
       <prop k="use_custom_dash" v="0" />
       <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <data_defined_properties>
@@ -6339,6 +7064,81 @@
         </symbol>
       </layer>
     </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.128: Airburst spot" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
   <symbol alpha="1" clip_to_extent="1" name="25.067: Flow direction, planetary" tags="fgdc,geology" type="line">
       <layer class="ArrowLine" enabled="1" locked="0" pass="0">
         <prop k="arrow_start_width" v="0.125" />
@@ -6673,6 +7473,81 @@
       <prop k="offset" v="0" />
       <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="offset_unit" v="MM" />
+      <prop k="use_custom_dash" v="0" />
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.127: 35 Low albedo smooth material, planetary - Interpreted as eolian mate" tags="fgdc,geology" type="fill">
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <prop k="angle" v="0" />
+      <prop k="color" v="255,255,255,255" />
+      <prop k="outline_color" v="35,35,35,255" />
+      <prop k="outline_width" v="0.2" />
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="outline_width_unit" v="MM" />
+      <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="pattern_width_unit" v="MM" />
+      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="svg_outline_width_unit" v="MM" />
+      <prop k="width" v="5" />
+      <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value="" />
+          <Option name="properties" />
+          <Option name="type" type="QString" value="collection" />
+          </Option>
+        </data_defined_properties>
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <prop k="capstyle" v="square" />
+          <prop k="customdash" v="5;2" />
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="customdash_unit" v="MM" />
+          <prop k="draw_inside_polygon" v="0" />
+          <prop k="joinstyle" v="bevel" />
+          <prop k="line_color" v="35,35,35,255" />
+          <prop k="line_style" v="solid" />
+          <prop k="line_width" v="0.26" />
+          <prop k="line_width_unit" v="MM" />
+          <prop k="offset" v="0" />
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <prop k="offset_unit" v="MM" />
+          <prop k="ring_filter" v="0" />
+          <prop k="use_custom_dash" v="0" />
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
+          <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value="" />
+              <Option name="properties" />
+              <Option name="type" type="QString" value="collection" />
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+      <prop k="customdash" v="5;2" />
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="customdash_unit" v="MM" />
+      <prop k="draw_inside_polygon" v="0" />
+      <prop k="joinstyle" v="bevel" />
+      <prop k="line_color" v="0,0,0,255" />
+      <prop k="line_style" v="solid" />
+      <prop k="line_width" v="0.36" />
+      <prop k="line_width_unit" v="MM" />
+      <prop k="offset" v="0" />
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0" />
+      <prop k="offset_unit" v="MM" />
+      <prop k="ring_filter" v="0" />
       <prop k="use_custom_dash" v="0" />
       <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <data_defined_properties>

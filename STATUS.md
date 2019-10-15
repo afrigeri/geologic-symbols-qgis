@@ -1,6 +1,6 @@
 # Table of symbols, updated October 15, 2019
 There are:
- * 118 entries for fgdc.
+ * 130 entries for fgdc.
  * 1 entries for extra.
 
 |                 graphics                 |authority|           code           |                                                           description                                                            |notes|
@@ -119,7 +119,19 @@ There are:
 |![](docs/images/library/fgdc/25.120.png)  |fgdc     |25.120                    |Terrace deopsits, planetary                                                                                                       |     |
 |![](docs/images/library/fgdc/25.121.png)  |fgdc     |25.121                    |Dark-colored mantling material, planetary                                                                                         |     |
 |![](docs/images/library/fgdc/25.122.png)  |fgdc     |25.122                    |Secondary crater field, planetary                                                                                                 |     |
+|![](docs/images/library/fgdc/25.123.png)  |fgdc     |25.123                    |Diffuse highland-lowland boundary scarp, planetary                                                                                |     |
+|![](docs/images/library/fgdc/25.124.png)  |fgdc     |25.124                    |Joint or fracture pattern, planetary                                                                                              |     |
+|![](docs/images/library/fgdc/25.125.png)  |fgdc     |25.125                    |Area of reticulate grooves, planetary - Showing trend                                                                             |     |
 |![](docs/images/library/fgdc/25.126.png)  |fgdc     |25.126                    |Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow                                        |     |
+|![](docs/images/library/fgdc/25.127.png)  |fgdc     |25.127                    |35 Low albedo smooth material, planetary - Interpreted as eolian mate                                                             |     |
+|![](docs/images/library/fgdc/25.128.png)  |fgdc     |25.128                    |Airburst spot                                                                                                                     |     |
+|![](docs/images/library/fgdc/25.129.png)  |fgdc     |25.129                    |Mantling material, planetary—Light-col                                                                                            |     |
+|![](docs/images/library/fgdc/25.130.png)  |fgdc     |25.130                    |Splotch, planetary—Circular, radar-bright halo on surface                                                                         |     |
+|![](docs/images/library/fgdc/25.131.png)  |fgdc     |25.131                    |Reticulate pattern on plains, planetary                                                                                           |     |
+|![](docs/images/library/fgdc/25.132.png)  |fgdc     |25.132                    |Fracture zone, planetary                                                                                                          |     |
+|![](docs/images/library/fgdc/25.133.png)  |fgdc     |25.133                    |Superficial crater material having weak radar backscatter coefficient, planetary                                                  |     |
+|![](docs/images/library/fgdc/25.134.png)  |fgdc     |25.134                    |Crater-associated ejecta halo, planetary                                                                                          |     |
+|![](docs/images/library/fgdc/25.135.png)  |fgdc     |25.135                    |Halo without associated crater, planetary                                                                                         |     |
 |![](docs/images/library/fgdc/30.1.001.png)|fgdc     |30.1.001                  |Index topographic contour (1st option)                                                                                            |     |
 |![](docs/images/library/fgdc/30.1.003.png)|fgdc     |30.1.003                  |Intermediate topographic contour (1st option)                                                                                     |     |
 |![](docs/images/library/fgdc/31.021.png)  |fgdc     |31.021                    |Sample locality—Showing sample number                                                                                             |     |
