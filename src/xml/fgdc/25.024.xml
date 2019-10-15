@@ -1,31 +1,84 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol type="line" alpha="1" name="25.034: Concentric fracture, planetary (associated with coronae)" force_rhr="0" tags="planetary geology,fgdc,pippo" clip_to_extent="1">
-      <layer pass="0" class="SimpleLine" enabled="1" locked="0">
+    <symbol name="25.024: Thrust fault, planetary-Location concealed. Sawteeth on upper plate" tags="fgdc,geology,25.024" force_rhr="0" alpha="1" clip_to_extent="1" type="line">
+      <layer class="SimpleLine" pass="0" enabled="1" locked="0">
         <prop k="capstyle" v="square"/>
-        <prop k="customdash" v="5;2"/>
+        <prop k="customdash" v="0.5;0.75"/>
         <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="customdash_unit" v="MM"/>
         <prop k="draw_inside_polygon" v="0"/>
         <prop k="joinstyle" v="bevel"/>
-        <prop k="line_color" v="146,40,152,255"/>
+        <prop k="line_color" v="0,0,0,255"/>
         <prop k="line_style" v="solid"/>
-        <prop k="line_width" v="0.325"/>
+        <prop k="line_width" v="0.375"/>
         <prop k="line_width_unit" v="MM"/>
         <prop k="offset" v="0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
         <prop k="ring_filter" v="0"/>
-        <prop k="use_custom_dash" v="0"/>
+        <prop k="use_custom_dash" v="1"/>
         <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <data_defined_properties>
           <Option type="Map">
-            <Option type="QString" name="name" value=""/>
+            <Option name="name" value="" type="QString"/>
             <Option name="properties"/>
-            <Option type="QString" name="type" value="collection"/>
+            <Option name="type" value="collection" type="QString"/>
           </Option>
         </data_defined_properties>
+      </layer>
+      <layer class="MarkerLine" pass="0" enabled="1" locked="0">
+        <prop k="average_angle_length" v="4"/>
+        <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="average_angle_unit" v="MM"/>
+        <prop k="interval" v="12.75"/>
+        <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.75"/>
+        <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="ring_filter" v="0"/>
+        <prop k="rotate" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+        <symbol name="@25.024: Thrust fault, planetary-Location concealed. Sawteeth on upper plate@1" force_rhr="0" alpha="1" clip_to_extent="1" type="marker">
+          <layer class="SimpleMarker" pass="0" enabled="1" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="triangle"/>
+            <prop k="offset" v="0,-0.80000000000000004"/>
+            <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="35,35,35,255"/>
+            <prop k="outline_style" v="no"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="1.5"/>
+            <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
       </layer>
     </symbol>
   </symbols>

@@ -1,97 +1,100 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol type="fill" clip_to_extent="1" tags="fgdc" force_rhr="0" name="25.126: &#xa;Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow" alpha="1">
-      <layer pass="0" class="SVGFill" enabled="1" locked="0">
-        <prop v="0" k="angle"/>
-        <prop v="0,0,255,255" k="color"/>
-        <prop v="35,35,35,255" k="outline_color"/>
-        <prop v="0.26" k="outline_width"/>
-        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
-        <prop v="MM" k="outline_width_unit"/>
-        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
-        <prop v="MM" k="pattern_width_unit"/>
-        <prop v="patterns/fgdc/116-K.svg" k="svgFile"/>
-        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
-        <prop v="MM" k="svg_outline_width_unit"/>
-        <prop v="20" k="width"/>
+    <symbol name="25.126: &#xa;Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow" tags="fgdc,geology,geologic_symblib" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
+      <layer class="SVGFill" pass="0" enabled="1" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="color" v="0,0,255,255"/>
+        <prop k="outline_color" v="35,35,35,255"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="pattern_width_unit" v="MM"/>
+        <prop k="svgFile" v="patterns/fgcd/116-K.svg"/>
+        <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="svg_outline_width_unit" v="MM"/>
+        <prop k="width" v="15"/>
         <data_defined_properties>
           <Option type="Map">
-            <Option type="QString" value="" name="name"/>
+            <Option name="name" value="" type="QString"/>
             <Option name="properties"/>
-            <Option type="QString" value="collection" name="type"/>
+            <Option name="type" value="collection" type="QString"/>
           </Option>
         </data_defined_properties>
-        <symbol type="line" clip_to_extent="1" force_rhr="0" name="@25.126: &#xa;Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow@0" alpha="1">
-          <layer pass="0" class="SimpleLine" enabled="1" locked="0">
-            <prop v="square" k="capstyle"/>
-            <prop v="5;2" k="customdash"/>
-            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
-            <prop v="MM" k="customdash_unit"/>
-            <prop v="0" k="draw_inside_polygon"/>
-            <prop v="bevel" k="joinstyle"/>
-            <prop v="35,35,35,255" k="line_color"/>
-            <prop v="solid" k="line_style"/>
-            <prop v="0.26" k="line_width"/>
-            <prop v="MM" k="line_width_unit"/>
-            <prop v="0" k="offset"/>
-            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
-            <prop v="MM" k="offset_unit"/>
-            <prop v="0" k="ring_filter"/>
-            <prop v="0" k="use_custom_dash"/>
-            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+        <symbol name="@25.126: &#xa;Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow@0" force_rhr="0" alpha="1" clip_to_extent="1" type="line">
+          <layer class="SimpleLine" pass="0" enabled="1" locked="0">
+            <prop k="capstyle" v="square"/>
+            <prop k="customdash" v="5;2"/>
+            <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="customdash_unit" v="MM"/>
+            <prop k="draw_inside_polygon" v="0"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="line_color" v="35,35,35,255"/>
+            <prop k="line_style" v="solid"/>
+            <prop k="line_width" v="0.26"/>
+            <prop k="line_width_unit" v="MM"/>
+            <prop k="offset" v="0"/>
+            <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="ring_filter" v="0"/>
+            <prop k="use_custom_dash" v="0"/>
+            <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
             <data_defined_properties>
               <Option type="Map">
-                <Option type="QString" value="" name="name"/>
+                <Option name="name" value="" type="QString"/>
                 <Option name="properties"/>
-                <Option type="QString" value="collection" name="type"/>
+                <Option name="type" value="collection" type="QString"/>
               </Option>
             </data_defined_properties>
           </layer>
-          <layer pass="0" class="MarkerLine" enabled="1" locked="0">
-            <prop v="3" k="interval"/>
-            <prop v="3x:0,0,0,0,0,0" k="interval_map_unit_scale"/>
-            <prop v="MM" k="interval_unit"/>
-            <prop v="0" k="offset"/>
-            <prop v="0" k="offset_along_line"/>
-            <prop v="3x:0,0,0,0,0,0" k="offset_along_line_map_unit_scale"/>
-            <prop v="MM" k="offset_along_line_unit"/>
-            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
-            <prop v="MM" k="offset_unit"/>
-            <prop v="centralpoint" k="placement"/>
-            <prop v="0" k="ring_filter"/>
-            <prop v="1" k="rotate"/>
+          <layer class="MarkerLine" pass="0" enabled="1" locked="0">
+            <prop k="average_angle_length" v="4"/>
+            <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="average_angle_unit" v="MM"/>
+            <prop k="interval" v="3"/>
+            <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="interval_unit" v="MM"/>
+            <prop k="offset" v="0"/>
+            <prop k="offset_along_line" v="0"/>
+            <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="offset_along_line_unit" v="MM"/>
+            <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="placement" v="centralpoint"/>
+            <prop k="ring_filter" v="0"/>
+            <prop k="rotate" v="1"/>
             <data_defined_properties>
               <Option type="Map">
-                <Option type="QString" value="" name="name"/>
+                <Option name="name" value="" type="QString"/>
                 <Option name="properties"/>
-                <Option type="QString" value="collection" name="type"/>
+                <Option name="type" value="collection" type="QString"/>
               </Option>
             </data_defined_properties>
-            <symbol type="marker" clip_to_extent="1" force_rhr="0" name="@@25.126: &#xa;Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow@0@1" alpha="1">
-              <layer pass="0" class="SvgMarker" enabled="1" locked="0">
-                <prop v="0" k="angle"/>
-                <prop v="255,0,0,255" k="color"/>
-                <prop v="0" k="fixedAspectRatio"/>
-                <prop v="1" k="horizontal_anchor_point"/>
-                <prop v="symbols/fgdc/25.117_arrow.svg" k="name"/>
-                <prop v="0,0" k="offset"/>
-                <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
-                <prop v="MM" k="offset_unit"/>
-                <prop v="35,35,35,255" k="outline_color"/>
-                <prop v="0" k="outline_width"/>
-                <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
-                <prop v="MM" k="outline_width_unit"/>
-                <prop v="diameter" k="scale_method"/>
-                <prop v="10" k="size"/>
-                <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
-                <prop v="MM" k="size_unit"/>
-                <prop v="0" k="vertical_anchor_point"/>
+            <symbol name="@@25.126: &#xa;Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow@0@1" force_rhr="0" alpha="1" clip_to_extent="1" type="marker">
+              <layer class="SvgMarker" pass="0" enabled="1" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="255,0,0,255"/>
+                <prop k="fixedAspectRatio" v="0"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="name" v="symbols/fgdc/25.117_arrow.svg"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="35,35,35,255"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="10"/>
+                <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="0"/>
                 <data_defined_properties>
                   <Option type="Map">
-                    <Option type="QString" value="" name="name"/>
+                    <Option name="name" value="" type="QString"/>
                     <Option name="properties"/>
-                    <Option type="QString" value="collection" name="type"/>
+                    <Option name="type" value="collection" type="QString"/>
                   </Option>
                 </data_defined_properties>
               </layer>
