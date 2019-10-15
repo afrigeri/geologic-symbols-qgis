@@ -123,7 +123,7 @@ There are:
 |![](docs/images/library/fgdc/25.124.png)  |fgdc     |25.124                    |Joint or fracture pattern, planetary                                                                                              |     |
 |![](docs/images/library/fgdc/25.125.png)  |fgdc     |25.125                    |Area of reticulate grooves, planetary - Showing trend                                                                             |     |
 |![](docs/images/library/fgdc/25.126.png)  |fgdc     |25.126                    |Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow                                        |     |
-|![](docs/images/library/fgdc/25.127.png)  |fgdc     |25.127                    |35 Low albedo smooth material, planetary - Interpreted as eolian mate                                                             |     |
+|![](docs/images/library/fgdc/25.127.png)  |fgdc     |25.127                    |Low albedo smooth material, planetary - Interpreted as eolian mate                                                                |     |
 |![](docs/images/library/fgdc/25.128.png)  |fgdc     |25.128                    |Airburst spot                                                                                                                     |     |
 |![](docs/images/library/fgdc/25.129.png)  |fgdc     |25.129                    |Mantling material, planetary—Light-col                                                                                            |     |
 |![](docs/images/library/fgdc/25.130.png)  |fgdc     |25.130                    |Splotch, planetary—Circular, radar-bright halo on surface                                                                         |     |

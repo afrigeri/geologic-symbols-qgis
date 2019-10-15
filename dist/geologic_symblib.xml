@@ -338,7 +338,7 @@
       <prop k="outline_width_unit" v="MM" />
       <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="pattern_width_unit" v="MM" />
-      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svgFile" v="patterns/fgdc/119-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
       <prop k="width" v="5" />
@@ -3093,7 +3093,7 @@
       <prop k="outline_width_unit" v="MM" />
       <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="pattern_width_unit" v="MM" />
-      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svgFile" v="patterns/fgdc/436-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
       <prop k="width" v="5" />
@@ -3788,7 +3788,7 @@
       <prop k="outline_width_unit" v="MM" />
       <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="pattern_width_unit" v="MM" />
-      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svgFile" v="patterns/fgdc/429-C.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
       <prop k="width" v="5" />
@@ -4123,7 +4123,7 @@
       <prop k="outline_width_unit" v="MM" />
       <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="pattern_width_unit" v="MM" />
-      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svgFile" v="patterns/fgdc/137-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
       <prop k="width" v="5" />
@@ -4464,7 +4464,7 @@
       <prop k="outline_width_unit" v="MM" />
       <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="pattern_width_unit" v="MM" />
-      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svgFile" v="patterns/fgdc/116-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
       <prop k="width" v="5" />
@@ -5151,7 +5151,7 @@
       <prop k="outline_width_unit" v="MM" />
       <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="pattern_width_unit" v="MM" />
-      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svgFile" v="patterns/fgdc/435-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
       <prop k="width" v="5" />
@@ -5711,7 +5711,7 @@
       <prop k="outline_width_unit" v="MM" />
       <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="pattern_width_unit" v="MM" />
-      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svgFile" v="patterns/fgdc/429-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
       <prop k="width" v="5" />
@@ -7074,7 +7074,7 @@
       <prop k="outline_width_unit" v="MM" />
       <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="pattern_width_unit" v="MM" />
-      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svgFile" v="patterns/fgdc/434-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
       <prop k="width" v="5" />
@@ -7484,7 +7484,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.127: 35 Low albedo smooth material, planetary - Interpreted as eolian mate" tags="fgdc,geology" type="fill">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.127: Low albedo smooth material, planetary - Interpreted as eolian mate" tags="fgdc,geology" type="fill">
       <layer class="SVGFill" enabled="1" locked="0" pass="0">
         <prop k="angle" v="0" />
       <prop k="color" v="255,255,255,255" />
@@ -7494,7 +7494,7 @@
       <prop k="outline_width_unit" v="MM" />
       <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="pattern_width_unit" v="MM" />
-      <prop k="svgFile" v="patterns/fgdc/327-K.svg" />
+      <prop k="svgFile" v="patterns/fgdc/136-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
       <prop k="width" v="5" />
