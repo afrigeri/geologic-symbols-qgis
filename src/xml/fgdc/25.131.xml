@@ -14,7 +14,7 @@
         <prop k="svgFile" v="patterns/fgdc/119-K.svg"/>
         <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="svg_outline_width_unit" v="MM"/>
-        <prop k="width" v="5"/>
+        <prop k="width" v="20"/>
         <data_defined_properties>
           <Option type="Map">
             <Option name="name" value="" type="QString"/>

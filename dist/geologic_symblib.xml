@@ -341,7 +341,7 @@
       <prop k="svgFile" v="patterns/fgdc/119-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -2653,7 +2653,7 @@
       <prop k="svgFile" v="patterns/fgdc/102-R.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -3096,7 +3096,7 @@
       <prop k="svgFile" v="patterns/fgdc/436-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -3104,7 +3104,7 @@
           <Option name="type" type="QString" value="collection" />
           </Option>
         </data_defined_properties>
-      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.133: Superficial crater material having weak radar backscatter coefficient, planetary@0" type="line">
           <layer class="SimpleLine" enabled="1" locked="0" pass="0">
             <prop k="capstyle" v="square" />
           <prop k="customdash" v="5;2" />
@@ -4467,7 +4467,7 @@
       <prop k="svgFile" v="patterns/fgdc/116-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -5714,7 +5714,7 @@
       <prop k="svgFile" v="patterns/fgdc/429-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -7484,7 +7484,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.127: Low albedo smooth material, planetary - Interpreted as eolian mate" tags="fgdc,geology" type="fill">
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="25.127: Low albedo smooth material, planetary - Interpreted as eolian material" tags="fgdc,geology" type="fill">
       <layer class="SVGFill" enabled="1" locked="0" pass="0">
         <prop k="angle" v="0" />
       <prop k="color" v="255,255,255,255" />
@@ -7497,7 +7497,7 @@
       <prop k="svgFile" v="patterns/fgdc/136-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -7505,7 +7505,7 @@
           <Option name="type" type="QString" value="collection" />
           </Option>
         </data_defined_properties>
-      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" type="line">
+      <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="@25.127: Low albedo smooth material, planetary - Interpreted as eolian material@0" type="line">
           <layer class="SimpleLine" enabled="1" locked="0" pass="0">
             <prop k="capstyle" v="square" />
           <prop k="customdash" v="5;2" />

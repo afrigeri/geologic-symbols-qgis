@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol name="25.127: Low albedo smooth material, planetary - Interpreted as eolian mate" tags="fgdc,geology,geologic_symblib" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
+    <symbol name="25.127: Low albedo smooth material, planetary - Interpreted as eolian material" tags="fgdc,geology,geologic_symblib" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
       <layer class="SVGFill" pass="0" enabled="1" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -14,7 +14,7 @@
         <prop k="svgFile" v="patterns/fgdc/136-K.svg"/>
         <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="svg_outline_width_unit" v="MM"/>
-        <prop k="width" v="5"/>
+        <prop k="width" v="20"/>
         <data_defined_properties>
           <Option type="Map">
             <Option name="name" value="" type="QString"/>
@@ -22,7 +22,7 @@
             <Option name="type" value="collection" type="QString"/>
           </Option>
         </data_defined_properties>
-        <symbol name="@25.125: Area of reticulate grooves, planetary - Showing trend @0" force_rhr="0" alpha="1" clip_to_extent="1" type="line">
+        <symbol name="@25.127: Low albedo smooth material, planetary - Interpreted as eolian material@0" force_rhr="0" alpha="1" clip_to_extent="1" type="line">
           <layer class="SimpleLine" pass="0" enabled="1" locked="0">
             <prop k="capstyle" v="square"/>
             <prop k="customdash" v="5;2"/>
