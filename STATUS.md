@@ -1,4 +1,4 @@
-# Table of symbols, updated September 10, 2019
+# Table of symbols, updated October 15, 2019
 There are:
  * 116 entries for fgdc.
  * 1 entries for extra.
@@ -29,7 +29,7 @@ There are:
 |![](docs/images/library/fgdc/25.021.png)  |fgdc     |25.021                     | Thrust fault, planetary—Location accurate. Sawteeth on upper plate                                                                |     |
 |![](docs/images/library/fgdc/25.022.png)  |fgdc     |25.022                     | Thrust fault, planetary—Location approximate. Sawteeth on upper plate                                                             |     |
 |![](docs/images/library/fgdc/25.023.png)  |fgdc     |25.023                     | Thrust fault, planetary—Location inferred. Sawteeth on upper plate                                                                |     |
-|![](docs/images/library/fgdc/25.024.png)  |fgdc     |25.034                     | Concentric fracture, planetary (associated with coronae)                                                                          |     |
+|![](docs/images/library/fgdc/25.024.png)  |fgdc     |25.024                     | Thrust fault, planetary-Location concealed. Sawteeth on upper plate                                                               |     |
 |![](docs/images/library/fgdc/25.025.png)  |fgdc     |25.025                     | Graben trace, planetary (shown as single line where bounding normal faults cannot be mapped separately)—Location accurate         |     |
 |![](docs/images/library/fgdc/25.026.png)  |fgdc     |25.026                     | Graben trace, planetary (shown as single line where bounding normal faults cannot be mapped separately)-Location approximate      |     |
 |![](docs/images/library/fgdc/25.027.png)  |fgdc     |25.027                     | Graben trace, planetary (shown as single line where bounding normal faults cannot be mapped separately)-Location inferred         |     |
@@ -104,7 +104,7 @@ There are:
 |![](docs/images/library/fgdc/25.100.png)  |fgdc     |25.100                     | Basin ring, planetary                                                                                                             |     |
 |![](docs/images/library/fgdc/25.101.png)  |fgdc     |25.101                     | Central peak of impact crater, planetary (1st option)                                                                             |     |
 |![](docs/images/library/fgdc/25.102.png)  |fgdc     |25.102                     | Central peak of impact crater, planetary (2nd option)                                                                             |     |
-|![](docs/images/library/fgdc/25.104.png)  |fgdc     |25.124                     | Joint or fracture pattern, planetary                                                                                              |     |
+|![](docs/images/library/fgdc/25.104.png)  |fgdc     |25.104                     | Pit of impact crater floor, planetary (2nd option)                                                                                |     |
 |![](docs/images/library/fgdc/25.105.png)  |fgdc     |25.105                     | Pit-crater chain (mapped to scale), planetary                                                                                     |     |
 |![](docs/images/library/fgdc/25.106.png)  |fgdc     |25.106                     | Small endogenic crater, planetary                                                                                                 |     |
 |![](docs/images/library/fgdc/25.107.png)  |fgdc     |25.107                     | Small endogenic crater (mapped to scale), planetary                                                                               |     |
