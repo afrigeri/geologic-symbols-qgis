@@ -3,7 +3,7 @@
   <symbols>
     <symbol name="25.121: Dark-colored mantling material, planetary" tags="Grayscale" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
       <layer class="SVGFill" pass="0" enabled="1" locked="0">
-        <prop k="angle" v="0"/>
+        <prop k="angle" v="45"/>
         <prop k="color" v="255,255,255,255"/>
         <prop k="outline_color" v="35,35,35,255"/>
         <prop k="outline_width" v="0.2"/>
