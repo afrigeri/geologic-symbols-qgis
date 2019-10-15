@@ -3791,7 +3791,7 @@
       <prop k="svgFile" v="patterns/fgdc/429-C.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -5154,7 +5154,7 @@
       <prop k="svgFile" v="patterns/fgdc/435-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -5864,7 +5864,7 @@
       <prop k="svgFile" v="patterns/fgdc/214-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
@@ -7077,7 +7077,7 @@
       <prop k="svgFile" v="patterns/fgdc/434-K.svg" />
       <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0" />
       <prop k="svg_outline_width_unit" v="MM" />
-      <prop k="width" v="5" />
+      <prop k="width" v="20" />
       <data_defined_properties>
           <Option type="Map">
             <Option name="name" type="QString" value="" />
