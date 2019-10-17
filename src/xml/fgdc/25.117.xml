@@ -28,7 +28,7 @@
             <prop v="255,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
-	    <prop v="gsymblib-svg/symbols/fgdc/25.117_arrow.svg" k="name"/>
+	    <prop v="symbols/fgdc/25.117_arrow.svg" k="name"/>
             <prop v="0,0" k="offset"/>
             <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
             <prop v="MM" k="offset_unit"/>
