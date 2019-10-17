@@ -47,15 +47,17 @@ from qgis.core import (QgsSymbol,
 #QSettings().setValue('svg/searchPathsForSVG', svg_paths)
 
 
+
+SVG_DIR="gsymblib-svg"
+
 from qgis.testing import start_app
 
 QGISAPP = start_app()
 
 svgpaths = QGISAPP.svgPaths()
-svgpaths.append('.svg/')
-svgpaths.append( os.path.join( os.getcwd(),'svg') ) 
+svgpaths.append('.%s/'%SVG_DIR)
+svgpaths.append( os.path.join( os.getcwd(), SVG_DIR ) ) 
 QGISAPP.setDefaultSvgPaths(svgpaths)
-print("PIPPO")
 print(QGISAPP.svgPaths())
 
 
