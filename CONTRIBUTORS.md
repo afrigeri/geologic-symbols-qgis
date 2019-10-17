@@ -1,4 +1,4 @@
-Geologic symbols library for QGIS contributors (sorted alphabetically)
+gsymblib contributors (sorted alphabetically)
 ======================================================================
 
 * **[Daven Quinn](https://github.com/davenquinn)**
