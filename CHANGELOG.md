@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
 
+
+## [1.0.0-rc.1] - 2019-10-16
+
 ### Changed
 
 - QGIS minimum version is 3.8.x-Zanzibar, support of Hashed Line symbol type
@@ -27,3 +30,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - wrong fgdc SVG pattern directory (typo) [@chbrandt](https://github.com/chbrandt)
 
+### Known Issues
+
+- Qt5 of QGIS supports SVG Tiny 1.2. Pattern of symbols fgdc 25.128 25.129 25.133 use 
+ClipPath which is defined in SVG 2.  The fills are rendered as all black.  We need to 
+convert these patterns into SVG Tiny 1.2 compatible ones.
