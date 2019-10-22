@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.6 (Compiled Thu Aug 31 10:01:05 2017) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" version="1.1" viewBox="0.009 -56.693 56.693 56.693" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" baseProfile="tiny" width="56.693" y="0px" height="56.693">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.009 -56.693 56.693 56.693" y="0px" height="56.693" x="0px" version="1.1" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" width="56.693">
  <g>
-  <rect style="fill:none;" x="0.009" width="56.693" y="-56.693" height="56.693"/>
-  <rect style="fill:#F69780;" x="0" width="5.669" y="-56.693" height="56.693"/>
-  <rect style="fill:#8DCEAB;" x="5.669" width="5.67" y="-56.693" height="56.693"/>
-  <rect style="fill:#F69780;" x="11.339" width="5.669" y="-56.693" height="56.693"/>
-  <rect style="fill:#8DCEAB;" x="17.008" width="5.669" y="-56.693" height="56.693"/>
-  <rect style="fill:#F69780;" x="22.677" width="5.67" y="-56.693" height="56.693"/>
-  <rect style="fill:#8DCEAB;" x="28.347" width="5.669" y="-56.693" height="56.693"/>
-  <rect style="fill:#F69780;" x="34.016" width="5.67" y="-56.693" height="56.693"/>
-  <rect style="fill:#8DCEAB;" x="39.686" width="5.669" y="-56.693" height="56.693"/>
-  <rect style="fill:#F69780;" x="45.354" width="5.669" y="-56.693" height="56.693"/>
-  <rect style="fill:#8DCEAB;" x="51.023" width="5.67" y="-56.693" height="56.693"/>
+  <rect y="-56.693" height="56.693" style="fill:none;" x="0.009" width="56.693"/>
+  <rect y="-56.693" height="56.693" style="fill:#F69780;" x="0" width="5.669"/>
+  <rect y="-56.693" height="56.693" style="fill:#8DCEAB;" x="5.669" width="5.67"/>
+  <rect y="-56.693" height="56.693" style="fill:#F69780;" x="11.339" width="5.669"/>
+  <rect y="-56.693" height="56.693" style="fill:#8DCEAB;" x="17.008" width="5.669"/>
+  <rect y="-56.693" height="56.693" style="fill:#F69780;" x="22.677" width="5.67"/>
+  <rect y="-56.693" height="56.693" style="fill:#8DCEAB;" x="28.347" width="5.669"/>
+  <rect y="-56.693" height="56.693" style="fill:#F69780;" x="34.016" width="5.67"/>
+  <rect y="-56.693" height="56.693" style="fill:#8DCEAB;" x="39.686" width="5.669"/>
+  <rect y="-56.693" height="56.693" style="fill:#F69780;" x="45.354" width="5.669"/>
+  <rect y="-56.693" height="56.693" style="fill:#8DCEAB;" x="51.023" width="5.67"/>
  </g>
 </svg>
