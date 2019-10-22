@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.6 (Compiled Thu Aug 31 10:01:05 2017) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" height="17.795" baseProfile="tiny" version="1.1" viewBox="1.341 -19.048 17.794 17.795" y="0px" width="17.794" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="17.795" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" xml:space="preserve" width="17.794" viewBox="1.341 -19.048 17.794 17.795" baseProfile="tiny">
  <g>
-  <rect height="17.795" y="-19.048" width="17.794" x="1.341" style="fill:none;"/>
-  <line y2="-16.233" y1="-17.884" x2="18.161" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="16.875"/>
-  <line y2="-18.124" y1="-16.249" x2="19.125" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="18.139"/>
-  <line y2="-19" y1="-17.118" x2="4.983" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="5.899"/>
-  <line y2="-17.349" y1="-18.979" x2="3.65" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="5.001"/>
-  <line y2="-5.016" y1="-4.566" x2="5.072" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="3.029"/>
-  <line y2="-6.699" y1="-5.004" x2="3.78" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="5.049"/>
-  <line y2="-13.153" y1="-11.518" x2="3.041" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="4.345"/>
-  <line y2="-11.253" y1="-13.139" x2="2.1" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="3.063"/>
-  <line y2="-12.577" y1="-12.594" x2="9.693" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="7.601"/>
-  <line y2="-14.507" y1="-12.57" x2="8.807" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="9.667"/>
-  <line y2="-3.68" y1="-2.1" x2="16.708" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="15.337"/>
-  <line y2="-4.26" y1="-3.655" x2="14.668" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="16.697"/>
-  <line y2="-15.979" y1="-18.033" x2="11.64" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="12.036"/>
-  <line y2="-16.501" y1="-16.007" x2="13.697" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="11.638"/>
-  <line y2="-13.753" y1="-12.029" x2="15.845" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="14.658"/>
-  <line y2="-14.102" y1="-13.727" x2="13.753" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="15.836"/>
-  <line y2="-2.382" y1="-4.286" x2="8.618" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="9.482"/>
-  <line y2="-2.407" y1="-2.407" x2="10.74" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="8.622"/>
-  <line y2="-9.302" y1="-9.139" x2="7.189" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="9.275"/>
-  <line y2="-7.315" y1="-9.307" x2="7.937" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="7.215"/>
-  <line y2="-7.339" y1="-9.243" x2="16.962" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="17.826"/>
-  <line y2="-7.364" y1="-7.364" x2="19.083" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="16.966"/>
-  <line y2="-8.789" y1="-6.697" x2="13.75" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="13.694"/>
-  <line y2="-7.94" y1="-8.763" x2="11.807" style="fill:none;stroke:#EC008C;stroke-width:0.55;" x1="13.757"/>
+  <rect style="fill:none;" height="17.795" y="-19.048" x="1.341" width="17.794"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-17.884" x1="16.875" y2="-16.233" x2="18.161"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-16.249" x1="18.139" y2="-18.124" x2="19.125"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-17.118" x1="5.899" y2="-19" x2="4.983"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-18.979" x1="5.001" y2="-17.349" x2="3.65"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-4.566" x1="3.029" y2="-5.016" x2="5.072"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-5.004" x1="5.049" y2="-6.699" x2="3.78"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-11.518" x1="4.345" y2="-13.153" x2="3.041"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-13.139" x1="3.063" y2="-11.253" x2="2.1"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-12.594" x1="7.601" y2="-12.577" x2="9.693"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-12.57" x1="9.667" y2="-14.507" x2="8.807"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-2.1" x1="15.337" y2="-3.68" x2="16.708"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-3.655" x1="16.697" y2="-4.26" x2="14.668"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-18.033" x1="12.036" y2="-15.979" x2="11.64"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-16.007" x1="11.638" y2="-16.501" x2="13.697"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-12.029" x1="14.658" y2="-13.753" x2="15.845"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-13.727" x1="15.836" y2="-14.102" x2="13.753"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-4.286" x1="9.482" y2="-2.382" x2="8.618"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-2.407" x1="8.622" y2="-2.407" x2="10.74"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-9.139" x1="9.275" y2="-9.302" x2="7.189"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-9.307" x1="7.215" y2="-7.315" x2="7.937"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-9.243" x1="17.826" y2="-7.339" x2="16.962"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-7.364" x1="16.966" y2="-7.364" x2="19.083"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-6.697" x1="13.694" y2="-8.789" x2="13.75"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.55;" y1="-8.763" x1="13.757" y2="-7.94" x2="11.807"/>
  </g>
 </svg>

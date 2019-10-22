@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.6 (Compiled Thu Aug 31 10:01:05 2017) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" x="0px" xml:space="preserve" width="74.561" version="1.1" y="0px" height="74.55" viewBox="1.86 -76.41 74.561 74.55" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" baseProfile="tiny" version="1.1" x="0px" height="74.55" viewBox="1.86 -76.41 74.561 74.55" width="74.561" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
  <g>
-  <rect x="1.86" style="fill:none;" width="74.561" y="-76.41" height="74.55"/>
+  <rect style="fill:none;" x="1.86" height="74.55" width="74.561" y="-76.41"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M65.756-65.259c3.5-3.166,7.232-9.006,8.954-11.151"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M72.277-76.41c-0.693,1.063-1.295,2.1-1.445,2.363"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M59.457-61.097c4.9-2.494,6.06-8.729,10.435-11.704"/>
@@ -149,7 +149,7 @@
   <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M44.582-24.566c1.788-2.918,4.113-6.3,4.812-7.525    c0.309-0.54,1.416-1.751,2.66-3.094l0.095-0.082c1.251-1.351,2.622-2.821,3.446-3.868h-0.017c0.207-0.262,0.467-0.591,1.189-1.312    c0.722-0.722,4.462-4.2,6.169-6.891"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M51.976-36.969c0.375-0.613,1.014-1.438,1.63-2.166h-0.018    c0.181-0.215,0.361-0.422,0.532-0.613c0,0-0.043,0.022,0.482-0.7c0.525-0.722,0.591-1.641,2.166-3.478    c1.575-1.838,3.15-3.325,4.003-5.885c0.854-2.559,2.45-5.775,4.288-8.312"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M46.824-32.54c1.05-0.984,2.658-3.423,2.658-3.423    c0.903-1.225,1.475-2.265,1.852-3.172h-0.009c0.866-2.07,0.718-3.445,1.175-4.725c0.656-1.837,3.675-5.841,5.316-7.809"/>
-  <line y1="-1.86" x1="39.844" style="fill:none;stroke:#000000;stroke-width:0.43;" x2="39.839" y2="-1.86"/>
+  <line style="fill:none;stroke:#000000;stroke-width:0.43;" x2="39.839" y2="-1.86" y1="-1.86" x1="39.844"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M29.455-29.619c4.083-2.295,7.414-8.162,9.135-10.307"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M38.052-2.516c-0.205,0.165-0.413,0.388-0.628,0.656"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M33.546-36.772c0.15-0.263,0.536-0.892,1.229-1.955    c0.114-0.176,1.129-1.205,1.247-1.378c0,0,1.214-0.788,1.838-1.181"/>
