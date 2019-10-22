@@ -51,3 +51,9 @@ manual:
 
 update_usgs_patterns:
 	svn export --force https://github.com/davenquinn/geologic-patterns/trunk/assets/svg $(SVG_DIR)/patterns/fgdc
+	# Convert svg to svg Tiny 1.2 which is required by Qt5
+	for svgfile in $(shell ls $(SVG_DIR)/patterns/fgdc/*.svg) ; do \
+    		svg2svgt $${svgfile} $${svgfile}.tiny ; \
+		mv $${svgfile}.tiny.svg $${svgfile} ; \
+	done
+

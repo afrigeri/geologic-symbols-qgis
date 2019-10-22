@@ -1,4 +1,4 @@
-# Table of symbols, updated October 17, 2019
+# Table of symbols, updated October 22, 2019
 There are:
  * 130 entries for fgdc.
  * 1 entries for extra.
