@@ -1,37 +1,37 @@
 <?xml version="1.0"?>
-<!-- Converted with SVG Converter - Version 0.9.6 (Compiled Thu Aug 31 10:01:05 2017) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" y="0px" x="0px" xml:space="preserve" height="53.978" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="53.978" baseProfile="tiny" viewBox="1 -54.978 53.978 53.978">
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="53.978" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" baseProfile="tiny" viewBox="1 -54.978 53.978 53.978" y="0px" width="53.978" x="0px">
  <g>
-  <rect y="-54.978" x="1" style="fill:none;" height="53.978" width="53.978"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="4.44" r="2.357" cy="-36.017"/>
-  <rect y="-36.838" x="3.62" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="37.907" r="2.357" cy="-32.679"/>
-  <rect y="-33.5" x="37.086" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="51.394" r="2.357" cy="-26.583"/>
-  <rect y="-27.404" x="50.574" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="23.798" r="2.357" cy="-39.407"/>
-  <rect y="-40.228" x="22.978" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="8.894" r="2.357" cy="-46.833"/>
-  <rect y="-47.654" x="8.074" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="42.798" r="2.357" cy="-45.657"/>
-  <rect y="-46.478" x="41.978" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="23.144" r="2.357" cy="-51.208"/>
-  <rect y="-52.029" x="22.324" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="51.269" r="2.357" cy="-51.708"/>
-  <rect y="-52.529" x="50.449" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="19.824" r="2.357" cy="-27.862"/>
-  <rect y="-28.683" x="19.003" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="4.824" r="2.357" cy="-16.237"/>
-  <rect y="-17.058" x="4.003" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="39.074" r="2.357" cy="-18.112"/>
-  <rect y="-18.933" x="38.253" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="48.824" r="2.357" cy="-9.862"/>
-  <rect y="-10.683" x="48.003" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="34.199" r="2.357" cy="-4.987"/>
-  <rect y="-5.808" x="33.378" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="22.574" r="2.357" cy="-11.987"/>
-  <rect y="-12.808" x="21.753" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:0.3;" cx="11.824" r="2.357" cy="-4.237"/>
-  <rect y="-5.058" x="11.003" style="fill:none;stroke:#000000;stroke-width:0.3;" height="1.641" width="1.641"/>
+  <rect height="53.978" style="fill:none;" y="-54.978" width="53.978" x="1"/>
+  <circle cy="-36.017" cx="4.44" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-36.838" width="1.641" x="3.62"/>
+  <circle cy="-32.679" cx="37.907" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-33.5" width="1.641" x="37.086"/>
+  <circle cy="-26.583" cx="51.394" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-27.404" width="1.641" x="50.574"/>
+  <circle cy="-39.407" cx="23.798" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-40.228" width="1.641" x="22.978"/>
+  <circle cy="-46.833" cx="8.894" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-47.654" width="1.641" x="8.074"/>
+  <circle cy="-45.657" cx="42.798" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-46.478" width="1.641" x="41.978"/>
+  <circle cy="-51.208" cx="23.144" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-52.029" width="1.641" x="22.324"/>
+  <circle cy="-51.708" cx="51.269" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-52.529" width="1.641" x="50.449"/>
+  <circle cy="-27.862" cx="19.824" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-28.683" width="1.641" x="19.003"/>
+  <circle cy="-16.237" cx="4.824" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-17.058" width="1.641" x="4.003"/>
+  <circle cy="-18.112" cx="39.074" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-18.933" width="1.641" x="38.253"/>
+  <circle cy="-9.862" cx="48.824" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-10.683" width="1.641" x="48.003"/>
+  <circle cy="-4.987" cx="34.199" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-5.808" width="1.641" x="33.378"/>
+  <circle cy="-11.987" cx="22.574" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-12.808" width="1.641" x="21.753"/>
+  <circle cy="-4.237" cx="11.824" style="fill:none;stroke:#000000;stroke-width:0.3;" r="2.357"/>
+  <rect height="1.641" style="fill:none;stroke:#000000;stroke-width:0.3;" y="-5.058" width="1.641" x="11.003"/>
  </g>
 </svg>

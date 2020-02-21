@@ -2,10 +2,16 @@
 ![QGIS](docs/images/ss02.png)
 
 # gsymblib: Geologic symbols library and development for QGIS 
-#### Alessandro Frigeri, IAPS/INAF - Oct, 2019
+#### Alessandro Frigeri, IAPS/INAF - Feb, 2020
 
 
 This project brings into QGIS symbols useful in geological mapping.  Styling for points, lines, fill patterns and gradients are included.  The symbols currently included in the library can be found in the [STATUS table](STATUS.md).  Currently the library includes symbols defined by FGDC, but others from different mapping authorities/institutionis can be added.
+
+The features of __gsymblib__ are:
+ * bring into QGIS a set of geologic symbols which are:
+    - ordered: family (for example agency standards) of symbols are separated
+    - documented: every symbol/line/pattern has always three elements: graphics/ID/description. 
+    - incrementally improvable/upgradable: new symbols can be added or some symbols can be fixed  
 
 ## News
 
@@ -61,3 +67,5 @@ The problem of having a meaningful symbology in modern softwares has been in the
 * Naß, A.; Fortezzo, C. M.; Skinner, J. A. Cartographic Symbolization in Geologic and Geomorphologic Maps — Specified Collection and GIS-Based Implementation for Planetary Science.  Third Planetary Data Workshop and The Planetary Geologic Mappers Annual Meeting, held June 12-15, 2017 in Flagstaff, Arizona. LPI Contribution No. 1986, id.7064
 
 * Nass, Andrea; Fortezzo, Corey; Skinner, James, Jr.; Hunter, Marc; Hare, Trent Updated symbol catalogue for geologic and geomorphologic mapping in Planetary Scinces.  19th EGU General Assembly, EGU2017, proceedings from the conference held 23-28 April, 2017 in Vienna, Austria., p.16858
+
+* Frigeri, Alessandro; gsymblib: simboli e retini per la cartografia geologica in QGIS. in FOSS4G-it, Torino, 18-21 February 2020, [page 49](https://re.public.polimi.it/retrieve/handle/11311/1130402/492752/Raccolta%20Abstract%20FOSS4G%202020.pdf) 

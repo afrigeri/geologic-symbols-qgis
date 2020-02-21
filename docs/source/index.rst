@@ -15,6 +15,7 @@ Welcome to Geologic symbols in QGIS's documentation!
    usage
    developers_guide
    tutorial
+   table_of_symbols
 
 .. bibliography:: references.bib
 
