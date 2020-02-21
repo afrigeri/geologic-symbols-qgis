@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
 
+### Changed
+
+### Added
+
+- SVG to TinySVG conversion during the build process. Done with svg2svgt (LGPL Nokia).
 
 ## [1.0.0-rc.1] - 2019-10-16
 

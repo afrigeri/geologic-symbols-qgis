@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
-<!-- Converted with SVG Converter - Version 0.9.6 (Compiled Thu Aug 31 10:01:05 2017) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" height="7.924" xmlns:xlink="http://www.w3.org/1999/xlink" width="7.924" x="0px" version="1.1" y="0px" baseProfile="tiny" xml:space="preserve" viewBox="0 -7.924 7.924 7.924">
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" width="7.924" height="7.924" y="0px" viewBox="0 -7.924 7.924 7.924" xml:space="preserve" version="1.1" baseProfile="tiny">
  <g>
-  <rect height="7.924" width="7.924" x="0" y="-7.924" style="fill:none;"/>
-  <circle r="0.82" cy="-6.413" cx="4.163" style="fill:#ED1B2E;"/>
-  <circle r="0.82" cy="-3.913" cx="5.687" style="fill:#ED1B2E;"/>
-  <circle r="0.82" cy="-3.913" cx="2.581" style="fill:#ED1B2E;"/>
-  <circle r="0.82" cy="-1.413" cx="4.163" style="fill:#ED1B2E;"/>
+  <rect x="0" width="7.924" height="7.924" y="-7.924" style="fill:none;"/>
+  <circle cy="-6.413" cx="4.163" r="0.82" style="fill:#ED1B2E;"/>
+  <circle cy="-3.913" cx="5.687" r="0.82" style="fill:#ED1B2E;"/>
+  <circle cy="-3.913" cx="2.581" r="0.82" style="fill:#ED1B2E;"/>
+  <circle cy="-1.413" cx="4.163" r="0.82" style="fill:#ED1B2E;"/>
   <path d="M0-6.217v1.64c0.007,0,0.015,0,0.023,0c0.453,0,0.82-0.367,0.82-0.82c0-0.453-0.367-0.82-0.82-0.82    C0.015-6.217,0.007-6.217,0-6.217z" style="fill:#ED1B2E;"/>
   <path d="M7.924-4.578v-1.639C7.488-6.198,7.14-5.838,7.14-5.397S7.488-4.596,7.924-4.578z" style="fill:#ED1B2E;"/>
   <path d="M0-3.248v1.64c0.007,0,0.015,0,0.023,0c0.453,0,0.82-0.367,0.82-0.82s-0.367-0.82-0.82-0.82    C0.015-3.249,0.007-3.248,0-3.248z" style="fill:#ED1B2E;"/>
@@ -15,6 +15,6 @@
   <path d="M0.785,0h1.639c-0.021-0.434-0.38-0.78-0.819-0.78C1.165-0.78,0.806-0.434,0.785,0z" style="fill:#ED1B2E;"/>
   <path d="M5.922,0h1.639C7.54-0.434,7.181-0.78,6.741-0.78C6.302-0.78,5.943-0.434,5.922,0z" style="fill:#ED1B2E;"/>
   <path d="M0.785-7.924c0,0.009,0,0.018,0,0.027c0,0.453,0.367,0.82,0.82,0.82s0.82-0.367,0.82-0.82    c0-0.009,0-0.018,0-0.027H0.785z" style="fill:#ED1B2E;"/>
-  <rect height="7.924" width="7.924" x="0" y="-7.924" style="fill:none;"/>
+  <rect x="0" width="7.924" height="7.924" y="-7.924" style="fill:none;"/>
  </g>
 </svg>

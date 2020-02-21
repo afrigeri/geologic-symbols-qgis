@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<!-- Converted with SVG Converter - Version 0.9.6 (Compiled Thu Aug 31 10:01:05 2017) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="72.571" baseProfile="tiny" y="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" width="72.571" viewBox="1 -74.432 72.571 72.571">
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" y="0px" xml:space="preserve" version="1.1" height="72.571" x="0px" width="72.571" viewBox="1 -74.432 72.571 72.571" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
-  <rect style="fill:none;" height="72.571" y="-74.432" x="1" width="72.571"/>
-  <rect height="72.571" y="-74.432" x="1" width="72.571"/>
+  <rect style="fill:none;" y="-74.432" height="72.571" x="1" width="72.571"/>
+  <rect y="-74.432" height="72.571" x="1" width="72.571"/>
   <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" x1="2.701" y1="-74.432" x2="2.701" y2="-1.86"/>
   <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" x1="6.156" y1="-74.432" x2="6.156" y2="-1.86"/>
   <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" x1="9.611" y1="-74.432" x2="9.611" y2="-1.86"/>
