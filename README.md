@@ -15,6 +15,7 @@ The features of __gsymblib__ are:
 
 ## News
 
+* Feb 22, 2020: added symbolsplitter script 
 * Oct 16, 2019: [gsymblib 1.0.0-rc1 is out](https://github.com/afrigeri/geologic-symbols-qgis/releases).  The first release of the gsymblib includes all the FGDC symbol-set for planetary geology.
 
 ## System requirements
@@ -23,7 +24,7 @@ A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software in
 
 ## Installation and setup
 
-1. Download the [zipfile](https://github.com/afrigeri/geologic-symbols-qgis/raw/master/dist/geologic_symbols_qgis.zip) containing the symbology files.
+1. Download the latest [gsymblib release](https://github.com/afrigeri/geologic-symbols-qgis/releases) containing the symbology files (symbols and patterns).
 2. Extract the zip archive and move the __svg__ directory to a place where you want to store the patterns and symbols.  It can be any directory.
 3. Open QGis and go to 'Settings -> Options' (Ubuntu) or 'Preferences' (OSX) and select the second tab from the top: 'System'
 4. Under the __SVG Paths__ form click the add button and select the the __svg__ directory you have just extracted from the zipfile.

@@ -7,11 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
 
-### Changed
-
-### Added
-
-- SVG to TinySVG conversion during the build process. Done with svg2svgt (LGPL Nokia).
+- conversion of SVG patterns to SVG 1.2 Tiny which is required by Qt5
+  see discussion on QGIS [#32270](https://github.com/qgis/QGIS/issues/32270)
 
 ## [1.0.0-rc.1] - 2019-10-16
 
