@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" y="0px" viewBox="0 -86.614 86.613 86.614" baseProfile="tiny" xml:space="preserve" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.613" x="0px" height="86.614">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" height="86.614" width="86.613" version="1.1" y="0px" viewBox="0 -86.614 86.613 86.614" baseProfile="tiny">
  <g>
-  <rect y="-86.614" style="fill:none;" width="86.613" x="0" height="86.614"/>
+  <rect x="0" style="fill:none;" height="86.614" width="86.613" y="-86.614"/>
   <polyline style="fill:#00AEEF;" points="0,-72.147 0.092,-72.265 0.747,-70.995 0,-71.022   "/>
   <polygon style="fill:#00AEEF;" points="20.175,-85.151 18.764,-84.897 19.427,-83.733   "/>
   <polygon style="fill:none;" points="20.175,-85.151 18.764,-84.897 19.427,-83.733   "/>
@@ -1197,37 +1197,37 @@
   <polyline style="fill:none;" points="59.665,0 59.78,-0.09 58.46,-0.637 58.484,0   "/>
   <polyline style="fill:#00AEEF;" points="81.336,0 81.451,-0.09 80.131,-0.637 80.155,0   "/>
   <polyline style="fill:none;" points="81.336,0 81.451,-0.09 80.131,-0.637 80.155,0   "/>
-  <line y1="0" style="fill:#00AEEF;" x1="80.155" x2="81.336" y2="0"/>
-  <line y1="0" style="fill:none;" x1="80.155" x2="81.336" y2="0"/>
-  <line y1="-6.079" style="fill:#00AEEF;" x1="86.613" x2="86.613" y2="-7.131"/>
-  <line y1="-6.079" style="fill:none;" x1="86.613" x2="86.613" y2="-7.131"/>
-  <line y1="-72.147" style="fill:#00AEEF;" x1="0" x2="0" y2="-71.022"/>
-  <line y1="-72.147" style="fill:none;" x1="0" x2="0" y2="-71.022"/>
-  <line y1="-27.712" style="fill:#00AEEF;" x1="86.613" x2="86.613" y2="-28.764"/>
-  <line y1="-27.712" style="fill:none;" x1="86.613" x2="86.613" y2="-28.764"/>
-  <line y1="0" style="fill:#00AEEF;" x1="36.826" x2="38.007" y2="0"/>
-  <line y1="0" style="fill:none;" x1="36.826" x2="38.007" y2="0"/>
-  <line y1="0" style="fill:#00AEEF;" x1="15.156" x2="16.336" y2="0"/>
-  <line y1="0" style="fill:none;" x1="15.156" x2="16.336" y2="0"/>
-  <line y1="-49.391" style="fill:#00AEEF;" x1="0" x2="0" y2="-50.516"/>
-  <line y1="-49.391" style="fill:none;" x1="0" x2="0" y2="-50.516"/>
-  <line y1="0" style="fill:#00AEEF;" x1="58.484" x2="59.665" y2="0"/>
-  <line y1="0" style="fill:none;" x1="58.484" x2="59.665" y2="0"/>
-  <line y1="-49.393" style="fill:#00AEEF;" x1="86.613" x2="86.613" y2="-50.445"/>
-  <line y1="-49.393" style="fill:none;" x1="86.613" x2="86.613" y2="-50.445"/>
-  <line y1="-71.024" style="fill:#00AEEF;" x1="86.613" x2="86.613" y2="-72.077"/>
-  <line y1="-71.024" style="fill:none;" x1="86.613" x2="86.613" y2="-72.077"/>
-  <line y1="-86.614" style="fill:#00AEEF;" x1="59.656" x2="58.485" y2="-86.614"/>
-  <line y1="-86.614" style="fill:none;" x1="59.656" x2="58.485" y2="-86.614"/>
-  <line y1="-28.834" style="fill:#00AEEF;" x1="0" x2="0" y2="-27.71"/>
-  <line y1="-28.834" style="fill:none;" x1="0" x2="0" y2="-27.71"/>
-  <line y1="-86.614" style="fill:#00AEEF;" x1="81.327" x2="80.155" y2="-86.614"/>
-  <line y1="-86.614" style="fill:none;" x1="81.327" x2="80.155" y2="-86.614"/>
-  <line y1="-86.614" style="fill:#00AEEF;" x1="16.328" x2="15.156" y2="-86.614"/>
-  <line y1="-86.614" style="fill:none;" x1="16.328" x2="15.156" y2="-86.614"/>
-  <line y1="-86.614" style="fill:#00AEEF;" x1="37.998" x2="36.826" y2="-86.614"/>
-  <line y1="-86.614" style="fill:none;" x1="37.998" x2="36.826" y2="-86.614"/>
-  <line y1="-6.077" style="fill:#00AEEF;" x1="0" x2="0" y2="-7.201"/>
-  <line y1="-6.077" style="fill:none;" x1="0" x2="0" y2="-7.201"/>
+  <line y1="0" y2="0" style="fill:#00AEEF;" x2="81.336" x1="80.155"/>
+  <line y1="0" y2="0" style="fill:none;" x2="81.336" x1="80.155"/>
+  <line y1="-6.079" y2="-7.131" style="fill:#00AEEF;" x2="86.613" x1="86.613"/>
+  <line y1="-6.079" y2="-7.131" style="fill:none;" x2="86.613" x1="86.613"/>
+  <line y1="-72.147" y2="-71.022" style="fill:#00AEEF;" x2="0" x1="0"/>
+  <line y1="-72.147" y2="-71.022" style="fill:none;" x2="0" x1="0"/>
+  <line y1="-27.712" y2="-28.764" style="fill:#00AEEF;" x2="86.613" x1="86.613"/>
+  <line y1="-27.712" y2="-28.764" style="fill:none;" x2="86.613" x1="86.613"/>
+  <line y1="0" y2="0" style="fill:#00AEEF;" x2="38.007" x1="36.826"/>
+  <line y1="0" y2="0" style="fill:none;" x2="38.007" x1="36.826"/>
+  <line y1="0" y2="0" style="fill:#00AEEF;" x2="16.336" x1="15.156"/>
+  <line y1="0" y2="0" style="fill:none;" x2="16.336" x1="15.156"/>
+  <line y1="-49.391" y2="-50.516" style="fill:#00AEEF;" x2="0" x1="0"/>
+  <line y1="-49.391" y2="-50.516" style="fill:none;" x2="0" x1="0"/>
+  <line y1="0" y2="0" style="fill:#00AEEF;" x2="59.665" x1="58.484"/>
+  <line y1="0" y2="0" style="fill:none;" x2="59.665" x1="58.484"/>
+  <line y1="-49.393" y2="-50.445" style="fill:#00AEEF;" x2="86.613" x1="86.613"/>
+  <line y1="-49.393" y2="-50.445" style="fill:none;" x2="86.613" x1="86.613"/>
+  <line y1="-71.024" y2="-72.077" style="fill:#00AEEF;" x2="86.613" x1="86.613"/>
+  <line y1="-71.024" y2="-72.077" style="fill:none;" x2="86.613" x1="86.613"/>
+  <line y1="-86.614" y2="-86.614" style="fill:#00AEEF;" x2="58.485" x1="59.656"/>
+  <line y1="-86.614" y2="-86.614" style="fill:none;" x2="58.485" x1="59.656"/>
+  <line y1="-28.834" y2="-27.71" style="fill:#00AEEF;" x2="0" x1="0"/>
+  <line y1="-28.834" y2="-27.71" style="fill:none;" x2="0" x1="0"/>
+  <line y1="-86.614" y2="-86.614" style="fill:#00AEEF;" x2="80.155" x1="81.327"/>
+  <line y1="-86.614" y2="-86.614" style="fill:none;" x2="80.155" x1="81.327"/>
+  <line y1="-86.614" y2="-86.614" style="fill:#00AEEF;" x2="15.156" x1="16.328"/>
+  <line y1="-86.614" y2="-86.614" style="fill:none;" x2="15.156" x1="16.328"/>
+  <line y1="-86.614" y2="-86.614" style="fill:#00AEEF;" x2="36.826" x1="37.998"/>
+  <line y1="-86.614" y2="-86.614" style="fill:none;" x2="36.826" x1="37.998"/>
+  <line y1="-6.077" y2="-7.201" style="fill:#00AEEF;" x2="0" x1="0"/>
+  <line y1="-6.077" y2="-7.201" style="fill:none;" x2="0" x1="0"/>
  </g>
 </svg>

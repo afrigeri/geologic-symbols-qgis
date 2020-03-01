@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali
+# Copyright (C) 2019-2020 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali
 # 
 # Geologic symbols in qgis.
 #
@@ -8,12 +8,18 @@
 
 SRC_DIR := xml
 
-DIST_DIR := ../dist
+REPO_DIR := ..
+DIST_DIR := $(REPO_DIR)/dist
 DIST_VERSION := 1.0.0-rc.1
 PACKAGE_NAME := gsymblib-$(DIST_VERSION)
 PACKAGE_DIR := $(DIST_DIR)/$(PACKAGE_NAME)
 TARGET_XML := gsymblib-$(DIST_VERSION).xml
 TARGET := $(DIST_DIR)/$(TARGET_XML)
+
+# COLLECTIONS (QGIS RESOURCE MANAGER PLUGIN)
+COLL_DIR := $(REPO_DIR)/collections
+COLL_SVG_DIR := $(COLL_DIR)/svg
+COLL_SYM_DIR := $(COLL_DIR)/symbol
 
 SVG_DIR := gsymblib-svg
 
@@ -40,6 +46,8 @@ dist: clean distclean all
 	mkdir -p $(PACKAGE_DIR)
 	cp -r $(DIST_FILES) $(PACKAGE_DIR)
 	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/$(SVG_DIR)
+	cd $(DIST_DIR); cp $(PACKAGE_NAME)/$(TARGET_XML) $(COLL_SYM_DIR)
+	cd $(DIST_DIR); cp $(PACKAGE_NAME)/$(SVG_DIR) $(COLL_XML_DIR)
 	rm -rf $(PACKAGE_DIR)
 
 distclean:

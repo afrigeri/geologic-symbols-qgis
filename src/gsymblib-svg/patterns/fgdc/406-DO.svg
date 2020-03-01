@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="55.5" xmlns:xlink="http://www.w3.org/1999/xlink" width="55.5" y="0px" x="0px" viewBox="1.86 -57.36 55.5 55.5" version="1.1" baseProfile="tiny">
+<svg xmlns="http://www.w3.org/2000/svg" y="0px" xml:space="preserve" x="0px" version="1.1" viewBox="1.86 -57.36 55.5 55.5" xmlns:xlink="http://www.w3.org/1999/xlink" height="55.5" width="55.5" baseProfile="tiny">
  <g>
-  <rect height="55.5" width="55.5" y="-57.36" x="1.86" style="fill:none;"/>
-  <rect height="55.5" width="55.5" y="-57.36" x="1.86"/>
+  <rect y="-57.36" x="1.86" height="55.5" style="fill:none;" width="55.5"/>
+  <rect y="-57.36" x="1.86" height="55.5" width="55.5"/>
   <line x2="3.258" y1="-5.509" style="fill:none;stroke:#FFFFFF;stroke-width:0.43;" x1="3.258" y2="-8.031"/>
   <line x2="3.258" y1="-15.6" style="fill:none;stroke:#FFFFFF;stroke-width:0.43;" x1="3.258" y2="-13.077"/>
   <line x2="3.258" y1="-13.077" style="fill:none;stroke:#FFFFFF;stroke-width:0.43;" x1="3.258" y2="-10.554"/>
