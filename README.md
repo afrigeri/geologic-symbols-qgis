@@ -2,7 +2,7 @@
 ![QGIS](docs/images/ss02.png)
 
 # gsymblib: Geologic symbols library and development for QGIS 
-#### Alessandro Frigeri, IAPS/INAF - Feb, 2020
+#### Alessandro Frigeri, IAPS/INAF - May, 2020
 
 
 This project brings into QGIS symbols useful in geological mapping.  Styling for points, lines, fill patterns and gradients are included.  The symbols currently included in the library can be found in the [STATUS table](STATUS.md).  Currently the library includes symbols defined by FGDC, but others from different mapping authorities/institutionis can be added.
