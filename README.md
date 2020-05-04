@@ -69,4 +69,6 @@ The problem of having a meaningful symbology in modern softwares has been in the
 
 * Nass, Andrea; Fortezzo, Corey; Skinner, James, Jr.; Hunter, Marc; Hare, Trent Updated symbol catalogue for geologic and geomorphologic mapping in Planetary Scinces.  19th EGU General Assembly, EGU2017, proceedings from the conference held 23-28 April, 2017 in Vienna, Austria., p.16858
 
+* Frigeri, Alessandro; gsymblib: Geologic symbols library and development for QGIS.  EGU 2020, Vienna - held online. DOI:[10.5194/egusphere-egu2020-22625](https://doi.org/10.5194/egusphere-egu2020-22625)
+
 * Frigeri, Alessandro; gsymblib: simboli e retini per la cartografia geologica in QGIS. in FOSS4G-it, Torino, 18-21 February 2020, [page 49](https://re.public.polimi.it/retrieve/handle/11311/1130402/492752/Raccolta%20Abstract%20FOSS4G%202020.pdf) 
