@@ -1,9 +1,20 @@
-#!/env/python
-#
+#!/Applications/QGIS3.14.app/Contents/MacOS/bin/python3
+# 
+# Usage of @executable_path is the limitation of the current all-in-one MacOS QGIS bundle.
+# see https://wincent.com/wiki/@executable_path,_@load_path_and_@rpath 
+# pip3 install --prefix=/Applications/QGIS3.14.app/Contents/Resources/python/ package_name
+# 
 # merge-symbols: merge geologic symbols into a single library. 
 #
-# (c) 2019 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali - INAF - Rome
+# (c) 2019-2020 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali - INAF - Rome
 #
+# it'd critical to:
+# export QT_QPA_PLATFORM_PLUGIN_PATH=/Applications/QGIS3.14.app/Contents/PlugIns/
+
+import os, sys
+#sys.path.insert(0, "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/")
+sys.path.append("/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/")
+
 import logging as log
 
 log.basicConfig(filename="merge.log",
@@ -14,7 +25,6 @@ log.basicConfig(filename="merge.log",
 
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
-import os,sys
 from xml.dom import minidom
 import glob
 
@@ -24,6 +34,7 @@ from pytablewriter import MarkdownTableWriter
 import datetime
 
 from validation import *
+
 
 from PyQt5.QtCore import QSize, QSettings
 from PyQt5.QtGui import QImage, QPainter

@@ -1,7 +1,7 @@
-# Table of symbols, updated October 22, 2019
+# Table of symbols, updated Settembre 10, 2020
 There are:
- * 130 entries for fgdc.
  * 1 entries for extra.
+ * 130 entries for fgdc.
 
 |                 graphics                 |authority|           code           |                                                           description                                                            |notes|
 |------------------------------------------|---------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------|-----|

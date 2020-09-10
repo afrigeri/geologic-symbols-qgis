@@ -1,3 +1,4 @@
+#!/Applications/QGIS3.14.app/Contents/MacOS/bin/python3
 #!/bin/env python3
 #
 #

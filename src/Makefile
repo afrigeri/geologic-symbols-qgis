@@ -4,6 +4,10 @@
 # Geologic symbols in qgis.
 #
 # 
+# set
+# export PYTHONPATH=/<qgispath>/Contents/Resources/python
+
+PYTHON=/Applications/QGIS3.14.app/Contents/MacOS/bin/python3
 
 
 SRC_DIR := xml
@@ -30,7 +34,7 @@ ICONS_DIR := $(DOCS_DIR)/images/library
 
 $(TARGET): $(SRC_DIR)
 	mkdir -p $(DIST_DIR)
-	python3 scripts/merge.py $< $@
+	$(PYTHON) scripts/merge.py $< $@
 
 all:
 	make update_usgs_patterns
