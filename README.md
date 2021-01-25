@@ -71,6 +71,8 @@ The problem of having a meaningful symbology in modern softwares has been in the
 
 ## References
 
+* gsymblib v1.0 - Geologic symbols library and development environment for QGIS [doi:10.20371/INAF/SW/2019_00007](http://dx.doi.org/10.20371/INAF/SW/2019_00007)
+
 * A. Nass, S. van Gasselt, R. Jaumann, H. Asche, Implementation of cartographic symbols for planetary mapping in geographic information systems, Planetary and Space Science, Volume 59, Issues 11-12, September 2011, Pages 1255-1264, ISSN 0032-0633, http://dx.doi.org/10.1016/j.pss.2010.08.022.
 (http://www.sciencedirect.com/science/article/pii/S0032063310002606)
 
