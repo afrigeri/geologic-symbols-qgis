@@ -22,7 +22,7 @@ The features of __gsymblib__ are:
 
 ## System requirements
 
-A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software installation on MS Windows, OS X or GNU/Linux.
+A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software installation on MS Windows, OS X or GNU/Linux.  For building the library on your own or developing the build framework, we spot QGIS 3.10 LTR as the target version.
 
 ## Installation and setup
 
