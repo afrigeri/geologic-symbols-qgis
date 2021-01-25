@@ -56,7 +56,7 @@ Remember to follow these simple guidelines:
 Convention here is to draw area features clockwise, and linear features with patterns drawn on the left side, so non-symmetric symbology is displayed correctly.
 
 
-##Developer info
+##  Developer info
 
 While the symbols library can be used in the most up-to-date version of QGIS, the development environment is kept on QGIS 3.10-LTR since we have to run standalone python/QGIS scripts to build the lib.
 
