@@ -50,9 +50,11 @@ Remember to follow these simple guidelines:
 2. __Naming__: all the symbols should be named as follow: [code or id] : [Description]. This way it will be much more easier to use the symbols in QGIS.
 3. For __asymmetric symbols__ ad scarps or thrusts, convention here is to draw features clockwise, or leave the symbol to the left of the line.  For example, the downthrown block of a normal fault is stays on the left of the line.
 
+
 ## Usage notes and conventions
 
 Convention here is to draw area features clockwise, and linear features with patterns drawn on the left side, so non-symmetric symbology is displayed correctly.
+
 
 ## Developer info
 
