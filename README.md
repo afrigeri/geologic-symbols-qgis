@@ -35,7 +35,7 @@ A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software in
 5. Exit from QGIS and re-open it to make __SVG Paths__ modifications active.
 5. In QGis, go to 'Settings -> Style Manager' and click on 'Import/Export -> Import items' button (at bottom-left)
 6. Select the __geologic_symblib.xml__ file extracted from the zip file.
-7. Now go to __Settings__ -> __Style Manager__, you should now have the geologic symbols listed and ready to style your geologic maps in your QGis!
+7. Now in QGIS go to __Settings__ -> __Style Manager__, you should now have the geologic symbols listed and ready to style your geologic maps in your QGis!
 
 ## How to contribute: add new symbols or fix existing ones
 
