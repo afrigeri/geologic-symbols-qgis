@@ -1,4 +1,4 @@
-# Table of symbols, updated January 26, 2021
+# gsymblib symbols list, updated January 26, 2021
 There are:
  * 1 entries for extra.
  * 130 entries for fgdc.
