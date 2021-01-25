@@ -26,9 +26,11 @@ A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software in
 
 ## Installation and setup
 
+![Dir structure](docs/images/dir.png)
+
 1. Download the latest [gsymblib release](https://github.com/afrigeri/geologic-symbols-qgis/releases) containing the symbology files (symbols and patterns).
-2. Extract the zip archive and move the __svg__ directory to a place where you want to store the patterns and symbols.  It can be any directory.
-3. Open QGis and go to 'Settings -> Options' (Ubuntu) or 'Preferences' (OSX) and select the second tab from the top: 'System'
+2. Extract the zip archive and move the __gsymblib-svg__ directory to a place where you want to store the patterns and symbols.  It can be any directory.
+3. Now open QGis and go to 'Settings -> Options' (Ubuntu) or 'Preferences' (OSX) and select the second tab from the top: 'System'
 4. Under the __SVG Paths__ form click the add button and select the the __svg__ directory you have just extracted from the zipfile.
 5. Quit and open QGIS to make __SVG Paths__ modification active
 5. In QGis, go to 'Settings -> Style Manager' and click on 'Import/Export -> Import items' button (at bottom-left)
