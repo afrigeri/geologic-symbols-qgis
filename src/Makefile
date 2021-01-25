@@ -62,6 +62,8 @@ distclean:
 manual:
 	cd ../docs/; make latexpdf
 
+# We must convert all to SVG Tiny
+# https://github.com/manisandro/svg2svgt
 update_usgs_patterns:
 	svn export --force https://github.com/davenquinn/geologic-patterns/trunk/assets/svg $(SVG_DIR)/patterns/fgdc
 	# Convert svg to svg Tiny 1.2 which is required by Qt5
