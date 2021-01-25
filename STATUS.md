@@ -1,4 +1,4 @@
-# Table of symbols, updated Settembre 10, 2020
+# Table of symbols, updated Gennaio 25, 2021
 There are:
  * 1 entries for extra.
  * 130 entries for fgdc.

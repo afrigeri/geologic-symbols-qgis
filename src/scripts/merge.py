@@ -6,14 +6,14 @@
 # 
 # merge-symbols: merge geologic symbols into a single library. 
 #
-# (c) 2019-2020 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali - INAF - Rome
+# (c) 2019-2021 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali - INAF - Rome
 #
 # it'd critical to:
-# export QT_QPA_PLATFORM_PLUGIN_PATH=/Applications/QGIS3.14.app/Contents/PlugIns/
+# export QT_QPA_PLATFORM_PLUGIN_PATH=/Applications/QGIS3.10.app/Contents/PlugIns/
 
 import os, sys
 #sys.path.insert(0, "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/")
-sys.path.append("/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/")
+#sys.path.append("/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/")
 
 import logging as log
 
@@ -40,17 +40,23 @@ from PyQt5.QtCore import QSize, QSettings
 from PyQt5.QtGui import QImage, QPainter
  
 import qgis
-from qgis.core import (QgsSymbol,
-                       QgsFillSymbol,
-                       QgsMarkerSymbol,
-                       QgsLineSymbol,
-                       QgsLimitedRandomColorRamp,
-                       QgsStyleModel,
-                       QgsStyle,
-                       QgsStyleProxyModel,
-                       QgsTextFormat,
-                       QgsPalLayerSettings,
-                       QgsWkbTypes)
+
+#from qgis.core import (QgsSymbol,
+#                       QgsFillSymbol,
+#                       QgsMarkerSymbol,
+#                       QgsLineSymbol,
+#                       QgsLimitedRandomColorRamp,
+#                       QgsStyleModel,
+#                       QgsStyle,
+#                       QgsStyleProxyModel,
+#                       QgsTextFormat,
+#                       QgsPalLayerSettings,
+#                       QgsWkbTypes)
+
+from qgis.core import *
+
+# Supply path to qgis install location
+QgsApplication.setPrefixPath("/Applications/QGIS3.10.app/Contents/MacOS/", True)
 
 #svg_paths = QSettings().value('svg/searchPathsForSVG')
 #print(svg_paths)
@@ -61,16 +67,20 @@ from qgis.core import (QgsSymbol,
 
 SVG_DIR="gsymblib-svg"
 
-from qgis.testing import start_app
+#from qgis.testing import start_app
+# QGISAPP = start_app()
+# Create a reference to the QgsApplication.  
+QGISAPP = QgsApplication([], False)
 
-QGISAPP = start_app()
+# Load providers
+# QGISAPP.initQgis()
+
 
 svgpaths = QGISAPP.svgPaths()
 svgpaths.append('.%s/'%SVG_DIR)
 svgpaths.append( os.path.join( os.getcwd(), SVG_DIR ) ) 
 QGISAPP.setDefaultSvgPaths(svgpaths)
 print(QGISAPP.svgPaths())
-
 
 writer = MarkdownTableWriter()
 status_header = "# Table of symbols, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
@@ -190,3 +200,8 @@ status_file.write("\n")
 status_file.write(writer.dumps()) 
 status_file.close()
 print(count_dict)
+
+# Finally, exitQgis() is called to remove the
+# provider and layer registries from memory
+QGISAPP.exitQgis()
+

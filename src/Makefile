@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019-2020 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali
+# Copyright (C) 2019-2021 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali
 # 
 # Geologic symbols in qgis.
 #
@@ -7,14 +7,15 @@
 # set
 # export PYTHONPATH=/<qgispath>/Contents/Resources/python
 
-PYTHON=/Applications/QGIS3.14.app/Contents/MacOS/bin/python3
+# OSX
+PYTHON=/Applications/QGIS3.10.app/Contents/MacOS/bin/python3
 
 
 SRC_DIR := xml
 
 REPO_DIR := ..
 DIST_DIR := $(REPO_DIR)/dist
-DIST_VERSION := 1.0.0-rc.1
+DIST_VERSION := 1.0.0
 PACKAGE_NAME := gsymblib-$(DIST_VERSION)
 PACKAGE_DIR := $(DIST_DIR)/$(PACKAGE_NAME)
 TARGET_XML := gsymblib-$(DIST_VERSION).xml
