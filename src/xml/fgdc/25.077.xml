@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol name="25.077: Small shield, dome, or volcanic construct, planetary&#xa;(not mapped to scale)" type="marker" alpha="1" clip_to_extent="1">
+    <symbol name="25.077: Small shield, dome, or volcanic construct, planetary (not mapped to scale)" type="marker" alpha="1" clip_to_extent="1">
       <layer enabled="1" locked="0" pass="0" class="SimpleMarker">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>

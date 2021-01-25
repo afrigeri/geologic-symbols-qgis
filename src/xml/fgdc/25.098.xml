@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol name="25.098: Rimless impact crater, subdued impact crater rim,&#xa;degraded impact crater rim (2nd option), or buried&#xa;impact crater rim, planetary" type="line" alpha="1" clip_to_extent="1">
+    <symbol name="25.098: Rimless impact crater, subdued impact crater rim, degraded impact crater rim (2nd option), or buried impact crater rim, planetary" type="line" alpha="1" clip_to_extent="1">
       <layer enabled="1" locked="0" pass="0" class="SimpleLine">
         <prop k="capstyle" v="square"/>
         <prop k="customdash" v="4;0.5;0.2;0.5"/>

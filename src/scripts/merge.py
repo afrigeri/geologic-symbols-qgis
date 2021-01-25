@@ -89,6 +89,9 @@ svgpaths.append( os.path.join( os.getcwd(), SVG_DIR ) )
 QGISAPP.setDefaultSvgPaths(svgpaths)
 print(QGISAPP.svgPaths())
 
+import locale
+locale.setlocale(locale.LC_TIME, "en_US") # date in english
+
 writer = MarkdownTableWriter()
 status_header = "# Table of symbols, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
 writer.table_name = ""

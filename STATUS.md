@@ -1,4 +1,4 @@
-# Table of symbols, updated Gennaio 25, 2021
+# Table of symbols, updated January 26, 2021
 There are:
  * 1 entries for extra.
  * 130 entries for fgdc.
@@ -86,7 +86,7 @@ There are:
 |![](docs/images/library/fgdc/25.078.png)  |fgdc     |25.078                    |Large, steep-sided shield, dome, or volcanic construct, planetary (not mapped to scale)                                           |     |
 |![](docs/images/library/fgdc/25.079.png)  |fgdc     |25.079                    |Mesa, planetary (not mapped to scale)                                                                                             |     |
 |![](docs/images/library/fgdc/25.080.png)  |fgdc     |25.080                    |Large shield, dome, or volcanic construct, planetary (mapped to scale)—Hachures point downscarp                                   |     |
-|![](docs/images/library/fgdc/25.081.png)  |fgdc     |25.081                    |Large cone, planetary (mapped to scale)— Hachures point downscarp                                                                 |     |
+|![](docs/images/library/fgdc/25.081.png)  |fgdc     |25.081                    |Large cone, planetary (mapped to scale)—Hachures point downscarp                                                                  |     |
 |![](docs/images/library/fgdc/25.082.png)  |fgdc     |25.082                    |Knob or central peak, planetary (not mapped to scale)                                                                             |     |
 |![](docs/images/library/fgdc/25.084.png)  |fgdc     |25.084                    |Elevated plateau, planetary (mapped to scale)— Hachures point downscarp                                                           |     |
 |![](docs/images/library/fgdc/25.085.png)  |fgdc     |25.085                    |Steep-sided edifice, planetary (not mapped to scale)                                                                              |     |
@@ -96,7 +96,7 @@ There are:
 |![](docs/images/library/fgdc/25.091.png)  |fgdc     |25.091                    |Corona, planetary                                                                                                                 |     |
 |![](docs/images/library/fgdc/25.092.png)  |fgdc     |25.092                    |Nova, planetary                                                                                                                   |     |
 |![](docs/images/library/fgdc/25.093.png)  |fgdc     |25.093                    |Palimpsest ring, planetary                                                                                                        |     |
-|![](docs/images/library/fgdc/25.094.png)  |fgdc     |25.094                    |Raised rim of larger impact crater, planetary— Hachures point into crater                                                         |     |
+|![](docs/images/library/fgdc/25.094.png)  |fgdc     |25.094                    |Raised rim of larger impact crater, planetary—Hachures point into crater                                                          |     |
 |![](docs/images/library/fgdc/25.095.png)  |fgdc     |25.095                    |Raised rim of smaller impact crater, planetary                                                                                    |     |
 |![](docs/images/library/fgdc/25.097.png)  |fgdc     |25.097                    |Degraded impact crater rim, planetary (1st option)                                                                                |     |
 |![](docs/images/library/fgdc/25.098.png)  |fgdc     |25.098                    |Rimless impact crater, subdued impact crater rim, degraded impact crater rim (2nd option), or buried impact crater rim, planetary |     |
