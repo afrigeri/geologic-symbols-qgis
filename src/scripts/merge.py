@@ -93,7 +93,7 @@ import locale
 locale.setlocale(locale.LC_TIME, "en_US") # date in english
 
 writer = MarkdownTableWriter()
-status_header = "# gsymblib symbols list, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
+status_header = "# Gsymblib symbols list, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
 writer.table_name = ""
 writer.headers = ["graphics","authority", "code", "description", "notes"]
 writer.type_hints = [pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String]
