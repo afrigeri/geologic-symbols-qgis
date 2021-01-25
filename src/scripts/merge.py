@@ -56,7 +56,14 @@ import qgis
 from qgis.core import *
 
 # Supply path to qgis install location
-QgsApplication.setPrefixPath("/Applications/QGIS3.10.app/Contents/MacOS/", True)
+
+if sys.platform == "darwin":
+    QgsApplication.setPrefixPath("/Applications/QGIS3.10.app/Contents/MacOS/", True)
+elif sys.platform == "linux":
+    QgsApplication.setPrefixPath("/usr/", True)
+elif sys.platform == "win32":
+    QgsApplication.setPrefixPath("C:/Program Files/QGIS 3.10", True) 
+
 
 #svg_paths = QSettings().value('svg/searchPathsForSVG')
 #print(svg_paths)
