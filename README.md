@@ -1,21 +1,23 @@
 
 ![QGIS](docs/images/ss02.png)
 
-# gsymblib: Geologic symbols library and development for QGIS 
-#### Alessandro Frigeri, IAPS/INAF - May, 2020
+# gsymblib: Geologic symbols library and development for QGIS
+#### Alessandro Frigeri, IAPS/INAF - Jan, 2021
 
 
-This project brings into QGIS symbols useful in geological mapping.  Styling for points, lines, fill patterns and gradients are included.  The symbols currently included in the library can be found in the [STATUS table](STATUS.md).  Currently the library includes symbols defined by FGDC, but others from different mapping authorities/institutionis can be added.
+This project brings into QGIS symbols useful in geological mapping.  Styling for points, lines, fill patterns and gradients are included.  The symbols currently included in the library can be found in the [STATUS table](STATUS.md).  Currently the library includes symbols defined by the
+Federal Geographic Data Committee (FGDC), but the project is structured in a way that others libraries from different mapping authorities/institutions can be easily added.
 
 The features of __gsymblib__ are:
  * bring into QGIS a set of geologic symbols which are:
-    - ordered: family (for example agency standards) of symbols are separated
-    - documented: every symbol/line/pattern has always three elements: graphics/ID/description. 
-    - incrementally improvable/upgradable: new symbols can be added or some symbols can be fixed  
+    - __ordered__: family (for example agency standards) of symbols are separated
+    - __documented__: every symbol/line/pattern has always three elements: graphics/ID/description.
+    - __incrementally improvable/upgradable__: new single symbols can be added to the library, or some symbols can be individually fixed  
 
 ## News
 
-* Feb 22, 2020: added symbolsplitter script 
+* Jan 25, 2021: develop tree created
+* Feb 22, 2020: added symbolsplitter script
 * Oct 16, 2019: [gsymblib 1.0.0-rc1 is out](https://github.com/afrigeri/geologic-symbols-qgis/releases).  The first release of the gsymblib includes all the FGDC symbol-set for planetary geology.
 
 ## System requirements
@@ -39,14 +41,14 @@ If you don't find a symbol in the [STATUS](STATUS.md) table, or you have found a
 
 There are several options to contribute to this project, as adding new symbols or refer a problem in an existing symbols.
 
-1. Clone and work on your local copy 
-or 
+1. Clone and work on your local copy
+or
 2. If you want to add symbols/graphics or update/fix existing ones, send the single symbol/svg __one symbol/graphics per file__ in the 'issue' section above on this page. When submitting the symbol select the 'New Symbol' green tag or the 'Symbol Fix' orange tag from the menu on the right, and attach the xml/svg file to the issue message (you will have to rename it .txt).
 
 Remember to follow these simple guidelines:
 1. Symbols should comply as much as possible with the original instructions.  If something can not be replicated, just indicate it in the issue tracker for future reference.
 2. __Naming__: all the symbols should be named as follow: [code or id] : [Description]. This way it will be much more easier to use the symbols in QGIS.
-3. For __asymmetric symbols__, convention here is to draw features clockwise, or leave the symbol to the left of the line.  For example, the downthrown block of a normal fault is stays on the left of the line. 
+3. For __asymmetric symbols__ ad scarps or thrusts, convention here is to draw features clockwise, or leave the symbol to the left of the line.  For example, the downthrown block of a normal fault is stays on the left of the line.
 
 ## Usage notes and conventions
 
@@ -71,4 +73,4 @@ The problem of having a meaningful symbology in modern softwares has been in the
 
 * Frigeri, Alessandro; gsymblib: Geologic symbols library and development for QGIS.  EGU 2020, Vienna - held online. DOI:[10.5194/egusphere-egu2020-22625](https://doi.org/10.5194/egusphere-egu2020-22625)
 
-* Frigeri, Alessandro; gsymblib: simboli e retini per la cartografia geologica in QGIS. in FOSS4G-it, Torino, 18-21 February 2020, [page 49](https://re.public.polimi.it/retrieve/handle/11311/1130402/492752/Raccolta%20Abstract%20FOSS4G%202020.pdf) 
+* Frigeri, Alessandro; gsymblib: simboli e retini per la cartografia geologica in QGIS. in FOSS4G-it, Torino, 18-21 February 2020, [page 49](https://re.public.polimi.it/retrieve/handle/11311/1130402/492752/Raccolta%20Abstract%20FOSS4G%202020.pdf)

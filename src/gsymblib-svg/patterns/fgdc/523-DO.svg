@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="39.882" version="1.1" x="0px" y="0px" viewBox="4.417 -46.589 39.882 39.761" xmlns:xlink="http://www.w3.org/1999/xlink" height="39.761" baseProfile="tiny">
+<svg xmlns="http://www.w3.org/2000/svg" width="39.882" baseProfile="tiny" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="4.417 -46.589 39.882 39.761" x="0px" version="1.1" xml:space="preserve" y="0px" height="39.761">
  <g>
-  <rect width="39.882" x="4.417" y="-46.589" style="fill:none;" height="39.761"/>
+  <rect width="39.882" style="fill:none;" x="4.417" y="-46.589" height="39.761"/>
   <rect width="49" x="0.408" y="-51.75" height="51.75"/>
   <path style="fill:#FFFFFF;" d="M2.477-4.827C2.211-5.528,2.461-6.118,2.742-6.5c0.874-1.187,1.277-1.738,1.777-1.988    S5.075-8.5,5.825-8s0.696,0.562,1.113,1.227C7.356-6.106,6.824-5.481,6.325-5C5.731-4.427,3.481-2.453,3.098-3.193    C2.656-4.043,2.598-4.511,2.477-4.827z"/>
   <path style="fill:#FFFFFF;" d="M42.259-4.827c-0.267-0.701-0.017-1.291,0.265-1.673c0.875-1.187,1.277-1.738,1.777-1.988    S44.857-8.5,45.607-8s0.696,0.562,1.113,1.227C47.137-6.106,46.605-5.481,46.107-5c-0.594,0.573-2.844,2.547-3.229,1.807    C42.438-4.043,42.379-4.511,42.259-4.827z"/>
