@@ -90,7 +90,7 @@ QGISAPP.setDefaultSvgPaths(svgpaths)
 print(QGISAPP.svgPaths())
 
 import locale
-locale.setlocale(locale.LC_TIME, "en_US") # date in english
+locale.setlocale(locale.LC_TIME, "en_US.utf8") # date in english
 
 writer = MarkdownTableWriter()
 status_header = "# Gsymblib symbols list, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"

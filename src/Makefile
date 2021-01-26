@@ -8,8 +8,16 @@
 # export PYTHONPATH=/<qgispath>/Contents/Resources/python
 
 # OSX
-PYTHON=/Applications/QGIS3.10.app/Contents/MacOS/bin/python3
+#
+UNAME := $(shell uname)
 
+PYTHON=python3
+ifeq ($(UNAME), Darwin)
+PYTHON=/Applications/QGIS3.10.app/Contents/MacOS/bin/python3 
+endif
+ifeq ($(UNAME), Linux)
+PYTHON=python3.8
+endif
 
 SRC_DIR := xml
 

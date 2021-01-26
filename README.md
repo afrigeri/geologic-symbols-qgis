@@ -62,7 +62,7 @@ Convention here is to draw area features clockwise, and linear features with pat
 
 ##  Developer info
 
-While the symbols library can be used in the most up-to-date version of QGIS, the development environment is kept on QGIS 3.10-LTR since we have to run standalone python/QGIS scripts to build the lib and the reference graphics. We also need [svg2svgt](https://github.com/manisandro/svg2svgt) to convert SVG into TinySVG.
+If you want to contrbute to the development of the build system, you need to setup your environment. If you have OSX, the reference development environment is QGIS 3.10-LTR, which is know to to run standalone python/QGIS scripts without problems.  With GNU/Linux you can use the most up-to-date package, but you have to make sure to have python3-qgis package installed.  We also need [svg2svgt](https://github.com/manisandro/svg2svgt) to convert SVG into TinySVG.
 
 
 ## Similar projects
