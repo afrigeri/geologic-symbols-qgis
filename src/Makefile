@@ -14,6 +14,8 @@ UNAME := $(shell uname)
 PYTHON=python3
 ifeq ($(UNAME), Darwin)
 PYTHON=/Applications/QGIS3.10.app/Contents/MacOS/bin/python3 
+# QGIS dev in OSX brings to segfault
+#PYTHON=/Applications/QGIS.app/Contents/MacOS/bin/python3
 endif
 ifeq ($(UNAME), Linux)
 PYTHON=python3.8
@@ -48,6 +50,7 @@ $(TARGET): $(SRC_DIR)
 all:
 	make update_usgs_patterns
 	make $(TARGET)
+	make handout
 
 all_nonet: clean
 	make $(TARGET)
@@ -66,6 +69,9 @@ dist: clean distclean all
 distclean:
 	-rm -rf $(PACKAGE_DIR)
 	-rm $(DIST_DIR)/$(PACKAGE_NAME).zip
+
+handout:
+	pandoc --variable mainfont="Helvetica" --variable sansfont="Helvetica" --variable monofont="Menlo" --variable fontsize=10pt  -V geometry:margin=1cm --latex-engine xelatex ../STATUS.md -o $(DIST_DIR)/$(PACKAGE_NAME)-handout.pdf
 
 manual:
 	cd ../docs/; make latexpdf

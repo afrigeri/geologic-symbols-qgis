@@ -1,32 +1,32 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" xmlns:xlink="http://www.w3.org/1999/xlink" height="25.447" viewBox="1 -26.447 25.446 25.447" version="1.1" xml:space="preserve" width="25.446" x="0px" y="0px">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0px" viewBox="1 -26.447 25.446 25.447" version="1.1" baseProfile="tiny" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.446" height="25.447">
  <g>
-  <rect height="25.447" width="25.446" x="1" style="fill:none;" y="-26.447"/>
-  <rect height="25.447" width="25.446" x="1" y="-26.447"/>
-  <line x2="25.032" y2="-22.604" y1="-24.729" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="23.378"/>
-  <line x2="26.272" y2="-25.038" y1="-22.625" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="25.003"/>
-  <line x2="6.185" y2="-26.215" y1="-23.795" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="7.364"/>
-  <line x2="4.469" y2="-24.091" y1="-26.19" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="6.208"/>
-  <line x2="6.174" y2="-6.431" y1="-5.852" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="3.545"/>
-  <line x2="4.512" y2="-8.597" y1="-6.415" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="6.145"/>
-  <line x2="3.448" y2="-17.854" y1="-15.748" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="5.126"/>
-  <line x2="2.237" y2="-15.407" y1="-17.835" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="3.476"/>
-  <line x2="12.784" y2="-17.3" y1="-17.32" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="10.092"/>
-  <line x2="11.644" y2="-19.783" y1="-17.291" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="12.75"/>
-  <line x2="22.8" y2="-4.411" y1="-2.377" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="21.036"/>
-  <line x2="20.174" y2="-5.157" y1="-4.38" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="22.786"/>
-  <line x2="15.852" y2="-22.179" y1="-24.822" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="16.362"/>
-  <line x2="18.5" y2="-22.849" y1="-22.213" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="15.85"/>
-  <line x2="21.577" y2="-18.8" y1="-16.582" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="20.049"/>
-  <line x2="18.884" y2="-19.249" y1="-18.767" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="21.565"/>
-  <line x2="11.538" y2="-2.703" y1="-5.154" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="12.65"/>
-  <line x2="14.269" y2="-2.736" y1="-2.736" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="11.543"/>
-  <line x2="9.499" y2="-12.396" y1="-12.186" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="12.184"/>
-  <line x2="10.462" y2="-9.841" y1="-12.402" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="9.533"/>
-  <line x2="23.489" y2="-9.808" y1="-12.259" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="24.602"/>
-  <line x2="26.219" y2="-9.841" y1="-9.841" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="23.495"/>
-  <line x2="18.656" y2="-11.648" y1="-8.957" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="18.583"/>
-  <line x2="16.155" y2="-10.558" y1="-11.615" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="18.665"/>
+  <rect x="1" style="fill:none;" y="-26.447" width="25.446" height="25.447"/>
+  <rect x="1" y="-26.447" width="25.446" height="25.447"/>
+  <line y1="-24.729" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="25.032" x1="23.378" y2="-22.604"/>
+  <line y1="-22.625" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="26.272" x1="25.003" y2="-25.038"/>
+  <line y1="-23.795" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="6.185" x1="7.364" y2="-26.215"/>
+  <line y1="-26.19" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="4.469" x1="6.208" y2="-24.091"/>
+  <line y1="-5.852" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="6.174" x1="3.545" y2="-6.431"/>
+  <line y1="-6.415" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="4.512" x1="6.145" y2="-8.597"/>
+  <line y1="-15.748" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="3.448" x1="5.126" y2="-17.854"/>
+  <line y1="-17.835" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="2.237" x1="3.476" y2="-15.407"/>
+  <line y1="-17.32" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="12.784" x1="10.092" y2="-17.3"/>
+  <line y1="-17.291" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="11.644" x1="12.75" y2="-19.783"/>
+  <line y1="-2.377" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="22.8" x1="21.036" y2="-4.411"/>
+  <line y1="-4.38" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="20.174" x1="22.786" y2="-5.157"/>
+  <line y1="-24.822" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="15.852" x1="16.362" y2="-22.179"/>
+  <line y1="-22.213" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="18.5" x1="15.85" y2="-22.849"/>
+  <line y1="-16.582" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="21.577" x1="20.049" y2="-18.8"/>
+  <line y1="-18.767" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="18.884" x1="21.565" y2="-19.249"/>
+  <line y1="-5.154" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="11.538" x1="12.65" y2="-2.703"/>
+  <line y1="-2.736" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="14.269" x1="11.543" y2="-2.736"/>
+  <line y1="-12.186" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="9.499" x1="12.184" y2="-12.396"/>
+  <line y1="-12.402" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="10.462" x1="9.533" y2="-9.841"/>
+  <line y1="-12.259" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="23.489" x1="24.602" y2="-9.808"/>
+  <line y1="-9.841" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="26.219" x1="23.495" y2="-9.841"/>
+  <line y1="-8.957" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="18.656" x1="18.583" y2="-11.648"/>
+  <line y1="-11.615" style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x2="16.155" x1="18.665" y2="-10.558"/>
  </g>
 </svg>

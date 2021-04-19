@@ -1,29 +1,29 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="1.176 -18.26 16.9 16.899" x="0px" width="16.9" height="16.899" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" y="0px" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" version="1.1" xml:space="preserve" viewBox="1.176 -18.26 16.9 16.899" baseProfile="tiny" height="16.899" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" width="16.9">
  <g>
-  <rect x="1.176" width="16.9" height="16.899" y="-18.26" style="fill:none;"/>
-  <polygon points="5.381,-12.856 4.781,-15.965 7.738,-15.027   " style="fill:none;stroke:#EC008C;stroke-width:0.58;"/>
-  <line x2="7.306" x1="7.306" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-10.666" y2="-10.666"/>
-  <line x2="2.6" x1="2.6" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-11.803" y2="-11.803"/>
-  <polygon points="12.523,-10.859 13.409,-13.901 15.61,-11.715   " style="fill:none;stroke:#EC008C;stroke-width:0.58;"/>
-  <line x2="16.417" x1="16.417" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-14.248" y2="-14.248"/>
-  <line x2="12.928" x1="12.928" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-16.69" y2="-16.69"/>
-  <line x2="14.976" x1="14.976" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-9.874" y2="-9.874"/>
-  <line x2="10.892" x1="10.892" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-11.787" y2="-11.787"/>
-  <line x2="10.778" x1="10.778" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-15.01" y2="-15.01"/>
-  <line x2="3.077" x1="3.077" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-16.344" y2="-16.344"/>
-  <line x2="8.842" x1="8.842" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-17.089" y2="-17.089"/>
-  <line x2="16.534" x1="16.534" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-17.259" y2="-17.259"/>
-  <polygon points="8.222,-4.985 5.054,-4.945 6.502,-7.689   " style="fill:none;stroke:#EC008C;stroke-width:0.58;"/>
-  <line x2="6.46" x1="6.46" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-2.932" y2="-2.932"/>
-  <line x2="2.88" x1="2.88" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-2.601" y2="-2.601"/>
-  <line x2="3.364" x1="3.364" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-6.008" y2="-6.008"/>
-  <line x2="4.631" x1="4.631" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-9.019" y2="-9.019"/>
-  <polygon points="13.984,-3.394 16.396,-5.449 17.035,-2.414   " style="fill:none;stroke:#EC008C;stroke-width:0.58;"/>
-  <line x2="10.778" x1="10.778" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-3.55" y2="-3.55"/>
-  <line x2="17.231" x1="17.231" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-7.756" y2="-7.756"/>
-  <line x2="9.579" x1="9.579" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-8.211" y2="-8.211"/>
-  <line x2="12.846" x1="12.846" style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" y1="-6.722" y2="-6.722"/>
+  <rect style="fill:none;" x="1.176" height="16.899" y="-18.26" width="16.9"/>
+  <polygon style="fill:none;stroke:#EC008C;stroke-width:0.58;" points="5.381,-12.856 4.781,-15.965 7.738,-15.027   "/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="7.306" y1="-10.666" y2="-10.666" x2="7.306"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="2.6" y1="-11.803" y2="-11.803" x2="2.6"/>
+  <polygon style="fill:none;stroke:#EC008C;stroke-width:0.58;" points="12.523,-10.859 13.409,-13.901 15.61,-11.715   "/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="16.417" y1="-14.248" y2="-14.248" x2="16.417"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="12.928" y1="-16.69" y2="-16.69" x2="12.928"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="14.976" y1="-9.874" y2="-9.874" x2="14.976"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="10.892" y1="-11.787" y2="-11.787" x2="10.892"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="10.778" y1="-15.01" y2="-15.01" x2="10.778"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="3.077" y1="-16.344" y2="-16.344" x2="3.077"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="8.842" y1="-17.089" y2="-17.089" x2="8.842"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="16.534" y1="-17.259" y2="-17.259" x2="16.534"/>
+  <polygon style="fill:none;stroke:#EC008C;stroke-width:0.58;" points="8.222,-4.985 5.054,-4.945 6.502,-7.689   "/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="6.46" y1="-2.932" y2="-2.932" x2="6.46"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="2.88" y1="-2.601" y2="-2.601" x2="2.88"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="3.364" y1="-6.008" y2="-6.008" x2="3.364"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="4.631" y1="-9.019" y2="-9.019" x2="4.631"/>
+  <polygon style="fill:none;stroke:#EC008C;stroke-width:0.58;" points="13.984,-3.394 16.396,-5.449 17.035,-2.414   "/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="10.778" y1="-3.55" y2="-3.55" x2="10.778"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="17.231" y1="-7.756" y2="-7.756" x2="17.231"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="9.579" y1="-8.211" y2="-8.211" x2="9.579"/>
+  <line style="fill:none;stroke:#EC008C;stroke-width:0.8;stroke-linecap:round;" x1="12.846" y1="-6.722" y2="-6.722" x2="12.846"/>
  </g>
 </svg>

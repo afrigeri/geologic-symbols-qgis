@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" viewBox="0 -3.422 3.422 3.422" height="3.422" version="1.1" width="3.422" y="0px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -3.422 3.422 3.422" xml:space="preserve" baseProfile="tiny" y="0px" x="0px" height="3.422" version="1.1" width="3.422" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
-  <rect style="fill:none;" x="0" height="3.422" width="3.422" y="-3.422"/>
-  <circle cy="-0.438" style="fill:#EC008C;" cx="0.422" r="0.396"/>
-  <circle cy="-1.297" style="fill:#EC008C;" cx="1.281" r="0.396"/>
-  <circle cy="-2.14" style="fill:#EC008C;" cx="2.125" r="0.396"/>
-  <circle cy="-3" style="fill:#EC008C;" cx="2.985" r="0.396"/>
+  <rect style="fill:none;" y="-3.422" x="0" height="3.422" width="3.422"/>
+  <circle style="fill:#EC008C;" cy="-0.438" cx="0.422" r="0.396"/>
+  <circle style="fill:#EC008C;" cy="-1.297" cx="1.281" r="0.396"/>
+  <circle style="fill:#EC008C;" cy="-2.14" cx="2.125" r="0.396"/>
+  <circle style="fill:#EC008C;" cy="-3" cx="2.985" r="0.396"/>
  </g>
 </svg>

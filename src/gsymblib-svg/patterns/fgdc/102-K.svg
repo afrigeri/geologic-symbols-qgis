@@ -1,171 +1,171 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" xml:space="preserve" baseProfile="tiny" height="60.479" viewBox="1.8 -62.279 60.479 60.479" width="60.479">
+<svg xmlns="http://www.w3.org/2000/svg" y="0px" baseProfile="tiny" version="1.1" width="60.479" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" xml:space="preserve" viewBox="1.8 -62.279 60.479 60.479" height="60.479">
  <g>
-  <rect y="-62.279" x="1.8" style="fill:none;" height="60.479" width="60.479"/>
+  <rect y="-62.279" width="60.479" x="1.8" style="fill:none;" height="60.479"/>
   <path d="M4.687-49.597    c0.428,0.538,1.053,0.753,1.395,0.48c0.342-0.272,0.562-1.111,0.133-1.648c-0.428-0.538-1.342-0.571-1.684-0.299    C4.188-50.791,4.258-50.134,4.687-49.597z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse transform="matrix(0.3453 -0.9385 0.9385 0.3453 73.8163 31.9784)" cx="59.827" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-36.916" ry="0.713" rx="1.12"/>
-  <ellipse transform="matrix(0.346 -0.9382 0.9382 0.346 49.369 19.9951)" cx="39.027" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-25.416" ry="0.713" rx="1.12"/>
+  <ellipse cy="-36.916" ry="0.713" transform="matrix(0.3453 -0.9385 0.9385 0.3453 73.8163 31.9784)" cx="59.827" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.12"/>
+  <ellipse cy="-25.416" ry="0.713" transform="matrix(0.346 -0.9382 0.9382 0.346 49.369 19.9951)" cx="39.027" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.12"/>
   <path d="M46.314-30.665    c0.517-0.144,0.3-0.785,0-1.4c-0.299-0.615-0.567-0.973-1.084-0.827c-0.518,0.144-0.693,0.76-0.395,1.375    C45.135-30.902,45.797-30.521,46.314-30.665z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse transform="matrix(0.5241 -0.8517 0.8517 0.5241 62.2523 -2.2511)" cx="29.112" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-56.825" ry="0.792" rx="1.245"/>
-  <ellipse transform="matrix(0.5241 -0.8517 0.8517 0.5241 61.3571 28.147)" cx="55.863" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-40.825" ry="0.792" rx="1.245"/>
-  <ellipse transform="matrix(0.7943 -0.6075 0.6075 0.7943 26.9995 -2.6907)" cx="9.526" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-41.221" ry="0.792" rx="1.245"/>
+  <ellipse cy="-56.825" ry="0.792" transform="matrix(0.5241 -0.8517 0.8517 0.5241 62.2523 -2.2511)" cx="29.112" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
+  <ellipse cy="-40.825" ry="0.792" transform="matrix(0.5241 -0.8517 0.8517 0.5241 61.3571 28.147)" cx="55.863" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
+  <ellipse cy="-41.221" ry="0.792" transform="matrix(0.7943 -0.6075 0.6075 0.7943 26.9995 -2.6907)" cx="9.526" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
   <path d="M10.979-53.2    c-0.373,0.229-0.783,0.765-0.425,1.351c0.358,0.587,0.952,0.878,1.324,0.649c0.374-0.228,0.459-1.113,0.101-1.699    C11.621-53.486,11.352-53.429,10.979-53.2z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse transform="matrix(0.3778 -0.9259 0.9259 0.3778 23.498 -7.6674)" cx="6.044" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-21.317" ry="0.792" rx="1.245"/>
-  <ellipse transform="matrix(0.6172 -0.7868 0.7868 0.6172 16.9448 6.0703)" cx="14.71" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-14.378" ry="0.791" rx="1.245"/>
-  <ellipse transform="matrix(0.4869 -0.8734 0.8734 0.4869 43.8747 10.1876)" cx="30.609" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-32.252" ry="0.792" rx="1.244"/>
-  <ellipse transform="matrix(0.4868 -0.8735 0.8735 0.4868 42.8953 -3.9646)" cx="18.074" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-38.487" ry="0.792" rx="1.245"/>
-  <ellipse transform="matrix(0.0129 -0.9999 0.9999 0.0129 46.3749 35.3618)" cx="41.099" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-5.809" ry="0.792" rx="1.245"/>
-  <ellipse transform="matrix(0.9507 -0.3101 0.3101 0.9507 14.2206 4.9719)" cx="22.75" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-42.248" ry="1.244" rx="0.792"/>
+  <ellipse cy="-21.317" ry="0.792" transform="matrix(0.3778 -0.9259 0.9259 0.3778 23.498 -7.6674)" cx="6.044" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
+  <ellipse cy="-14.378" ry="0.791" transform="matrix(0.6172 -0.7868 0.7868 0.6172 16.9448 6.0703)" cx="14.71" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
+  <ellipse cy="-32.252" ry="0.792" transform="matrix(0.4869 -0.8734 0.8734 0.4869 43.8747 10.1876)" cx="30.609" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.244"/>
+  <ellipse cy="-38.487" ry="0.792" transform="matrix(0.4868 -0.8735 0.8735 0.4868 42.8953 -3.9646)" cx="18.074" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
+  <ellipse cy="-5.809" ry="0.792" transform="matrix(0.0129 -0.9999 0.9999 0.0129 46.3749 35.3618)" cx="41.099" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
+  <ellipse cy="-42.248" ry="1.244" transform="matrix(0.9507 -0.3101 0.3101 0.9507 14.2206 4.9719)" cx="22.75" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.792"/>
   <path d="M10.114-58.665    c-0.335-0.601-1.329-0.887-1.711-0.674c-0.383,0.213-0.421,0.872-0.086,1.473c0.334,0.6,0.915,0.914,1.297,0.701    C9.996-57.378,10.449-58.064,10.114-58.665z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse transform="matrix(0.99 -0.1408 0.1408 0.99 7.1738 3.3942)" cx="27.574" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-49" ry="1.12" rx="0.713"/>
-  <ellipse transform="matrix(0.1965 -0.9805 0.9805 0.1965 100.4785 16.421)" cx="60.259" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-53.098" ry="0.713" rx="1.12"/>
-  <ellipse transform="matrix(0.0025 -1 1 0.0025 37.7599 10.6348)" cx="24.21" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-13.609" ry="0.792" rx="1.245"/>
-  <ellipse transform="matrix(0.2528 -0.9675 0.9675 0.2528 42.5644 30.7097)" cx="41.165" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-12.204" ry="0.792" rx="1.245"/>
-  <ellipse transform="matrix(0.3357 -0.942 0.942 0.3357 29.695 25.0347)" cx="32.598" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-8.537" ry="0.793" rx="1.245"/>
-  <ellipse transform="matrix(0.9058 -0.4237 0.4237 0.9058 20.0777 -2.4616)" cx="4.503" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-46.381" ry="0.713" rx="0.509"/>
-  <ellipse transform="matrix(0.1498 -0.9887 0.9887 0.1498 10.9072 4.6749)" cx="8.172" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-4.005" ry="0.509" rx="0.713"/>
-  <ellipse cx="5.879" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-14.963" ry="0.712" rx="0.509"/>
-  <ellipse cx="26.679" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-44.513" ry="0.713" rx="0.509"/>
-  <ellipse cx="19.579" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-60.413" ry="0.712" rx="0.509"/>
-  <ellipse cx="58.215" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-24.378" ry="0.712" rx="0.509"/>
-  <ellipse cx="46.814" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-26.977" ry="0.713" rx="0.509"/>
-  <ellipse cx="34.215" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-4.377" ry="0.714" rx="0.509"/>
-  <ellipse cx="21.279" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-34.913" ry="0.712" rx="0.509"/>
-  <ellipse cx="44.115" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-37.978" ry="0.713" rx="0.509"/>
-  <ellipse transform="matrix(0.4809 -0.8768 0.8768 0.4809 53.3927 5.7317)" cx="31.537" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-42.225" ry="0.509" rx="0.713"/>
-  <ellipse cx="39.914" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-33.577" ry="0.713" rx="0.509"/>
-  <ellipse cx="39.029" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-57.413" ry="0.712" rx="0.509"/>
-  <ellipse cx="11.655" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-24.265" ry="0.712" rx="0.509"/>
-  <ellipse cx="27.479" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-28.512" ry="0.713" rx="0.509"/>
-  <ellipse transform="matrix(0.1905 -0.9817 0.9817 0.1905 49.8223 35.018)" cx="46.144" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-12.7" ry="0.509" rx="0.713"/>
-  <ellipse cx="44.879" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-43.913" ry="0.712" rx="0.509"/>
-  <ellipse cx="38.479" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-45.513" ry="0.713" rx="0.509"/>
-  <ellipse transform="matrix(0.2076 -0.9782 0.9782 0.2076 73.2882 6.0078)" cx="40.352" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-42.232" ry="0.56" rx="0.784"/>
-  <ellipse transform="matrix(0.3451 -0.9386 0.9386 0.3451 92.1595 18.6016)" cx="59.409" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-56.736" ry="0.56" rx="0.784"/>
-  <ellipse transform="matrix(0.2069 -0.9784 0.9784 0.2069 75.1233 -10.3921)" cx="31.152" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-51.532" ry="0.559" rx="0.784"/>
-  <ellipse transform="matrix(0.2072 -0.9783 0.9783 0.2072 60.9911 17.5963)" cx="41.352" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-28.832" ry="0.56" rx="0.785"/>
+  <ellipse cy="-49" ry="1.12" transform="matrix(0.99 -0.1408 0.1408 0.99 7.1738 3.3942)" cx="27.574" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.713"/>
+  <ellipse cy="-53.098" ry="0.713" transform="matrix(0.1965 -0.9805 0.9805 0.1965 100.4785 16.421)" cx="60.259" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.12"/>
+  <ellipse cy="-13.609" ry="0.792" transform="matrix(0.0025 -1 1 0.0025 37.7599 10.6348)" cx="24.21" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
+  <ellipse cy="-12.204" ry="0.792" transform="matrix(0.2528 -0.9675 0.9675 0.2528 42.5644 30.7097)" cx="41.165" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
+  <ellipse cy="-8.537" ry="0.793" transform="matrix(0.3357 -0.942 0.942 0.3357 29.695 25.0347)" cx="32.598" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.245"/>
+  <ellipse cy="-46.381" ry="0.713" transform="matrix(0.9058 -0.4237 0.4237 0.9058 20.0777 -2.4616)" cx="4.503" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-4.005" ry="0.509" transform="matrix(0.1498 -0.9887 0.9887 0.1498 10.9072 4.6749)" cx="8.172" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.713"/>
+  <ellipse cy="-14.963" ry="0.712" cx="5.879" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-44.513" ry="0.713" cx="26.679" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-60.413" ry="0.712" cx="19.579" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-24.378" ry="0.712" cx="58.215" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-26.977" ry="0.713" cx="46.814" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-4.377" ry="0.714" cx="34.215" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-34.913" ry="0.712" cx="21.279" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-37.978" ry="0.713" cx="44.115" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-42.225" ry="0.509" transform="matrix(0.4809 -0.8768 0.8768 0.4809 53.3927 5.7317)" cx="31.537" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.713"/>
+  <ellipse cy="-33.577" ry="0.713" cx="39.914" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-57.413" ry="0.712" cx="39.029" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-24.265" ry="0.712" cx="11.655" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-28.512" ry="0.713" cx="27.479" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-12.7" ry="0.509" transform="matrix(0.1905 -0.9817 0.9817 0.1905 49.8223 35.018)" cx="46.144" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.713"/>
+  <ellipse cy="-43.913" ry="0.712" cx="44.879" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-45.513" ry="0.713" cx="38.479" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-42.232" ry="0.56" transform="matrix(0.2076 -0.9782 0.9782 0.2076 73.2882 6.0078)" cx="40.352" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.784"/>
+  <ellipse cy="-56.736" ry="0.56" transform="matrix(0.3451 -0.9386 0.9386 0.3451 92.1595 18.6016)" cx="59.409" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.784"/>
+  <ellipse cy="-51.532" ry="0.559" transform="matrix(0.2069 -0.9784 0.9784 0.2069 75.1233 -10.3921)" cx="31.152" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.784"/>
+  <ellipse cy="-28.832" ry="0.56" transform="matrix(0.2072 -0.9783 0.9783 0.2072 60.9911 17.5963)" cx="41.352" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.785"/>
   <path d="M7.628-35.042    c0.42-0.065,0.66-0.476,0.535-0.916c-0.124-0.439-0.566-0.743-0.986-0.675c-0.421,0.065-0.66,0.476-0.535,0.916    C6.767-35.277,7.207-34.974,7.628-35.042z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse transform="matrix(0.414 -0.9103 0.9103 0.414 71.8986 8.9929)" cx="42.934" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-51.349" ry="0.509" rx="0.712"/>
-  <ellipse cx="14.715" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-54.678" ry="0.713" rx="0.509"/>
-  <ellipse cx="50.679" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-32.513" ry="0.713" rx="0.509"/>
-  <ellipse cx="59.914" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-14.977" ry="0.713" rx="0.509"/>
-  <ellipse cx="34.064" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-18.228" ry="0.713" rx="0.509"/>
-  <ellipse transform="matrix(0.198 -0.9802 0.9802 0.198 98.1404 4.4227)" cx="51.773" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-57.763" ry="0.509" rx="0.713"/>
-  <ellipse transform="matrix(0.1986 -0.9801 0.9801 0.1986 67.1908 6.7751)" cx="37.738" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-37.699" ry="0.509" rx="0.713"/>
-  <ellipse cx="30.314" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-23.028" ry="0.712" rx="0.509"/>
-  <ellipse cx="8.355" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-27.565" ry="0.712" rx="0.509"/>
-  <ellipse cx="19.37" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-17.8" ry="0.712" rx="0.509"/>
-  <ellipse cx="49.814" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-21.178" ry="0.713" rx="0.509"/>
-  <ellipse transform="matrix(0.3009 -0.9537 0.9537 0.3009 65.401 34.2559)" cx="56.065" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-27.48" ry="0.509" rx="0.713"/>
-  <ellipse cx="18.321" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-44.445" ry="0.99" rx="0.707"/>
-  <ellipse transform="matrix(0.0145 -0.9999 0.9999 0.0145 85.944 25.022)" cx="55.666" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-31.09" ry="0.636" rx="0.891"/>
+  <ellipse cy="-51.349" ry="0.509" transform="matrix(0.414 -0.9103 0.9103 0.414 71.8986 8.9929)" cx="42.934" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.712"/>
+  <ellipse cy="-54.678" ry="0.713" cx="14.715" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-32.513" ry="0.713" cx="50.679" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-14.977" ry="0.713" cx="59.914" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-18.228" ry="0.713" cx="34.064" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-57.763" ry="0.509" transform="matrix(0.198 -0.9802 0.9802 0.198 98.1404 4.4227)" cx="51.773" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.713"/>
+  <ellipse cy="-37.699" ry="0.509" transform="matrix(0.1986 -0.9801 0.9801 0.1986 67.1908 6.7751)" cx="37.738" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.713"/>
+  <ellipse cy="-23.028" ry="0.712" cx="30.314" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-27.565" ry="0.712" cx="8.355" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-17.8" ry="0.712" cx="19.37" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-21.178" ry="0.713" cx="49.814" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.509"/>
+  <ellipse cy="-27.48" ry="0.509" transform="matrix(0.3009 -0.9537 0.9537 0.3009 65.401 34.2559)" cx="56.065" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.713"/>
+  <ellipse cy="-44.445" ry="0.99" cx="18.321" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.707"/>
+  <ellipse cy="-31.09" ry="0.636" transform="matrix(0.0145 -0.9999 0.9999 0.0145 85.944 25.022)" cx="55.666" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
   <path d="M20.065-7.718    c0.303,0.494,0.847,0.727,1.215,0.518c0.368-0.209,0.42-0.778,0.116-1.273c-0.303-0.495-0.848-0.726-1.215-0.519    C19.812-8.782,19.761-8.213,20.065-7.718z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
   <path d="M35.845-22.847    c-0.139-0.626-0.557-0.999-0.933-0.834c-0.377,0.166-0.569,0.807-0.431,1.433c0.139,0.624,0.557,0.998,0.933,0.833    C35.791-21.58,35.984-22.222,35.845-22.847z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
   <path d="M51.312-27.73    c-0.376,0.165-0.569,0.808-0.43,1.433c0.139,0.625,0.557,0.998,0.933,0.833c0.377-0.165,0.569-0.807,0.431-1.433    C52.106-27.522,51.688-27.896,51.312-27.73z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
   <path d="M59.129-18.813    c0.174,0.558,0.556,0.862,0.852,0.678c0.296-0.181,0.394-0.783,0.22-1.339c-0.175-0.558-0.556-0.861-0.852-0.679    C59.053-19.969,58.954-19.369,59.129-18.813z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse transform="matrix(0.5539 -0.8326 0.8326 0.5539 50.9715 11.5524)" cx="36.266" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-41.789" ry="0.707" rx="0.99"/>
-  <ellipse transform="matrix(0.5545 -0.8322 0.8322 0.5545 55.5387 22.3721)" cx="48.666" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-40.689" ry="0.707" rx="0.99"/>
-  <ellipse transform="matrix(0.9899 -0.1421 0.1421 0.9899 9.0039 6.2362)" cx="48.17" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-59.93" ry="0.99" rx="0.707"/>
-  <ellipse transform="matrix(0.5545 -0.8322 0.8322 0.5545 64.148 28.2558)" cx="58.466" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-45.789" ry="0.707" rx="0.99"/>
-  <ellipse transform="matrix(0.5538 -0.8327 0.8327 0.5538 59.4126 15.2838)" cx="43.966" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-47.789" ry="0.707" rx="0.99"/>
-  <ellipse transform="matrix(0.3728 -0.9279 0.9279 0.3728 73.5415 3.1628)" cx="39.11" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-52.819" ry="0.707" rx="0.99"/>
-  <ellipse transform="matrix(0.5538 -0.8327 0.8327 0.5538 64.7117 1.9022)" cx="34.131" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-59.424" ry="0.707" rx="0.99"/>
-  <ellipse transform="matrix(0.5545 -0.8322 0.8322 0.5545 60.4593 -5.635)" cx="24.966" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-59.289" ry="0.707" rx="0.99"/>
-  <ellipse transform="matrix(0.5542 -0.8324 0.8324 0.5542 53.1285 -22.7426)" cx="5.331" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-60.974" ry="0.707" rx="0.99"/>
-  <ellipse cx="32.614" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-38.455" ry="0.99" rx="0.707"/>
-  <ellipse cx="18.615" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-56.655" ry="0.99" rx="0.707"/>
+  <ellipse cy="-41.789" ry="0.707" transform="matrix(0.5539 -0.8326 0.8326 0.5539 50.9715 11.5524)" cx="36.266" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-40.689" ry="0.707" transform="matrix(0.5545 -0.8322 0.8322 0.5545 55.5387 22.3721)" cx="48.666" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-59.93" ry="0.99" transform="matrix(0.9899 -0.1421 0.1421 0.9899 9.0039 6.2362)" cx="48.17" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.707"/>
+  <ellipse cy="-45.789" ry="0.707" transform="matrix(0.5545 -0.8322 0.8322 0.5545 64.148 28.2558)" cx="58.466" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-47.789" ry="0.707" transform="matrix(0.5538 -0.8327 0.8327 0.5538 59.4126 15.2838)" cx="43.966" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-52.819" ry="0.707" transform="matrix(0.3728 -0.9279 0.9279 0.3728 73.5415 3.1628)" cx="39.11" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-59.424" ry="0.707" transform="matrix(0.5538 -0.8327 0.8327 0.5538 64.7117 1.9022)" cx="34.131" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-59.289" ry="0.707" transform="matrix(0.5545 -0.8322 0.8322 0.5545 60.4593 -5.635)" cx="24.966" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-60.974" ry="0.707" transform="matrix(0.5542 -0.8324 0.8324 0.5542 53.1285 -22.7426)" cx="5.331" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-38.455" ry="0.99" cx="32.614" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.707"/>
+  <ellipse cy="-56.655" ry="0.99" cx="18.615" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.707"/>
   <path d="M15.38-58.8    c0-0.547-0.31-1.58-0.7-1.58s-0.708,0.443-0.708,0.99c0,0.547,0.317,0.989,0.708,0.989S15.38-58.254,15.38-58.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse cx="55.314" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-21.155" ry="0.989" rx="0.707"/>
-  <ellipse cx="54.914" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-36.455" ry="0.99" rx="0.708"/>
-  <ellipse cx="25.814" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-24.355" ry="0.99" rx="0.707"/>
-  <ellipse transform="matrix(0.1892 -0.9819 0.9819 0.1892 44.4809 37.7964)" cx="45.128" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-8.037" ry="0.707" rx="0.99"/>
-  <ellipse cx="21.615" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-21.655" ry="0.99" rx="0.707"/>
-  <ellipse transform="matrix(0.3957 -0.9184 0.9184 0.3957 33.3512 2.0358)" cx="18.222" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-24.324" ry="0.707" rx="0.991"/>
-  <ellipse transform="matrix(0.3962 -0.9182 0.9182 0.3962 62.561 2.1132)" cx="32.887" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-46.509" ry="0.707" rx="0.99"/>
-  <ellipse transform="matrix(0.3957 -0.9184 0.9184 0.3957 54.5337 -27.7412)" cx="6.187" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-55.309" ry="0.707" rx="0.99"/>
-  <ellipse cx="34.879" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-13.59" ry="0.99" rx="0.707"/>
-  <ellipse transform="matrix(0.2819 -0.9594 0.9594 0.2819 17.7837 15.3323)" cx="19.134" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-4.214" ry="0.707" rx="0.99"/>
-  <ellipse cx="56.715" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-6.205" ry="0.99" rx="0.708"/>
-  <ellipse transform="matrix(0.5135 -0.8581 0.8581 0.5135 41.3377 37.3511)" cx="53.611" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-17.782" ry="0.685" rx="0.913"/>
-  <ellipse transform="matrix(0.514 -0.8578 0.8578 0.514 39.2351 24.9599)" cx="41.646" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-22.147" ry="0.685" rx="0.912"/>
-  <ellipse transform="matrix(0.0756 -0.9971 0.9971 0.0756 59.7095 57.4603)" cx="60.845" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-3.474" ry="0.685" rx="0.912"/>
-  <ellipse transform="matrix(0.5134 -0.8582 0.8582 0.5134 15.8191 8.7342)" cx="15.611" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-9.581" ry="0.685" rx="0.912"/>
-  <ellipse transform="matrix(0.5138 -0.8579 0.8579 0.5138 42.0892 6.6756)" cx="26.935" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-33.798" ry="0.554" rx="0.739"/>
-  <ellipse transform="matrix(0.5134 -0.8581 0.8581 0.5134 36.2642 -2.1394)" cx="16.246" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-33.047" ry="0.685" rx="0.912"/>
-  <ellipse transform="matrix(0.5135 -0.8581 0.8581 0.5135 52.2737 -5.3591)" cx="21.41" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-48.782" ry="0.685" rx="0.912"/>
-  <ellipse transform="matrix(0.5141 -0.8577 0.8577 0.5141 32.5588 -6.7225)" cx="10.346" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-32.097" ry="0.685" rx="0.912"/>
-  <ellipse transform="matrix(0.5135 -0.8581 0.8581 0.5135 45.7988 -15.1805)" cx="9.511" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-47.982" ry="0.685" rx="0.912"/>
-  <ellipse transform="matrix(0.2418 -0.9703 0.9703 0.2418 36.3622 29.8771)" cx="37.299" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-8.329" ry="0.636" rx="0.891"/>
-  <ellipse transform="matrix(0.241 -0.9705 0.9705 0.241 12.2104 -1.3155)" cx="5.264" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-8.464" ry="0.636" rx="0.891"/>
-  <ellipse transform="matrix(0.9799 -0.1995 0.1995 0.9799 3.2862 11.4367)" cx="58.393" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-10.588" ry="0.891" rx="0.636"/>
-  <ellipse transform="matrix(0.3077 -0.9515 0.9515 0.3077 6.969 0.0937)" cx="3.549" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-4.742" ry="0.636" rx="0.891"/>
-  <ellipse transform="matrix(0.2416 -0.9704 0.9704 0.2416 15.7109 3.3742)" cx="10.014" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-8.364" ry="0.637" rx="0.891"/>
-  <ellipse transform="matrix(0.2416 -0.9704 0.9704 0.2416 40.858 -4.5797)" cx="17.499" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-28.43" ry="0.637" rx="0.891"/>
-  <ellipse transform="matrix(0.2416 -0.9704 0.9704 0.2416 52.3509 -20.3306)" cx="13.168" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-43.658" ry="0.637" rx="0.891"/>
-  <ellipse transform="matrix(0.5563 -0.831 0.831 0.5563 34.9851 -13.5867)" cx="4.769" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-39.556" ry="0.636" rx="0.891"/>
-  <ellipse transform="matrix(0.0337 -0.9994 0.9994 0.0337 27.5995 21.4343)" cx="24.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-3.556" ry="0.637" rx="0.891"/>
-  <ellipse transform="matrix(0.9969 -0.0792 0.0792 0.9969 4.0263 2.7385)" cx="36.543" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-49.399" ry="0.801" rx="0.573"/>
-  <ellipse transform="matrix(0.4672 -0.8842 0.8842 0.4672 76.5233 5.0359)" cx="42.44" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-60.974" ry="0.573" rx="0.802"/>
-  <ellipse transform="matrix(0.2418 -0.9703 0.9703 0.2418 81.3636 10.8433)" cx="47.62" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-46.643" ry="0.573" rx="0.802"/>
-  <ellipse transform="matrix(0.08 -0.9968 0.9968 0.08 54.835 44.6393)" cx="51.601" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-7.387" ry="0.707" rx="0.991"/>
-  <ellipse transform="matrix(0.2699 -0.9629 0.9629 0.2699 26.6833 23.0833)" cx="28.563" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-6.053" ry="0.707" rx="0.989"/>
+  <ellipse cy="-21.155" ry="0.989" cx="55.314" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.707"/>
+  <ellipse cy="-36.455" ry="0.99" cx="54.914" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.708"/>
+  <ellipse cy="-24.355" ry="0.99" cx="25.814" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.707"/>
+  <ellipse cy="-8.037" ry="0.707" transform="matrix(0.1892 -0.9819 0.9819 0.1892 44.4809 37.7964)" cx="45.128" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-21.655" ry="0.99" cx="21.615" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.707"/>
+  <ellipse cy="-24.324" ry="0.707" transform="matrix(0.3957 -0.9184 0.9184 0.3957 33.3512 2.0358)" cx="18.222" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.991"/>
+  <ellipse cy="-46.509" ry="0.707" transform="matrix(0.3962 -0.9182 0.9182 0.3962 62.561 2.1132)" cx="32.887" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-55.309" ry="0.707" transform="matrix(0.3957 -0.9184 0.9184 0.3957 54.5337 -27.7412)" cx="6.187" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-13.59" ry="0.99" cx="34.879" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.707"/>
+  <ellipse cy="-4.214" ry="0.707" transform="matrix(0.2819 -0.9594 0.9594 0.2819 17.7837 15.3323)" cx="19.134" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-6.205" ry="0.99" cx="56.715" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.708"/>
+  <ellipse cy="-17.782" ry="0.685" transform="matrix(0.5135 -0.8581 0.8581 0.5135 41.3377 37.3511)" cx="53.611" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.913"/>
+  <ellipse cy="-22.147" ry="0.685" transform="matrix(0.514 -0.8578 0.8578 0.514 39.2351 24.9599)" cx="41.646" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.912"/>
+  <ellipse cy="-3.474" ry="0.685" transform="matrix(0.0756 -0.9971 0.9971 0.0756 59.7095 57.4603)" cx="60.845" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.912"/>
+  <ellipse cy="-9.581" ry="0.685" transform="matrix(0.5134 -0.8582 0.8582 0.5134 15.8191 8.7342)" cx="15.611" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.912"/>
+  <ellipse cy="-33.798" ry="0.554" transform="matrix(0.5138 -0.8579 0.8579 0.5138 42.0892 6.6756)" cx="26.935" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.739"/>
+  <ellipse cy="-33.047" ry="0.685" transform="matrix(0.5134 -0.8581 0.8581 0.5134 36.2642 -2.1394)" cx="16.246" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.912"/>
+  <ellipse cy="-48.782" ry="0.685" transform="matrix(0.5135 -0.8581 0.8581 0.5135 52.2737 -5.3591)" cx="21.41" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.912"/>
+  <ellipse cy="-32.097" ry="0.685" transform="matrix(0.5141 -0.8577 0.8577 0.5141 32.5588 -6.7225)" cx="10.346" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.912"/>
+  <ellipse cy="-47.982" ry="0.685" transform="matrix(0.5135 -0.8581 0.8581 0.5135 45.7988 -15.1805)" cx="9.511" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.912"/>
+  <ellipse cy="-8.329" ry="0.636" transform="matrix(0.2418 -0.9703 0.9703 0.2418 36.3622 29.8771)" cx="37.299" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
+  <ellipse cy="-8.464" ry="0.636" transform="matrix(0.241 -0.9705 0.9705 0.241 12.2104 -1.3155)" cx="5.264" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
+  <ellipse cy="-10.588" ry="0.891" transform="matrix(0.9799 -0.1995 0.1995 0.9799 3.2862 11.4367)" cx="58.393" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.636"/>
+  <ellipse cy="-4.742" ry="0.636" transform="matrix(0.3077 -0.9515 0.9515 0.3077 6.969 0.0937)" cx="3.549" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
+  <ellipse cy="-8.364" ry="0.637" transform="matrix(0.2416 -0.9704 0.9704 0.2416 15.7109 3.3742)" cx="10.014" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
+  <ellipse cy="-28.43" ry="0.637" transform="matrix(0.2416 -0.9704 0.9704 0.2416 40.858 -4.5797)" cx="17.499" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
+  <ellipse cy="-43.658" ry="0.637" transform="matrix(0.2416 -0.9704 0.9704 0.2416 52.3509 -20.3306)" cx="13.168" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
+  <ellipse cy="-39.556" ry="0.636" transform="matrix(0.5563 -0.831 0.831 0.5563 34.9851 -13.5867)" cx="4.769" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
+  <ellipse cy="-3.556" ry="0.637" transform="matrix(0.0337 -0.9994 0.9994 0.0337 27.5995 21.4343)" cx="24.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
+  <ellipse cy="-49.399" ry="0.801" transform="matrix(0.9969 -0.0792 0.0792 0.9969 4.0263 2.7385)" cx="36.543" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.573"/>
+  <ellipse cy="-60.974" ry="0.573" transform="matrix(0.4672 -0.8842 0.8842 0.4672 76.5233 5.0359)" cx="42.44" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.802"/>
+  <ellipse cy="-46.643" ry="0.573" transform="matrix(0.2418 -0.9703 0.9703 0.2418 81.3636 10.8433)" cx="47.62" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.802"/>
+  <ellipse cy="-7.387" ry="0.707" transform="matrix(0.08 -0.9968 0.9968 0.08 54.835 44.6393)" cx="51.601" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.991"/>
+  <ellipse cy="-6.053" ry="0.707" transform="matrix(0.2699 -0.9629 0.9629 0.2699 26.6833 23.0833)" cx="28.563" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.989"/>
   <path d="M24.031-36.989    c0,0.546,0.379,0.989,0.848,0.989c0.469,0,0.849-0.443,0.849-0.989c0-0.547-0.779-1.211-1.248-1.211    C24.011-38.2,24.031-37.536,24.031-36.989z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
   <path d="M28.963-40.23    c0-0.546-0.58-1.635-1.049-1.635c-0.469,0-0.649,1.089-0.649,1.635c0,0.547,0.38,0.991,0.849,0.991    C28.583-39.239,28.963-39.684,28.963-40.23z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
   <path d="M57.591-61.128    c-0.499-0.225-1.06-0.061-1.251,0.366c-0.193,0.428,0.055,0.956,0.554,1.181c0.498,0.225,1.729,0.144,1.921-0.284    C59.007-60.292,58.089-60.903,57.591-61.128z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse cx="15.015" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-5.557" ry="0.892" rx="0.764"/>
-  <ellipse cx="48.314" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-35.856" ry="0.892" rx="0.764"/>
-  <ellipse cx="44.879" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-57.291" ry="0.891" rx="0.764"/>
-  <ellipse cx="54.779" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-55.191" ry="0.891" rx="0.764"/>
-  <ellipse cx="34.114" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-55.067" ry="0.802" rx="0.688"/>
-  <ellipse transform="matrix(0.3743 -0.9273 0.9273 0.3743 24.7321 -1.3289)" cx="11.381" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-18.991" ry="0.764" rx="0.891"/>
-  <ellipse transform="matrix(0.6422 -0.7666 0.7666 0.6422 26.2734 0.0392)" cx="13.179" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-28.123" ry="0.566" rx="0.99"/>
-  <ellipse transform="matrix(0.2921 -0.9564 0.9564 0.2921 34.0511 -19.7096)" cx="3.712" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-32.856" ry="0.622" rx="1.036"/>
-  <ellipse transform="matrix(0.5374 -0.8433 0.8433 0.5374 68.8266 24.8709)" cx="57.083" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-50.3" ry="0.565" rx="0.99"/>
-  <ellipse transform="matrix(0.2268 -0.9739 0.9739 0.2268 30.8079 0.0812)" cx="15.455" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-19.363" ry="0.566" rx="0.99"/>
-  <ellipse transform="matrix(0.2255 -0.9743 0.9743 0.2255 34.5652 17.8201)" cx="28.49" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-12.829" ry="0.565" rx="0.99"/>
-  <ellipse transform="matrix(0.2255 -0.9743 0.9743 0.2255 51.5528 31.186)" cx="45.39" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-16.83" ry="0.565" rx="0.99"/>
-  <ellipse transform="matrix(0.2255 -0.9743 0.9743 0.2255 53.1765 43.7283)" cx="54.09" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-11.58" ry="0.565" rx="0.99"/>
-  <ellipse transform="matrix(0.2254 -0.9743 0.9743 0.2254 41.4685 45.0317)" cx="49.055" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-3.564" ry="0.565" rx="0.99"/>
-  <ellipse transform="matrix(0.4616 -0.8871 0.8871 0.4616 68.6421 22.7067)" cx="53.027" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-45.194" ry="0.637" rx="1.273"/>
-  <ellipse transform="matrix(0.4613 -0.8872 0.8872 0.4613 48.1654 14.8971)" cx="36.351" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-32.216" ry="0.572" rx="1.145"/>
-  <ellipse transform="matrix(0.4618 -0.887 0.887 0.4618 61.1179 -8.5052)" cx="23.55" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-54.616" ry="0.573" rx="1.146"/>
-  <ellipse transform="matrix(0.461 -0.8874 0.8874 0.461 72.9722 19.0796)" cx="52.192" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-50.529" ry="0.637" rx="1.273"/>
+  <ellipse cy="-5.557" ry="0.892" cx="15.015" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.764"/>
+  <ellipse cy="-35.856" ry="0.892" cx="48.314" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.764"/>
+  <ellipse cy="-57.291" ry="0.891" cx="44.879" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.764"/>
+  <ellipse cy="-55.191" ry="0.891" cx="54.779" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.764"/>
+  <ellipse cy="-55.067" ry="0.802" cx="34.114" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.688"/>
+  <ellipse cy="-18.991" ry="0.764" transform="matrix(0.3743 -0.9273 0.9273 0.3743 24.7321 -1.3289)" cx="11.381" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.891"/>
+  <ellipse cy="-28.123" ry="0.566" transform="matrix(0.6422 -0.7666 0.7666 0.6422 26.2734 0.0392)" cx="13.179" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-32.856" ry="0.622" transform="matrix(0.2921 -0.9564 0.9564 0.2921 34.0511 -19.7096)" cx="3.712" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.036"/>
+  <ellipse cy="-50.3" ry="0.565" transform="matrix(0.5374 -0.8433 0.8433 0.5374 68.8266 24.8709)" cx="57.083" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-19.363" ry="0.566" transform="matrix(0.2268 -0.9739 0.9739 0.2268 30.8079 0.0812)" cx="15.455" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-12.829" ry="0.565" transform="matrix(0.2255 -0.9743 0.9743 0.2255 34.5652 17.8201)" cx="28.49" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-16.83" ry="0.565" transform="matrix(0.2255 -0.9743 0.9743 0.2255 51.5528 31.186)" cx="45.39" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-11.58" ry="0.565" transform="matrix(0.2255 -0.9743 0.9743 0.2255 53.1765 43.7283)" cx="54.09" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-3.564" ry="0.565" transform="matrix(0.2254 -0.9743 0.9743 0.2254 41.4685 45.0317)" cx="49.055" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.99"/>
+  <ellipse cy="-45.194" ry="0.637" transform="matrix(0.4616 -0.8871 0.8871 0.4616 68.6421 22.7067)" cx="53.027" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.273"/>
+  <ellipse cy="-32.216" ry="0.572" transform="matrix(0.4613 -0.8872 0.8872 0.4613 48.1654 14.8971)" cx="36.351" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.145"/>
+  <ellipse cy="-54.616" ry="0.573" transform="matrix(0.4618 -0.887 0.887 0.4618 61.1179 -8.5052)" cx="23.55" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.146"/>
+  <ellipse cy="-50.529" ry="0.637" transform="matrix(0.461 -0.8874 0.8874 0.461 72.9722 19.0796)" cx="52.192" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.273"/>
   <path d="M46.84-53.9    c-0.261-0.498-0.851-0.736-1.101-0.606c-0.249,0.13-0.241,0.64,0.019,1.139c0.26,0.499,0.672,0.798,0.921,0.668    C47.794-53.279,47.136-53.329,46.84-53.9z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse transform="matrix(0.1849 -0.9828 0.9828 0.1849 41.1387 9.4049)" cx="26.239" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-20.098" ry="0.636" rx="1.273"/>
-  <ellipse transform="matrix(0.4616 -0.8871 0.8871 0.4616 42.1305 14.3562)" cx="32.892" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-27.529" ry="0.637" rx="1.273"/>
-  <ellipse transform="matrix(0.0822 -0.9966 0.9966 0.0822 23.056 -1.2023)" cx="10.875" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-13.119" ry="0.636" rx="1.272"/>
-  <ellipse transform="matrix(0.379 -0.9254 0.9254 0.379 28.0502 -13.0147)" cx="4.328" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-27.407" ry="0.509" rx="1.018"/>
-  <ellipse transform="matrix(0.3789 -0.9255 0.9255 0.3789 55.5687 -15.291)" cx="16.393" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-49.042" ry="0.509" rx="1.018"/>
-  <ellipse transform="matrix(0.3788 -0.9255 0.9255 0.3788 49.0117 27.3841)" cx="44.905" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-22.819" ry="0.407" rx="0.815"/>
-  <circle cx="13.215" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-37.756" r="0.891"/>
-  <ellipse transform="matrix(0.3569 -0.9342 0.9342 0.3569 62.3182 -15.2166)" cx="20.108" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-52.867" ry="0.516" rx="0.859"/>
-  <ellipse transform="matrix(0.4597 -0.8881 0.8881 0.4597 23.2416 10.9484)" cx="20.619" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-13.627" ry="0.515" rx="0.859"/>
-  <ellipse transform="matrix(0.3571 -0.9341 0.9341 0.3571 44.0436 1.5845)" cx="23.173" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-31.202" ry="0.515" rx="0.859"/>
-  <ellipse transform="matrix(0.3571 -0.9341 0.9341 0.3571 18.1953 -8.5691)" cx="2.873" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-17.502" ry="0.515" rx="0.859"/>
+  <ellipse cy="-20.098" ry="0.636" transform="matrix(0.1849 -0.9828 0.9828 0.1849 41.1387 9.4049)" cx="26.239" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.273"/>
+  <ellipse cy="-27.529" ry="0.637" transform="matrix(0.4616 -0.8871 0.8871 0.4616 42.1305 14.3562)" cx="32.892" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.273"/>
+  <ellipse cy="-13.119" ry="0.636" transform="matrix(0.0822 -0.9966 0.9966 0.0822 23.056 -1.2023)" cx="10.875" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.272"/>
+  <ellipse cy="-27.407" ry="0.509" transform="matrix(0.379 -0.9254 0.9254 0.379 28.0502 -13.0147)" cx="4.328" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.018"/>
+  <ellipse cy="-49.042" ry="0.509" transform="matrix(0.3789 -0.9255 0.9255 0.3789 55.5687 -15.291)" cx="16.393" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="1.018"/>
+  <ellipse cy="-22.819" ry="0.407" transform="matrix(0.3788 -0.9255 0.9255 0.3788 49.0117 27.3841)" cx="44.905" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.815"/>
+  <circle cy="-37.756" cx="13.215" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" r="0.891"/>
+  <ellipse cy="-52.867" ry="0.516" transform="matrix(0.3569 -0.9342 0.9342 0.3569 62.3182 -15.2166)" cx="20.108" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.859"/>
+  <ellipse cy="-13.627" ry="0.515" transform="matrix(0.4597 -0.8881 0.8881 0.4597 23.2416 10.9484)" cx="20.619" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.859"/>
+  <ellipse cy="-31.202" ry="0.515" transform="matrix(0.3571 -0.9341 0.9341 0.3571 44.0436 1.5845)" cx="23.173" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.859"/>
+  <ellipse cy="-17.502" ry="0.515" transform="matrix(0.3571 -0.9341 0.9341 0.3571 18.1953 -8.5691)" cx="2.873" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.859"/>
   <path d="M29.546-16.066    c0.2,0.335,0.618,0.544,0.934,0.466c0.314-0.077,0.408-0.41,0.208-0.745c-0.201-0.335-0.619-0.546-0.935-0.469    C29.438-16.737,29.345-16.401,29.546-16.066z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
   <path d="M25.679-8.6    c0.315-0.077,0.409-0.412,0.208-0.747c-0.2-0.336-0.618-0.544-0.934-0.467c-0.315,0.077-0.408,0.41-0.208,0.745    C24.946-8.733,25.364-8.523,25.679-8.6z" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
-  <ellipse transform="matrix(0.4201 -0.9075 0.9075 0.4201 62.9596 37.8308)" cx="61.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-30.344" ry="0.515" rx="0.859"/>
-  <ellipse transform="matrix(0.073 -0.9973 0.9973 0.073 61.896 37.6789)" cx="51.217" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-14.457" ry="0.515" rx="0.86"/>
-  <ellipse transform="matrix(0.0733 -0.9973 0.9973 0.0733 52.5301 22.0902)" cx="38.152" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" cy="-17.221" ry="0.516" rx="0.859"/>
-  <circle cx="49.755" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-43.835" r="0.382"/>
-  <circle cx="52.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-38.582" r="0.382"/>
-  <circle cx="42.415" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-35.147" r="0.382"/>
-  <circle cx="57.279" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-33.982" r="0.382"/>
-  <circle cx="29.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-36.581" r="0.382"/>
-  <circle cx="52.229" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-29.632" r="0.382"/>
-  <circle cx="36.114" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-28.347" r="0.382"/>
-  <circle cx="21.015" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-28.047" r="0.382"/>
-  <circle cx="41.414" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-16.446" r="0.382"/>
-  <circle cx="48.814" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-18.347" r="0.382"/>
-  <circle cx="48.415" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-8.447" r="0.382"/>
-  <circle cx="45.314" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-3.647" r="0.382"/>
-  <circle cx="8.429" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-17.182" r="0.382"/>
-  <circle cx="7.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-11.482" r="0.382"/>
-  <circle cx="14.996" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-40.429" r="0.382"/>
-  <circle cx="3.279" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-53.582" r="0.382"/>
-  <circle cx="8.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-45.182" r="0.382"/>
-  <circle cx="50.114" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" cy="-54.146" r="0.382"/>
+  <ellipse cy="-30.344" ry="0.515" transform="matrix(0.4201 -0.9075 0.9075 0.4201 62.9596 37.8308)" cx="61.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.859"/>
+  <ellipse cy="-14.457" ry="0.515" transform="matrix(0.073 -0.9973 0.9973 0.073 61.896 37.6789)" cx="51.217" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.86"/>
+  <ellipse cy="-17.221" ry="0.516" transform="matrix(0.0733 -0.9973 0.9973 0.0733 52.5301 22.0902)" cx="38.152" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;" rx="0.859"/>
+  <circle cy="-43.835" cx="49.755" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-38.582" cx="52.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-35.147" cx="42.415" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-33.982" cx="57.279" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-36.581" cx="29.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-29.632" cx="52.229" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-28.347" cx="36.114" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-28.047" cx="21.015" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-16.446" cx="41.414" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-18.347" cx="48.814" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-8.447" cx="48.415" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-3.647" cx="45.314" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-17.182" cx="8.429" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-11.482" cx="7.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-40.429" cx="14.996" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-53.582" cx="3.279" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-45.182" cx="8.079" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
+  <circle cy="-54.146" cx="50.114" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;" r="0.382"/>
   <path d="M30.077-62.279    c-0.028,0.428-0.27,0.764-0.562,0.764c-0.294,0-0.534-0.336-0.563-0.764" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
   <path d="M30.077-1.8    c0.002-0.028,0.003-0.057,0.003-0.085c0-0.469-0.253-0.849-0.565-0.849s-0.565,0.38-0.565,0.849c0,0.028,0.001,0.057,0.002,0.085" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>
   <path d="M12.276-62.279    c-0.028,0.428-0.27,0.764-0.562,0.764c-0.294,0-0.534-0.336-0.563-0.764" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.4;"/>

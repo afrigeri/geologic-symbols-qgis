@@ -4,5 +4,5 @@
  <defs>
   <path d="M0 0h6.94v6.94H0z" id="a"/>
  </defs>
- <path stroke="#EC008C" d="M2.54 2.97L.2 2.95V.7M6.04 6.6L3.7 6.56V4.32" stroke-width=".58" fill="none"/>
+ <path d="M2.54 2.97L.2 2.95V.7M6.04 6.6L3.7 6.56V4.32" fill="none" stroke-width=".58" stroke="#EC008C"/>
 </svg>

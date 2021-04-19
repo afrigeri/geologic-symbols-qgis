@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" height="19.256" width="18.525" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" height="19.256" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.525">
  <defs>
   <path id="a" d="M0 0h18.52v19.26H0z"/>
  </defs>
- <circle fill="#EC008C" cy=".019" cx="4.508" r="1.17"/>
- <circle fill="#EC008C" cy=".019" cx="13.942" r="1.17"/>
- <circle fill="#EC008C" cy="2.557" cx="-.004" r="1.17"/>
- <circle fill="#EC008C" cy="2.557" cx="18.504" r="1.17"/>
- <circle fill="#EC008C" cy="7.258" cx="-.004" r="1.17"/>
- <circle fill="#EC008C" cy="9.696" cx="4.708" r="1.17"/>
- <circle fill="#EC008C" cy="12.133" cx="9.258" r="1.17"/>
- <circle fill="#EC008C" cy="4.733" cx="6.863" r="1.17"/>
- <circle fill="#EC008C" cy="4.733" cx="11.565" r="1.17"/>
- <circle fill="#EC008C" cy="9.696" cx="13.792" r="1.17"/>
- <circle fill="#EC008C" cy="7.258" cx="18.504" r="1.17"/>
- <circle fill="#EC008C" cy="16.835" cx="9.242" r="1.17"/>
- <circle fill="#EC008C" cy="19.273" cx="13.955" r="1.17"/>
- <circle fill="#EC008C" cy="14.311" cx="16.109" r="1.17"/>
- <circle fill="#EC008C" cy="14.311" cx="2.286" r="1.17"/>
- <circle fill="#EC008C" cy="19.273" cx="4.513" r="1.17"/>
+ <circle cx="4.508" fill="#EC008C" r="1.17" cy=".019"/>
+ <circle cx="13.942" fill="#EC008C" r="1.17" cy=".019"/>
+ <circle cx="-.004" fill="#EC008C" r="1.17" cy="2.557"/>
+ <circle cx="18.504" fill="#EC008C" r="1.17" cy="2.557"/>
+ <circle cx="-.004" fill="#EC008C" r="1.17" cy="7.258"/>
+ <circle cx="4.708" fill="#EC008C" r="1.17" cy="9.696"/>
+ <circle cx="9.258" fill="#EC008C" r="1.17" cy="12.133"/>
+ <circle cx="6.863" fill="#EC008C" r="1.17" cy="4.733"/>
+ <circle cx="11.565" fill="#EC008C" r="1.17" cy="4.733"/>
+ <circle cx="13.792" fill="#EC008C" r="1.17" cy="9.696"/>
+ <circle cx="18.504" fill="#EC008C" r="1.17" cy="7.258"/>
+ <circle cx="9.242" fill="#EC008C" r="1.17" cy="16.835"/>
+ <circle cx="13.955" fill="#EC008C" r="1.17" cy="19.273"/>
+ <circle cx="16.109" fill="#EC008C" r="1.17" cy="14.311"/>
+ <circle cx="2.286" fill="#EC008C" r="1.17" cy="14.311"/>
+ <circle cx="4.513" fill="#EC008C" r="1.17" cy="19.273"/>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" version="1.1" xml:space="preserve" viewBox="0 -86.614 86.613 86.614" width="86.613" x="0px" y="0px" height="86.614">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" version="1.1" y="0px" xml:space="preserve" viewBox="0 -86.614 86.613 86.614" width="86.613" height="86.614" baseProfile="tiny">
  <g>
-  <rect width="86.613" style="fill:none;" x="0" y="-86.614" height="86.614"/>
+  <rect style="fill:none;" x="0" y="-86.614" width="86.613" height="86.614"/>
   <polyline style="fill:#00AEEF;" points="0,-72.147 0.092,-72.265 0.747,-70.995 0,-71.022   "/>
   <polygon style="fill:#00AEEF;" points="20.175,-85.151 18.764,-84.897 19.427,-83.733   "/>
   <polygon style="fill:none;" points="20.175,-85.151 18.764,-84.897 19.427,-83.733   "/>
@@ -1197,37 +1197,37 @@
   <polyline style="fill:none;" points="59.665,0 59.78,-0.09 58.46,-0.637 58.484,0   "/>
   <polyline style="fill:#00AEEF;" points="81.336,0 81.451,-0.09 80.131,-0.637 80.155,0   "/>
   <polyline style="fill:none;" points="81.336,0 81.451,-0.09 80.131,-0.637 80.155,0   "/>
-  <line y1="0" x1="80.155" x2="81.336" style="fill:#00AEEF;" y2="0"/>
-  <line y1="0" x1="80.155" x2="81.336" style="fill:none;" y2="0"/>
-  <line y1="-6.079" x1="86.613" x2="86.613" style="fill:#00AEEF;" y2="-7.131"/>
-  <line y1="-6.079" x1="86.613" x2="86.613" style="fill:none;" y2="-7.131"/>
-  <line y1="-72.147" x1="0" x2="0" style="fill:#00AEEF;" y2="-71.022"/>
-  <line y1="-72.147" x1="0" x2="0" style="fill:none;" y2="-71.022"/>
-  <line y1="-27.712" x1="86.613" x2="86.613" style="fill:#00AEEF;" y2="-28.764"/>
-  <line y1="-27.712" x1="86.613" x2="86.613" style="fill:none;" y2="-28.764"/>
-  <line y1="0" x1="36.826" x2="38.007" style="fill:#00AEEF;" y2="0"/>
-  <line y1="0" x1="36.826" x2="38.007" style="fill:none;" y2="0"/>
-  <line y1="0" x1="15.156" x2="16.336" style="fill:#00AEEF;" y2="0"/>
-  <line y1="0" x1="15.156" x2="16.336" style="fill:none;" y2="0"/>
-  <line y1="-49.391" x1="0" x2="0" style="fill:#00AEEF;" y2="-50.516"/>
-  <line y1="-49.391" x1="0" x2="0" style="fill:none;" y2="-50.516"/>
-  <line y1="0" x1="58.484" x2="59.665" style="fill:#00AEEF;" y2="0"/>
-  <line y1="0" x1="58.484" x2="59.665" style="fill:none;" y2="0"/>
-  <line y1="-49.393" x1="86.613" x2="86.613" style="fill:#00AEEF;" y2="-50.445"/>
-  <line y1="-49.393" x1="86.613" x2="86.613" style="fill:none;" y2="-50.445"/>
-  <line y1="-71.024" x1="86.613" x2="86.613" style="fill:#00AEEF;" y2="-72.077"/>
-  <line y1="-71.024" x1="86.613" x2="86.613" style="fill:none;" y2="-72.077"/>
-  <line y1="-86.614" x1="59.656" x2="58.485" style="fill:#00AEEF;" y2="-86.614"/>
-  <line y1="-86.614" x1="59.656" x2="58.485" style="fill:none;" y2="-86.614"/>
-  <line y1="-28.834" x1="0" x2="0" style="fill:#00AEEF;" y2="-27.71"/>
-  <line y1="-28.834" x1="0" x2="0" style="fill:none;" y2="-27.71"/>
-  <line y1="-86.614" x1="81.327" x2="80.155" style="fill:#00AEEF;" y2="-86.614"/>
-  <line y1="-86.614" x1="81.327" x2="80.155" style="fill:none;" y2="-86.614"/>
-  <line y1="-86.614" x1="16.328" x2="15.156" style="fill:#00AEEF;" y2="-86.614"/>
-  <line y1="-86.614" x1="16.328" x2="15.156" style="fill:none;" y2="-86.614"/>
-  <line y1="-86.614" x1="37.998" x2="36.826" style="fill:#00AEEF;" y2="-86.614"/>
-  <line y1="-86.614" x1="37.998" x2="36.826" style="fill:none;" y2="-86.614"/>
-  <line y1="-6.077" x1="0" x2="0" style="fill:#00AEEF;" y2="-7.201"/>
-  <line y1="-6.077" x1="0" x2="0" style="fill:none;" y2="-7.201"/>
+  <line style="fill:#00AEEF;" y1="0" x1="80.155" x2="81.336" y2="0"/>
+  <line style="fill:none;" y1="0" x1="80.155" x2="81.336" y2="0"/>
+  <line style="fill:#00AEEF;" y1="-6.079" x1="86.613" x2="86.613" y2="-7.131"/>
+  <line style="fill:none;" y1="-6.079" x1="86.613" x2="86.613" y2="-7.131"/>
+  <line style="fill:#00AEEF;" y1="-72.147" x1="0" x2="0" y2="-71.022"/>
+  <line style="fill:none;" y1="-72.147" x1="0" x2="0" y2="-71.022"/>
+  <line style="fill:#00AEEF;" y1="-27.712" x1="86.613" x2="86.613" y2="-28.764"/>
+  <line style="fill:none;" y1="-27.712" x1="86.613" x2="86.613" y2="-28.764"/>
+  <line style="fill:#00AEEF;" y1="0" x1="36.826" x2="38.007" y2="0"/>
+  <line style="fill:none;" y1="0" x1="36.826" x2="38.007" y2="0"/>
+  <line style="fill:#00AEEF;" y1="0" x1="15.156" x2="16.336" y2="0"/>
+  <line style="fill:none;" y1="0" x1="15.156" x2="16.336" y2="0"/>
+  <line style="fill:#00AEEF;" y1="-49.391" x1="0" x2="0" y2="-50.516"/>
+  <line style="fill:none;" y1="-49.391" x1="0" x2="0" y2="-50.516"/>
+  <line style="fill:#00AEEF;" y1="0" x1="58.484" x2="59.665" y2="0"/>
+  <line style="fill:none;" y1="0" x1="58.484" x2="59.665" y2="0"/>
+  <line style="fill:#00AEEF;" y1="-49.393" x1="86.613" x2="86.613" y2="-50.445"/>
+  <line style="fill:none;" y1="-49.393" x1="86.613" x2="86.613" y2="-50.445"/>
+  <line style="fill:#00AEEF;" y1="-71.024" x1="86.613" x2="86.613" y2="-72.077"/>
+  <line style="fill:none;" y1="-71.024" x1="86.613" x2="86.613" y2="-72.077"/>
+  <line style="fill:#00AEEF;" y1="-86.614" x1="59.656" x2="58.485" y2="-86.614"/>
+  <line style="fill:none;" y1="-86.614" x1="59.656" x2="58.485" y2="-86.614"/>
+  <line style="fill:#00AEEF;" y1="-28.834" x1="0" x2="0" y2="-27.71"/>
+  <line style="fill:none;" y1="-28.834" x1="0" x2="0" y2="-27.71"/>
+  <line style="fill:#00AEEF;" y1="-86.614" x1="81.327" x2="80.155" y2="-86.614"/>
+  <line style="fill:none;" y1="-86.614" x1="81.327" x2="80.155" y2="-86.614"/>
+  <line style="fill:#00AEEF;" y1="-86.614" x1="16.328" x2="15.156" y2="-86.614"/>
+  <line style="fill:none;" y1="-86.614" x1="16.328" x2="15.156" y2="-86.614"/>
+  <line style="fill:#00AEEF;" y1="-86.614" x1="37.998" x2="36.826" y2="-86.614"/>
+  <line style="fill:none;" y1="-86.614" x1="37.998" x2="36.826" y2="-86.614"/>
+  <line style="fill:#00AEEF;" y1="-6.077" x1="0" x2="0" y2="-7.201"/>
+  <line style="fill:none;" y1="-6.077" x1="0" x2="0" y2="-7.201"/>
  </g>
 </svg>

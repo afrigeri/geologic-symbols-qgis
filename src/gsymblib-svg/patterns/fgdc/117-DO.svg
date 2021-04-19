@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" height="144" baseProfile="tiny" xml:space="preserve" viewBox="1 -145 144 144" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" width="144">
+<svg xmlns="http://www.w3.org/2000/svg" height="144" xml:space="preserve" viewBox="1 -145 144 144" baseProfile="tiny" y="0px" width="144" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px">
  <g>
-  <rect height="144" style="fill:none;" y="-145" x="1" width="144"/>
-  <rect height="144" y="-145" x="1" width="144"/>
+  <rect height="144" style="fill:none;" y="-145" width="144" x="1"/>
+  <rect height="144" y="-145" width="144" x="1"/>
   <circle style="fill:#FFFFFF;" cx="12.959" cy="-143" r="0.499"/>
   <circle style="fill:#FFFFFF;" cx="18.333" cy="-141.79" r="0.499"/>
   <circle style="fill:#FFFFFF;" cx="26.667" cy="-143.707" r="0.499"/>

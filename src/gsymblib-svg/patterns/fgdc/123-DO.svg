@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" height="72.666" viewBox="2.346 -74.604 72.667 72.666" xml:space="preserve" y="0px" x="0px" baseProfile="tiny" width="72.667" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" x="0px" width="72.667" y="0px" viewBox="2.346 -74.604 72.667 72.666" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="72.666">
  <g>
-  <rect height="72.666" y="-74.604" x="2.346" style="fill:none;" width="72.667"/>
-  <rect height="72.666" y="-74.604" x="2.346" width="72.667"/>
+  <rect x="2.346" width="72.667" y="-74.604" style="fill:none;" height="72.666"/>
+  <rect x="2.346" width="72.667" y="-74.604" height="72.666"/>
   <path d="M7.625-73.812c1.442-0.481,1.5,2.25,0.25,2.75S6.5-73.438,7.625-73.812z"/>
   <path d="M12.875-73.312c0.573-1.031,3.125,0.375,1.75,1.625S12.25-72.188,12.875-73.312z"/>
   <path d="M20.125-70.938c0.956,1.529,1.375,3.375-0.875,2.5S19.5-71.938,20.125-70.938z"/>
@@ -98,7 +98,7 @@
   <path d="M23-53.562c1.664-0.555,1.5,2.5,0.25,2.875S22.25-53.312,23-53.562z"/>
   <path d="M29.75-58.812c1.278,0.15,1.25,3.25-0.25,3.5S27.625-59.062,29.75-58.812z"/>
   <path d="M23-62.938c0.983-0.772,1.875,2.25,0.625,3.125S21.25-61.562,23-62.938z"/>
-  <rect height="72.666" y="-74.604" x="2.346" style="fill:none;" width="72.667"/>
+  <rect x="2.346" width="72.667" y="-74.604" style="fill:none;" height="72.666"/>
   <path d="M7.625-73.812c1.442-0.481,1.5,2.25,0.25,2.75    S6.5-73.438,7.625-73.812z" style="fill:none;stroke:#FFFFFF;stroke-width:0.5;"/>
   <path d="M12.875-73.312c0.573-1.031,3.125,0.375,1.75,1.625    S12.25-72.188,12.875-73.312z" style="fill:none;stroke:#FFFFFF;stroke-width:0.5;"/>
   <path d="M20.125-70.938c0.956,1.529,1.375,3.375-0.875,2.5    S19.5-71.938,20.125-70.938z" style="fill:none;stroke:#FFFFFF;stroke-width:0.5;"/>

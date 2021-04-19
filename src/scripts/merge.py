@@ -8,7 +8,7 @@
 #
 # (c) 2019-2021 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali - INAF - Rome
 #
-# it'd critical to:
+# it's critical to:
 # export QT_QPA_PLATFORM_PLUGIN_PATH=/Applications/QGIS3.10.app/Contents/PlugIns/
 
 import os, sys
@@ -28,8 +28,10 @@ from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
 from xml.dom import minidom
 import glob
 
-import pytablewriter
-from pytablewriter import MarkdownTableWriter
+#import pytablewriter
+#from pytablewriter import MarkdownTableWriter
+
+from scripts.md_writer import MyMarkdownTableWriter as MarkdownTableWriter
 
 import datetime
 
@@ -90,13 +92,14 @@ QGISAPP.setDefaultSvgPaths(svgpaths)
 print(QGISAPP.svgPaths())
 
 import locale
-locale.setlocale(locale.LC_TIME, "en_US.utf8") # date in english
+#locale.setlocale(locale.LC_TIME, "en_US.utf8") # date in english
+locale.setlocale(locale.LC_TIME, "en_US.UTF-8")
 
 writer = MarkdownTableWriter()
 status_header = "# Gsymblib symbols list, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
 writer.table_name = ""
 writer.headers = ["graphics","authority", "code", "description", "notes"]
-writer.type_hints = [pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String]
+#writer.type_hints = [pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String]
 writer.value_matrix = []
 
 def indent(elem, level=0):

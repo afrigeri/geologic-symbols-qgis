@@ -1,7 +1,7 @@
 
 ![QGIS](docs/images/ss02.png)
 
-# gsymblib: Geologic symbols library and development for QGIS
+# gsymblib: Geologic mapping symbols library and development for QGIS
 #### Alessandro Frigeri, IAPS/INAF - Jan, 2021
 
 
