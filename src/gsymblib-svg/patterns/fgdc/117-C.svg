@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" x="0px" height="144" viewBox="1 -145 144 144" xml:space="preserve" y="0px" version="1.1" width="144" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" width="144" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" viewBox="1 -145 144 144" version="1.1" height="144">
  <g>
-  <rect style="fill:none;" x="1" height="144" y="-145" width="144"/>
+  <rect style="fill:none;" width="144" x="1" y="-145" height="144"/>
   <circle style="fill:#00AEEF;" r="0.499" cx="12.959" cy="-143"/>
   <circle style="fill:#00AEEF;" r="0.499" cx="18.333" cy="-141.79"/>
   <circle style="fill:#00AEEF;" r="0.499" cx="26.667" cy="-143.707"/>

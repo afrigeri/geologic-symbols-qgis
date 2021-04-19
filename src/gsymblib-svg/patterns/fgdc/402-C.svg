@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" viewBox="1 -72.301 71.339 71.301" width="71.339" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" x="0px" height="71.301">
+<svg xmlns="http://www.w3.org/2000/svg" width="71.339" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" baseProfile="tiny" x="0px" y="0px" version="1.1" height="71.301" viewBox="1 -72.301 71.339 71.301">
  <g>
-  <rect style="fill:none;" width="71.339" y="-72.301" x="1" height="71.301"/>
+  <rect width="71.339" x="1" y="-72.301" style="fill:none;" height="71.301"/>
   <polyline style="fill:#00AEEF;" points="1,-48.487 1.151,-48.68 2.229,-46.59 1,-46.636   "/>
   <polygon style="fill:#00AEEF;" points="34.21,-69.894 31.887,-69.476 32.98,-67.559   "/>
   <polygon style="fill:#00AEEF;" points="6.809,-69.863 6.751,-72.096 4.756,-70.644   "/>
@@ -155,13 +155,13 @@
   <polyline style="fill:#00AEEF;" points="63.55,-72.301 61.676,-70.831 61.62,-72.301   "/>
   <polyline style="fill:#00AEEF;" points="27.863,-1 28.081,-1.171 25.908,-2.07 25.949,-1   "/>
   <polyline style="fill:#00AEEF;" points="63.535,-1 63.753,-1.171 61.58,-2.07 61.621,-1   "/>
-  <line x2="1" y1="-48.487" y2="-46.636" style="fill:#00AEEF;" x1="1"/>
-  <line x2="72.339" y1="-46.636" y2="-48.485" style="fill:#00AEEF;" x1="72.339"/>
-  <line x2="27.863" y1="-1" y2="-1" style="fill:#00AEEF;" x1="25.949"/>
-  <line x2="1" y1="-11.026" y2="-12.877" style="fill:#00AEEF;" x1="1"/>
-  <line x2="63.535" y1="-1" y2="-1" style="fill:#00AEEF;" x1="61.621"/>
-  <line x2="72.339" y1="-11.026" y2="-12.875" style="fill:#00AEEF;" x1="72.339"/>
-  <line x2="61.62" y1="-72.301" y2="-72.301" style="fill:#00AEEF;" x1="63.55"/>
-  <line x2="25.948" y1="-72.301" y2="-72.301" style="fill:#00AEEF;" x1="27.877"/>
+  <line y1="-48.487" x2="1" y2="-46.636" x1="1" style="fill:#00AEEF;"/>
+  <line y1="-46.636" x2="72.339" y2="-48.485" x1="72.339" style="fill:#00AEEF;"/>
+  <line y1="-1" x2="27.863" y2="-1" x1="25.949" style="fill:#00AEEF;"/>
+  <line y1="-11.026" x2="1" y2="-12.877" x1="1" style="fill:#00AEEF;"/>
+  <line y1="-1" x2="63.535" y2="-1" x1="61.621" style="fill:#00AEEF;"/>
+  <line y1="-11.026" x2="72.339" y2="-12.875" x1="72.339" style="fill:#00AEEF;"/>
+  <line y1="-72.301" x2="61.62" y2="-72.301" x1="63.55" style="fill:#00AEEF;"/>
+  <line y1="-72.301" x2="25.948" y2="-72.301" x1="27.877" style="fill:#00AEEF;"/>
  </g>
 </svg>

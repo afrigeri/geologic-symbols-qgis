@@ -30,6 +30,7 @@ PACKAGE_NAME := gsymblib-$(DIST_VERSION)
 PACKAGE_DIR := $(DIST_DIR)/$(PACKAGE_NAME)
 TARGET_XML := gsymblib-$(DIST_VERSION).xml
 TARGET := $(DIST_DIR)/$(TARGET_XML)
+HANDOUT_PDF := $(PACKAGE_NAME)-handout.pdf
 
 # COLLECTIONS (QGIS RESOURCE MANAGER PLUGIN)
 COLL_DIR := $(REPO_DIR)/collections
@@ -38,7 +39,8 @@ COLL_SYM_DIR := $(COLL_DIR)/symbol
 
 SVG_DIR := gsymblib-svg
 
-DIST_FILES := $(SVG_DIR) $(DIST_DIR)/$(TARGET_XML)
+# These are the file being ditributed into the zip archive
+DIST_FILES := $(SVG_DIR) $(DIST_DIR)/$(TARGET_XML) $(DIST_DIR)/$(HANDOUT_PDF)
 
 DOCS_DIR := ../docs
 ICONS_DIR := $(DOCS_DIR)/images/library
@@ -46,11 +48,11 @@ ICONS_DIR := $(DOCS_DIR)/images/library
 $(TARGET): $(SRC_DIR)
 	mkdir -p $(DIST_DIR)
 	$(PYTHON) scripts/merge.py $< $@
+	make handout
 
 all:
 	make update_usgs_patterns
 	make $(TARGET)
-	make handout
 
 all_nonet: clean
 	make $(TARGET)
@@ -61,9 +63,10 @@ clean:
 dist: clean distclean all
 	mkdir -p $(PACKAGE_DIR)
 	cp -r $(DIST_FILES) $(PACKAGE_DIR)
-	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/$(SVG_DIR)
-	cd $(DIST_DIR); cp $(PACKAGE_NAME)/$(TARGET_XML) $(COLL_SYM_DIR)
-	cd $(DIST_DIR); cp $(PACKAGE_NAME)/$(SVG_DIR) $(COLL_XML_DIR)
+	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/$(SVG_DIR) $(PACKAGE_NAME)/$(HANDOUT_PDF)
+	#cd $(DIST_DIR); cp $(TARGET_XML) $(COLL_SYM_DIR)
+	#cd $(DIST_DIR); cp $(SVG_DIR) $(COLL_XML_DIR)
+	#cd $(DIST_DIR); cp $(PACKAGE_NAME)/$(HANDOUT_PDF) $(HANDOUT_PDF)
 	rm -rf $(PACKAGE_DIR)
 
 distclean:
@@ -71,7 +74,7 @@ distclean:
 	-rm $(DIST_DIR)/$(PACKAGE_NAME).zip
 
 handout:
-	pandoc --variable mainfont="Helvetica" --variable sansfont="Helvetica" --variable monofont="Menlo" --variable fontsize=10pt  -V geometry:margin=1cm --latex-engine xelatex ../STATUS.md -o $(DIST_DIR)/$(PACKAGE_NAME)-handout.pdf
+	cd $(REPO_DIR); pandoc --variable mainfont="Helvetica" --variable sansfont="Helvetica" --variable monofont="Menlo" --variable fontsize=10pt  -V geometry:margin=1cm --pdf-engine xelatex STATUS.md -o dist/$(HANDOUT_PDF)
 
 manual:
 	cd ../docs/; make latexpdf

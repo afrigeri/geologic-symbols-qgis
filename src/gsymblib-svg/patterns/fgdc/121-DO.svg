@@ -1,269 +1,269 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" x="0px" xml:space="preserve" height="57.6" version="1.1" width="57.6" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" viewBox="1 -58.6 57.6 57.6">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1 -58.6 57.6 57.6" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" version="1.1" y="0px" height="57.6" xml:space="preserve" width="57.6" x="0px">
  <g>
-  <rect x="1" height="57.6" style="fill:none;" width="57.6" y="-58.6"/>
-  <rect x="1" height="57.6" width="57.6" y="-58.6"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="54.987" r="0.884" cy="-56.238"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="49.425" r="0.884" cy="-56.05"/>
-  <path d="M46.641-58.6c-0.01,0.48-0.401,0.866-0.883,0.866    c-0.481,0-0.874-0.386-0.883-0.866" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M51.089-58.6c0,0.011-0.001,0.023-0.001,0.034    c0,0.488,0.397,0.884,0.884,0.884c0.488,0,0.884-0.396,0.884-0.884c0-0.012,0-0.023-0.001-0.034" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M51.07-1c0.025-0.465,0.411-0.835,0.882-0.835    c0.472,0,0.857,0.37,0.882,0.835" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M58.6-18.959c-0.007,0-0.015,0-0.022,0    c-0.487,0-0.884,0.396-0.884,0.884c0,0.488,0.396,0.884,0.884,0.884c0.007,0,0.015,0,0.022,0" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M58.6-9.022c-0.007,0-0.015,0-0.022,0    c-0.487,0-0.884,0.396-0.884,0.884c0,0.488,0.396,0.884,0.884,0.884c0.007,0,0.015,0,0.022-0.001" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M58.6-1.008v-0.826c-0.007,0-0.015-0.001-0.022-0.001    c-0.471,0-0.857,0.37-0.882,0.835H58.6" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M58.6-58.571v0.826c-0.007,0-0.015,0-0.022,0    c-0.471,0-0.857-0.37-0.882-0.835H58.6" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M36.148-1c0-0.005,0-0.009,0-0.014    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.005,0,0.009,0,0.014" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M41.197-1c0-0.006,0-0.012,0-0.018    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.006,0,0.012,0,0.018" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M46.648-1c0-0.005,0-0.009,0-0.014    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.005,0,0.009,0,0.014" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.809" r="0.884" cy="-55.068"/>
-  <path d="M41.254-58.6c-0.016,0.474-0.405,0.854-0.883,0.854    c-0.477,0-0.867-0.379-0.883-0.854" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.925" r="0.884" cy="-54.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="37.675" r="0.884" cy="-55.05"/>
-  <path d="M36.183-58.6c-0.007,0.482-0.4,0.872-0.883,0.872    c-0.483,0-0.876-0.389-0.883-0.872" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="34.05" r="0.884" cy="-54.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="29.925" r="0.884" cy="-54.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="28.05" r="0.884" cy="-57.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="23.925" r="0.884" cy="-57.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="26.05" r="0.884" cy="-54.059"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="28.175" r="0.884" cy="-50.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="32.05" r="0.884" cy="-51.175"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="36.175" r="0.884" cy="-51.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.425" r="0.884" cy="-51.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.925" r="0.884" cy="-51.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="48.737" r="0.884" cy="-52.488"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="52.05" r="0.884" cy="-53.488"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="55.559" r="0.884" cy="-52.568"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="54.362" r="0.884" cy="-49.559"/>
-  <path d="M58.6-55.564c-0.452,0.038-0.809,0.418-0.809,0.88    c0,0.463,0.356,0.842,0.809,0.88" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <path d="M58.6-50.38c-0.481,0.007-0.871,0.4-0.871,0.883    c0,0.484,0.39,0.877,0.871,0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="56.309" r="0.884" cy="-45.693"/>
-  <path d="M58.6-43.772c-0.01,0-0.019-0.001-0.028-0.001    c-0.487,0-0.884,0.396-0.884,0.884c0,0.488,0.396,0.884,0.884,0.884c0.01,0,0.019-0.001,0.028-0.001" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="52.229" r="0.884" cy="-46.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="53.862" r="0.884" cy="-42.872"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="55.934" r="0.884" cy="-40.068"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="57.05" r="0.884" cy="-36.309"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="55.121" r="0.884" cy="-32.318"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="57.133" r="0.884" cy="-29.663"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="53.55" r="0.884" cy="-35.559"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="52.3" r="0.884" cy="-38.497"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="50.612" r="0.884" cy="-42.247"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.8" r="0.884" cy="-41.934"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="48.8" r="0.884" cy="-38.559"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="49.925" r="0.884" cy="-34.809"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="52.036" r="0.884" cy="-31.287"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="53.642" r="0.884" cy="-28.15"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="56.8" r="0.884" cy="-25.309"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="53.362" r="0.884" cy="-24.497"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="49.476" r="0.884" cy="-26.926"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="48.74" r="0.884" cy="-30.459"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.871" r="0.884" cy="-33.224"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.282" r="0.884" cy="-30.278"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.146" r="0.884" cy="-35.994"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.425" r="0.884" cy="-39.184"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="42.3" r="0.884" cy="-42.059"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.175" r="0.884" cy="-39.184"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="37.8" r="0.884" cy="-41.559"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="42.425" r="0.884" cy="-35.809"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.762" r="0.884" cy="-31.912"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.524" r="0.884" cy="-27.039"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="49.657" r="0.884" cy="-23.618"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="57.309" r="0.884" cy="-21.568"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="54.642" r="0.884" cy="-17.468"/>
-  <path d="M1-17.224c0.016,0.001,0.032,0.001,0.048,0.001    c0.488,0,0.884-0.396,0.884-0.884c0-0.488-0.395-0.884-0.884-0.884c-0.016,0-0.032,0-0.048,0.001" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="56.838" r="0.884" cy="-14.727"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="48.487" r="0.884" cy="-45.809"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.291" r="0.884" cy="-48.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="50.041" r="0.884" cy="-49.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.166" r="0.884" cy="-45.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="42.291" r="0.884" cy="-48.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="38.416" r="0.884" cy="-48.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.291" r="0.884" cy="-45.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="36.541" r="0.884" cy="-44.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="34.791" r="0.884" cy="-48.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="30.541" r="0.884" cy="-48.175"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="32.541" r="0.884" cy="-44.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="28.916" r="0.884" cy="-44.05"/>
-  <circle style="fill:#FFFFFF;" cx="30.366" r="0.884" cy="-40.968"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="34.175" r="0.884" cy="-41.059"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="36.175" r="0.884" cy="-37.559"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="38.896" r="0.884" cy="-35.847"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="37.958" r="0.884" cy="-32.386"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="34.458" r="0.884" cy="-34.401"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="32.3" r="0.884" cy="-37.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="30.612" r="0.884" cy="-34.363"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="28.179" r="0.884" cy="-37.363"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="26.366" r="0.884" cy="-40.488"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="24.929" r="0.884" cy="-43.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="23.083" r="0.884" cy="-46.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="19.987" r="0.884" cy="-49.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="18.3" r="0.884" cy="-52.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="16.487" r="0.884" cy="-55.363"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="14.425" r="0.884" cy="-57.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="11.621" r="0.884" cy="-55.131"/>
-  <path d="M10.734-58.6c-0.009,0.48-0.401,0.866-0.883,0.866    c-0.481,0-0.874-0.387-0.883-0.866" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="13.916" r="0.884" cy="-52.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="15.541" r="0.884" cy="-49.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="19.107" r="0.884" cy="-46.391"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="20.541" r="0.884" cy="-43.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="22.416" r="0.884" cy="-40.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="23.791" r="0.884" cy="-37.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="25.791" r="0.884" cy="-34.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="21.675" r="0.884" cy="-34.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="18.3" r="0.884" cy="-33.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="13.983" r="0.884" cy="-34.266"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="11.675" r="0.884" cy="-31.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.747" r="0.884" cy="-34.398"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="4.581" r="0.884" cy="-35.869"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="10.667" r="0.884" cy="-36.492"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.049" r="0.884" cy="-33.452"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.498" r="0.884" cy="-38.811"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="4.987" r="0.884" cy="-41.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.05" r="0.884" cy="-38.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="12.383" r="0.884" cy="-38.959"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="20.041" r="0.884" cy="-37.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="16.267" r="0.884" cy="-37.15"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="14.642" r="0.884" cy="-41.376"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="18.267" r="0.884" cy="-40.275"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="17.05" r="0.884" cy="-43.934"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="14.425" r="0.884" cy="-46.434"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="12.425" r="0.884" cy="-44.184"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="9.267" r="0.884" cy="-41.684"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.55" r="0.884" cy="-44.809"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.55" r="0.884" cy="-45.247"/>
-  <path d="M1-41.988c0.482-0.007,0.871-0.399,0.871-0.883    c0-0.483-0.389-0.877-0.871-0.883" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.425" r="0.884" cy="-47.997"/>
-  <path d="M1-48.572c0.477-0.013,0.859-0.403,0.859-0.883    c0-0.48-0.382-0.87-0.859-0.883" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="10.3" r="0.884" cy="-47.184"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.862" r="0.884" cy="-50.309"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="12.05" r="0.884" cy="-50.059"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="9.541" r="0.884" cy="-52.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.925" r="0.884" cy="-53.747"/>
-  <path d="M1-53.801c0.482-0.007,0.871-0.399,0.871-0.883    c0-0.483-0.389-0.877-0.871-0.883" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.55" r="0.884" cy="-51.434"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.779" r="0.884" cy="-56.075"/>
-  <path d="M1-58.6v0.908c0.473-0.018,0.851-0.405,0.851-0.882    c0-0.008,0-0.017-0.001-0.025H1.001" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.737" r="0.884" cy="-57.122"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="27.725" r="0.884" cy="-31.766"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="31.008" r="0.884" cy="-30.584"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="34.208" r="0.884" cy="-30.784"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="30.416" r="0.884" cy="-25.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="34.166" r="0.884" cy="-27.574"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="37.566" r="0.884" cy="-29.174"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="37.541" r="0.884" cy="-25.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="37.425" r="0.884" cy="-22.434"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.416" r="0.884" cy="-21.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.666" r="0.884" cy="-16.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="48.541" r="0.884" cy="-13.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="51.541" r="0.884" cy="-10.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="42.791" r="0.884" cy="-17.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.406" r="0.884" cy="-28.463"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.425" r="0.884" cy="-25.059"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.322" r="0.884" cy="-23.533"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.447" r="0.884" cy="-20.22"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="49.47" r="0.884" cy="-19.868"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="53.487" r="0.884" cy="-20.809"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="50.892" r="0.884" cy="-16.718"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="53.392" r="0.884" cy="-13.968"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="56.55" r="0.884" cy="-11.002"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="54.175" r="0.884" cy="-8.3"/>
-  <circle style="fill:#FFFFFF;" cx="52.362" r="0.884" cy="-4.988"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.425" r="0.884" cy="-5.809"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="49.925" r="0.884" cy="-7.434"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="48.899" r="0.884" cy="-3.115"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.3" r="0.884" cy="-3.684"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="47.175" r="0.884" cy="-10.059"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.675" r="0.884" cy="-9.559"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.3" r="0.884" cy="-13.666"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.3" r="0.884" cy="-6.684"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="37.925" r="0.884" cy="-4.175"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="37.175" r="0.884" cy="-8.175"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.175" r="0.884" cy="-10.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="39.237" r="0.884" cy="-14.488"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="38.05" r="0.884" cy="-18.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="34.05" r="0.884" cy="-20.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="33.925" r="0.884" cy="-24.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="30.425" r="0.884" cy="-21.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="26.425" r="0.884" cy="-20.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="22.675" r="0.884" cy="-19.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="19.55" r="0.884" cy="-20.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="16.925" r="0.884" cy="-17.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="12.3" r="0.884" cy="-18.175"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="10.175" r="0.884" cy="-15.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.675" r="0.884" cy="-18.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.996" r="0.884" cy="-18.943"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.568" r="0.884" cy="-22.019"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="10.623" r="0.884" cy="-21.211"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="15.05" r="0.884" cy="-20.8"/>
-  <circle style="fill:#FFFFFF;" cx="13.737" r="0.884" cy="-24.613"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="17.921" r="0.884" cy="-23.488"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="21.925" r="0.884" cy="-23.425"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="26.616" r="0.884" cy="-23.742"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="24.149" r="0.884" cy="-26.684"/>
-  <circle style="fill:#FFFFFF;" cx="20.3" r="0.884" cy="-26.809"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="16.55" r="0.884" cy="-27.309"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="16.175" r="0.884" cy="-30.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="20.3" r="0.884" cy="-30.434"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="23.925" r="0.884" cy="-30.434"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="28.399" r="0.884" cy="-27.934"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="12.675" r="0.884" cy="-28.184"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="10.221" r="0.884" cy="-24.585"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.175" r="0.884" cy="-26.791"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.188" r="0.884" cy="-29.441"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="4.953" r="0.884" cy="-25.134"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.645" r="0.884" cy="-22.789"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.854" r="0.884" cy="-27.252"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.319" r="0.884" cy="-32.682"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.219" r="0.884" cy="-30.647"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="9.494" r="0.884" cy="-29.59"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="34.925" r="0.884" cy="-16.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="36.3" r="0.884" cy="-12.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="33.175" r="0.884" cy="-9.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="33.675" r="0.884" cy="-4.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="31.3" r="0.884" cy="-2.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="29.987" r="0.884" cy="-6.113"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="29.425" r="0.884" cy="-10.559"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="32.05" r="0.884" cy="-13.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="28.05" r="0.884" cy="-15.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="25.8" r="0.884" cy="-10.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="26.3" r="0.884" cy="-6.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="27.425" r="0.884" cy="-3.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="23.675" r="0.884" cy="-3.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="22.425" r="0.884" cy="-6.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="18.425" r="0.884" cy="-6.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="19.925" r="0.884" cy="-3.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="16.05" r="0.884" cy="-3.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="12.05" r="0.884" cy="-3.175"/>
-  <path d="M10.745-1c0.001-0.017,0.002-0.033,0.002-0.05    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.017,0.001,0.034,0.002,0.05" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.425" r="0.884" cy="-4.434"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.3" r="0.884" cy="-2.309"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="4.425" r="0.884" cy="-6.434"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.258" r="0.884" cy="-3.726"/>
-  <path d="M1.001-1h0.828C1.817-1.459,1.455-1.83,1-1.857V-1" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.416" r="0.884" cy="-13.175"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.416" r="0.884" cy="-15.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.791" r="0.884" cy="-12.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="12.416" r="0.884" cy="-10.8"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="14.291" r="0.884" cy="-14.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="18.416" r="0.884" cy="-13.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="23.041" r="0.884" cy="-13.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="25.041" r="0.884" cy="-16.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="30.916" r="0.884" cy="-17.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="20.166" r="0.884" cy="-16.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.55" r="0.884" cy="-8.434"/>
-  <path d="M1-9.037c0.471,0.02,0.846,0.408,0.846,0.883    C1.846-7.679,1.47-7.293,1-7.273" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="10.791" r="0.884" cy="-7.3"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="14.041" r="0.884" cy="-6.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="16.041" r="0.884" cy="-9.925"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="20.916" r="0.884" cy="-10.05"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="4.3" r="0.884" cy="-10.434"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="56.8" r="0.884" cy="-5.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="55.05" r="0.884" cy="-2.55"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="26.916" r="0.884" cy="-47.175"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="24.854" r="0.884" cy="-49.675"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="22.612" r="0.884" cy="-51.997"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="21.175" r="0.884" cy="-55.059"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="19.425" r="0.884" cy="-57.559"/>
-  <circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="31.976" r="0.884" cy="-57.526"/>
+  <rect style="fill:none;" y="-58.6" height="57.6" width="57.6" x="1"/>
+  <rect y="-58.6" height="57.6" width="57.6" x="1"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-56.238" cx="54.987"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-56.05" cx="49.425"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M46.641-58.6c-0.01,0.48-0.401,0.866-0.883,0.866    c-0.481,0-0.874-0.386-0.883-0.866"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M51.089-58.6c0,0.011-0.001,0.023-0.001,0.034    c0,0.488,0.397,0.884,0.884,0.884c0.488,0,0.884-0.396,0.884-0.884c0-0.012,0-0.023-0.001-0.034"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M51.07-1c0.025-0.465,0.411-0.835,0.882-0.835    c0.472,0,0.857,0.37,0.882,0.835"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M58.6-18.959c-0.007,0-0.015,0-0.022,0    c-0.487,0-0.884,0.396-0.884,0.884c0,0.488,0.396,0.884,0.884,0.884c0.007,0,0.015,0,0.022,0"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M58.6-9.022c-0.007,0-0.015,0-0.022,0    c-0.487,0-0.884,0.396-0.884,0.884c0,0.488,0.396,0.884,0.884,0.884c0.007,0,0.015,0,0.022-0.001"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M58.6-1.008v-0.826c-0.007,0-0.015-0.001-0.022-0.001    c-0.471,0-0.857,0.37-0.882,0.835H58.6"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M58.6-58.571v0.826c-0.007,0-0.015,0-0.022,0    c-0.471,0-0.857-0.37-0.882-0.835H58.6"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M36.148-1c0-0.005,0-0.009,0-0.014    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.005,0,0.009,0,0.014"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M41.197-1c0-0.006,0-0.012,0-0.018    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.006,0,0.012,0,0.018"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M46.648-1c0-0.005,0-0.009,0-0.014    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.005,0,0.009,0,0.014"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-55.068" cx="45.809"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M41.254-58.6c-0.016,0.474-0.405,0.854-0.883,0.854    c-0.477,0-0.867-0.379-0.883-0.854"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-54.8" cx="41.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-55.05" cx="37.675"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M36.183-58.6c-0.007,0.482-0.4,0.872-0.883,0.872    c-0.483,0-0.876-0.389-0.883-0.872"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-54.3" cx="34.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-54.3" cx="29.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-57.425" cx="28.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-57.425" cx="23.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-54.059" cx="26.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-50.925" cx="28.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-51.175" cx="32.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-51.675" cx="36.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-51.425" cx="40.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-51.675" cx="44.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-52.488" cx="48.737"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-53.488" cx="52.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-52.568" cx="55.559"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-49.559" cx="54.362"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M58.6-55.564c-0.452,0.038-0.809,0.418-0.809,0.88    c0,0.463,0.356,0.842,0.809,0.88"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M58.6-50.38c-0.481,0.007-0.871,0.4-0.871,0.883    c0,0.484,0.39,0.877,0.871,0.884"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-45.693" cx="56.309"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M58.6-43.772c-0.01,0-0.019-0.001-0.028-0.001    c-0.487,0-0.884,0.396-0.884,0.884c0,0.488,0.396,0.884,0.884,0.884c0.01,0,0.019-0.001,0.028-0.001"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-46.425" cx="52.229"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-42.872" cx="53.862"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-40.068" cx="55.934"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-36.309" cx="57.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-32.318" cx="55.121"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-29.663" cx="57.133"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-35.559" cx="53.55"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-38.497" cx="52.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-42.247" cx="50.612"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-41.934" cx="46.8"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-38.559" cx="48.8"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-34.809" cx="49.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-31.287" cx="52.036"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-28.15" cx="53.642"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-25.309" cx="56.8"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-24.497" cx="53.362"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-26.926" cx="49.476"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-30.459" cx="48.74"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-33.224" cx="45.871"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-30.278" cx="45.282"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-35.994" cx="46.146"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-39.184" cx="44.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-42.059" cx="42.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-39.184" cx="40.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-41.559" cx="37.8"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-35.809" cx="42.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-31.912" cx="41.762"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-27.039" cx="45.524"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-23.618" cx="49.657"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-21.568" cx="57.309"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-17.468" cx="54.642"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-17.224c0.016,0.001,0.032,0.001,0.048,0.001    c0.488,0,0.884-0.396,0.884-0.884c0-0.488-0.395-0.884-0.884-0.884c-0.016,0-0.032,0-0.048,0.001"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-14.727" cx="56.838"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-45.809" cx="48.487"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-48.425" cx="46.291"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-49.425" cx="50.041"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-45.55" cx="44.166"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-48.8" cx="42.291"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-48.3" cx="38.416"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-45.425" cx="40.291"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-44.925" cx="36.541"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-48.3" cx="34.791"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-48.175" cx="30.541"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-44.55" cx="32.541"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-44.05" cx="28.916"/>
+  <circle r="0.884" style="fill:#FFFFFF;" cy="-40.968" cx="30.366"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-41.059" cx="34.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-37.559" cx="36.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-35.847" cx="38.896"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-32.386" cx="37.958"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-34.401" cx="34.458"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-37.8" cx="32.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-34.363" cx="30.612"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-37.363" cx="28.179"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-40.488" cx="26.366"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-43.55" cx="24.929"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-46.925" cx="23.083"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-49.425" cx="19.987"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-52.925" cx="18.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-55.363" cx="16.487"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-57.425" cx="14.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-55.131" cx="11.621"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M10.734-58.6c-0.009,0.48-0.401,0.866-0.883,0.866    c-0.481,0-0.874-0.387-0.883-0.866"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-52.925" cx="13.916"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-49.8" cx="15.541"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-46.391" cx="19.107"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-43.3" cx="20.541"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-40.55" cx="22.416"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-37.55" cx="23.791"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-34.425" cx="25.791"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-34.05" cx="21.675"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-33.675" cx="18.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-34.266" cx="13.983"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-31.8" cx="11.675"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-34.398" cx="8.747"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-35.869" cx="4.581"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-36.492" cx="10.667"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-33.452" cx="2.049"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-38.811" cx="2.498"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-41.925" cx="4.987"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-38.425" cx="7.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-38.959" cx="12.383"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-37.425" cx="20.041"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-37.15" cx="16.267"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-41.376" cx="14.642"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-40.275" cx="18.267"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-43.934" cx="17.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-46.434" cx="14.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-44.184" cx="12.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-41.684" cx="9.267"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-44.809" cx="7.55"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-45.247" cx="3.55"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-41.988c0.482-0.007,0.871-0.399,0.871-0.883    c0-0.483-0.389-0.877-0.871-0.883"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-47.997" cx="5.425"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-48.572c0.477-0.013,0.859-0.403,0.859-0.883    c0-0.48-0.382-0.87-0.859-0.883"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-47.184" cx="10.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-50.309" cx="7.862"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-50.059" cx="12.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-52.55" cx="9.541"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-53.747" cx="5.925"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-53.801c0.482-0.007,0.871-0.399,0.871-0.883    c0-0.483-0.389-0.877-0.871-0.883"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-51.434" cx="3.55"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-56.075" cx="7.779"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-58.6v0.908c0.473-0.018,0.851-0.405,0.851-0.882    c0-0.008,0-0.017-0.001-0.025H1.001"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-57.122" cx="3.737"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-31.766" cx="27.725"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-30.584" cx="31.008"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-30.784" cx="34.208"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-25.55" cx="30.416"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-27.574" cx="34.166"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-29.174" cx="37.566"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-25.925" cx="37.541"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-22.434" cx="37.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-21.675" cx="41.416"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-16.925" cx="46.666"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-13.3" cx="48.541"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-10.55" cx="51.541"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-17.425" cx="42.791"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-28.463" cx="41.406"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-25.059" cx="41.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-23.533" cx="45.322"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-20.22" cx="45.447"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-19.868" cx="49.47"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-20.809" cx="53.487"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-16.718" cx="50.892"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-13.968" cx="53.392"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-11.002" cx="56.55"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-8.3" cx="54.175"/>
+  <circle r="0.884" style="fill:#FFFFFF;" cy="-4.988" cx="52.362"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-5.809" cx="46.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-7.434" cx="49.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-3.115" cx="48.899"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-3.684" cx="43.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-10.059" cx="47.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-9.559" cx="43.675"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-13.666" cx="44.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-6.684" cx="41.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-4.175" cx="37.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-8.175" cx="37.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-10.925" cx="40.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-14.488" cx="39.237"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-18.3" cx="38.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-20.05" cx="34.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-24.05" cx="33.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-21.925" cx="30.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-20.55" cx="26.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-19.8" cx="22.675"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-20.55" cx="19.55"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-17.05" cx="16.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-18.175" cx="12.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-15.05" cx="10.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-18.675" cx="7.675"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-18.943" cx="3.996"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-22.019" cx="6.568"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-21.211" cx="10.623"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-20.8" cx="15.05"/>
+  <circle r="0.884" style="fill:#FFFFFF;" cy="-24.613" cx="13.737"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-23.488" cx="17.921"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-23.425" cx="21.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-23.742" cx="26.616"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-26.684" cx="24.149"/>
+  <circle r="0.884" style="fill:#FFFFFF;" cy="-26.809" cx="20.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-27.309" cx="16.55"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-30.8" cx="16.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-30.434" cx="20.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-30.434" cx="23.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-27.934" cx="28.399"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-28.184" cx="12.675"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-24.585" cx="10.221"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-26.791" cx="8.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-29.441" cx="6.188"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-25.134" cx="4.953"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-22.789" cx="2.645"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-27.252" cx="2.854"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-32.682" cx="6.319"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-30.647" cx="3.219"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-29.59" cx="9.494"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-16.05" cx="34.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-12.3" cx="36.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-9.675" cx="33.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-4.925" cx="33.675"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-2.675" cx="31.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-6.113" cx="29.987"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-10.559" cx="29.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-13.8" cx="32.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-15.05" cx="28.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-10.675" cx="25.8"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-6.8" cx="26.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-3.3" cx="27.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-3.05" cx="23.675"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-6.55" cx="22.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-6.8" cx="18.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-3.55" cx="19.925"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-3.05" cx="16.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-3.175" cx="12.05"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M10.745-1c0.001-0.017,0.002-0.033,0.002-0.05    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.017,0.001,0.034,0.002,0.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-4.434" cx="8.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-2.309" cx="5.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-6.434" cx="4.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-3.726" cx="2.258"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1.001-1h0.828C1.817-1.459,1.455-1.83,1-1.857V-1"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-13.175" cx="2.416"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-15.05" cx="5.416"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-12.3" cx="7.791"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-10.8" cx="12.416"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-14.3" cx="14.291"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-13.05" cx="18.416"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-13.675" cx="23.041"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-16.925" cx="25.041"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-17.925" cx="30.916"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-16.3" cx="20.166"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-8.434" cx="7.55"/>
+  <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-9.037c0.471,0.02,0.846,0.408,0.846,0.883    C1.846-7.679,1.47-7.293,1-7.273"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-7.3" cx="10.791"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-6.675" cx="14.041"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-9.925" cx="16.041"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-10.05" cx="20.916"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-10.434" cx="4.3"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-5.55" cx="56.8"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-2.55" cx="55.05"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-47.175" cx="26.916"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-49.675" cx="24.854"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-51.997" cx="22.612"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-55.059" cx="21.175"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-57.559" cx="19.425"/>
+  <circle r="0.884" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cy="-57.526" cx="31.976"/>
  </g>
 </svg>

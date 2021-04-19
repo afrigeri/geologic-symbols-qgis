@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="1.889 -36.047 34.352 34.354" baseProfile="tiny" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" version="1.1" y="0px" width="34.352" xml:space="preserve" height="34.354">
+<svg xmlns="http://www.w3.org/2000/svg" width="34.352" height="34.354" x="0px" viewBox="1.889 -36.047 34.352 34.354" baseProfile="tiny" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve">
  <g>
-  <rect x="1.889" y="-36.047" width="34.352" style="fill:none;" height="34.354"/>
-  <rect x="1.889" y="-36.047" width="34.352" height="34.354"/>
+  <rect style="fill:none;" width="34.352" height="34.354" x="1.889" y="-36.047"/>
+  <rect width="34.352" height="34.354" x="1.889" y="-36.047"/>
   <polyline points="12.562,-22.917 16.937,-22.863    16.873,-23.02 15.002,-26.974   " style="fill:none;stroke:#FFFFFF;stroke-width:0.7;stroke-linecap:round;"/>
   <polyline points="4.07,-7.616 8.387,-8.325    8.297,-8.468 5.766,-12.037   " style="fill:none;stroke:#FFFFFF;stroke-width:0.7;stroke-linecap:round;"/>
   <polyline points="24.621,-10.744 25.048,-15.098    24.887,-15.047 20.787,-13.521   " style="fill:none;stroke:#FFFFFF;stroke-width:0.7;stroke-linecap:round;"/>
