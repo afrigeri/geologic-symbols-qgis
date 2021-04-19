@@ -72,6 +72,7 @@ The problem of having a meaningful symbology in modern softwares has been in the
  * [QGis Geologic Symbols project from Ryan Mikulovsky at ucdavis, 2010](http://geo.distortions.net/2010/12/geologic-symbology-for-qgis.html)
  * [Stefan Revets project on SourceForge, 2015-2016](https://sourceforge.net/projects/qgisgeologysymbology/)
  * [FGCD Geologic Patterns for the Web by Daven Quinn, 2017](https://davenquinn.com/projects/geologic-patterns/). This project adopts the FGDC pattern of Daven Quinn, contributed by USGS personnell.
+ * [FGDC-4-QGIS by GeoProc.com](https://github.com/BC-Consulting/FGDC-4-QGIS) FGDC fill geology symbols library for QGIS 3.x.
 
 ## References
 
