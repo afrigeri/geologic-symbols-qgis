@@ -40,7 +40,7 @@ COLL_SYM_DIR := $(COLL_DIR)/symbol
 SVG_DIR := gsymblib-svg
 
 # These are the file being ditributed into the zip archive
-DIST_FILES := $(SVG_DIR) $(DIST_DIR)/$(TARGET_XML) $(DIST_DIR)/$(HANDOUT_PDF)
+DIST_FILES := $(SVG_DIR) $(DIST_DIR)/$(TARGET_XML) $(DIST_DIR)/$(HANDOUT_PDF) LICENSE.txt
 
 DOCS_DIR := ../docs
 ICONS_DIR := $(DOCS_DIR)/images/library
@@ -63,7 +63,7 @@ clean:
 dist: clean distclean all
 	mkdir -p $(PACKAGE_DIR)
 	cp -r $(DIST_FILES) $(PACKAGE_DIR)
-	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/$(SVG_DIR) $(PACKAGE_NAME)/$(HANDOUT_PDF)
+	cd $(DIST_DIR); zip -r $(PACKAGE_NAME).zip $(PACKAGE_NAME)/$(TARGET_XML) $(PACKAGE_NAME)/$(SVG_DIR) $(PACKAGE_NAME)/$(HANDOUT_PDF) $(PACKAGE_NAME)/LICENSE.txt
 	#cd $(DIST_DIR); cp $(TARGET_XML) $(COLL_SYM_DIR)
 	#cd $(DIST_DIR); cp $(SVG_DIR) $(COLL_XML_DIR)
 	#cd $(DIST_DIR); cp $(PACKAGE_NAME)/$(HANDOUT_PDF) $(HANDOUT_PDF)

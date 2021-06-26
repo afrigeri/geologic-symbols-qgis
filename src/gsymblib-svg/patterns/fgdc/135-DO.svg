@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" version="1.1" viewBox="0 0 53.312 53.799" width="53.312px" height="53.799px" y="0px" id="Layer_1">
+<svg xmlns="http://www.w3.org/2000/svg" height="53.799px" xmlns:xlink="http://www.w3.org/1999/xlink" width="53.312px" y="0px" viewBox="0 0 53.312 53.799" x="0px" version="1.1" baseProfile="tiny" xml:space="preserve" id="Layer_1">
  <g>
   <g>
-   <rect fill="none" width="53.312" height="53.799"/>
+   <rect height="53.799" width="53.312" fill="none"/>
   </g>
   <g>
-   <rect x="0.028" width="53.185" height="53.6" y="0.1"/>
+   <rect height="53.6" width="53.185" y="0.1" x="0.028"/>
   </g>
   <g>
-   <rect x="0.028" fill="none" width="53.185" height="53.6" y="0.1"/>
+   <rect height="53.6" width="53.185" fill="none" y="0.1" x="0.028"/>
   </g>
   <g>
    <path fill="#FFFFFF" d="M6.258,11.151c-0.11,0-0.21-0.04-0.28-0.11c-0.08-0.08-0.12-0.18-0.12-0.29c0-0.1,0.04-0.2,0.12-0.28    c0.16-0.15,0.41-0.15,0.56,0c0.08,0.08,0.12,0.18,0.12,0.28c0,0.11-0.04,0.21-0.11,0.29C6.468,11.111,6.368,11.151,6.258,11.151z"/>

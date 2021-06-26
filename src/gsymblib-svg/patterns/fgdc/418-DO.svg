@@ -1,30 +1,30 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="1.176 -18.26 16.9 16.899" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" xml:space="preserve" version="1.1" baseProfile="tiny" width="16.9" y="0px" height="16.899">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" width="16.9" baseProfile="tiny" y="0px" x="0px" height="16.899" viewBox="1.176 -18.26 16.9 16.899" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
-  <rect x="1.176" style="fill:none;" width="16.9" y="-18.26" height="16.899"/>
-  <rect x="1.176" width="16.9" y="-18.26" height="16.899"/>
+  <rect style="fill:none;" width="16.9" y="-18.26" x="1.176" height="16.899"/>
+  <rect width="16.9" y="-18.26" x="1.176" height="16.899"/>
   <polygon style="fill:none;stroke:#FFFFFF;stroke-width:0.58;" points="5.381,-12.856 4.781,-15.965 7.738,-15.027   "/>
-  <line x2="7.306" y2="-10.666" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="7.306" y1="-10.666"/>
-  <line x2="2.6" y2="-11.803" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="2.6" y1="-11.803"/>
+  <line x1="7.306" y1="-10.666" y2="-10.666" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="7.306"/>
+  <line x1="2.6" y1="-11.803" y2="-11.803" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="2.6"/>
   <polygon style="fill:none;stroke:#FFFFFF;stroke-width:0.58;" points="12.523,-10.859 13.409,-13.901 15.61,-11.715   "/>
-  <line x2="16.417" y2="-14.248" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="16.417" y1="-14.248"/>
-  <line x2="12.928" y2="-16.69" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="12.928" y1="-16.69"/>
-  <line x2="14.976" y2="-9.874" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="14.976" y1="-9.874"/>
-  <line x2="10.892" y2="-11.787" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="10.892" y1="-11.787"/>
-  <line x2="10.778" y2="-15.01" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="10.778" y1="-15.01"/>
-  <line x2="3.077" y2="-16.344" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="3.077" y1="-16.344"/>
-  <line x2="8.842" y2="-17.089" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="8.842" y1="-17.089"/>
-  <line x2="16.534" y2="-17.259" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="16.534" y1="-17.259"/>
+  <line x1="16.417" y1="-14.248" y2="-14.248" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="16.417"/>
+  <line x1="12.928" y1="-16.69" y2="-16.69" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="12.928"/>
+  <line x1="14.976" y1="-9.874" y2="-9.874" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="14.976"/>
+  <line x1="10.892" y1="-11.787" y2="-11.787" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="10.892"/>
+  <line x1="10.778" y1="-15.01" y2="-15.01" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="10.778"/>
+  <line x1="3.077" y1="-16.344" y2="-16.344" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="3.077"/>
+  <line x1="8.842" y1="-17.089" y2="-17.089" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="8.842"/>
+  <line x1="16.534" y1="-17.259" y2="-17.259" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="16.534"/>
   <polygon style="fill:none;stroke:#FFFFFF;stroke-width:0.58;" points="8.222,-4.985 5.054,-4.945 6.502,-7.689   "/>
-  <line x2="6.46" y2="-2.932" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="6.46" y1="-2.932"/>
-  <line x2="2.88" y2="-2.601" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="2.88" y1="-2.601"/>
-  <line x2="3.364" y2="-6.008" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="3.364" y1="-6.008"/>
-  <line x2="4.631" y2="-9.019" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="4.631" y1="-9.019"/>
+  <line x1="6.46" y1="-2.932" y2="-2.932" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="6.46"/>
+  <line x1="2.88" y1="-2.601" y2="-2.601" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="2.88"/>
+  <line x1="3.364" y1="-6.008" y2="-6.008" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="3.364"/>
+  <line x1="4.631" y1="-9.019" y2="-9.019" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="4.631"/>
   <polygon style="fill:none;stroke:#FFFFFF;stroke-width:0.58;" points="13.984,-3.394 16.396,-5.449 17.035,-2.414   "/>
-  <line x2="10.778" y2="-3.55" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="10.778" y1="-3.55"/>
-  <line x2="17.231" y2="-7.756" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="17.231" y1="-7.756"/>
-  <line x2="9.579" y2="-8.211" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="9.579" y1="-8.211"/>
-  <line x2="12.846" y2="-6.722" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x1="12.846" y1="-6.722"/>
+  <line x1="10.778" y1="-3.55" y2="-3.55" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="10.778"/>
+  <line x1="17.231" y1="-7.756" y2="-7.756" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="17.231"/>
+  <line x1="9.579" y1="-8.211" y2="-8.211" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="9.579"/>
+  <line x1="12.846" y1="-6.722" y2="-6.722" style="fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;" x2="12.846"/>
  </g>
 </svg>

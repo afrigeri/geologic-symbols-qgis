@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" height="77.785" baseProfile="tiny" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" version="1.1" width="77.784" viewBox="1 -79.645 77.784 77.785" xml:space="preserve" x="0px">
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" version="1.1" width="77.784" xmlns:xlink="http://www.w3.org/1999/xlink" height="77.785" x="0px" xml:space="preserve" y="0px" viewBox="1 -79.645 77.784 77.785">
  <g>
-  <rect height="77.785" y="-79.645" style="fill:none;" width="77.784" x="1"/>
-  <rect height="77.785" y="-79.645" style="fill-rule:evenodd;clip-rule:evenodd;" width="77.784" x="1"/>
-  <line x1="5.942" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y1="-79.645" x2="5.942" y2="-1.86"/>
-  <line x1="15.662" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y1="-79.645" x2="15.662" y2="-1.86"/>
-  <line x1="25.382" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y1="-79.645" x2="25.382" y2="-1.86"/>
-  <line x1="35.101" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y1="-79.645" x2="35.101" y2="-1.86"/>
-  <line x1="44.821" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y1="-79.645" x2="44.821" y2="-1.86"/>
-  <line x1="54.541" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y1="-79.645" x2="54.541" y2="-1.86"/>
-  <line x1="64.26" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y1="-79.645" x2="64.26" y2="-1.86"/>
-  <line x1="73.979" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y1="-79.645" x2="73.979" y2="-1.86"/>
+  <rect style="fill:none;" width="77.784" height="77.785" x="1" y="-79.645"/>
+  <rect style="fill-rule:evenodd;clip-rule:evenodd;" width="77.784" height="77.785" x="1" y="-79.645"/>
+  <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y2="-1.86" x1="5.942" y1="-79.645" x2="5.942"/>
+  <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y2="-1.86" x1="15.662" y1="-79.645" x2="15.662"/>
+  <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y2="-1.86" x1="25.382" y1="-79.645" x2="25.382"/>
+  <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y2="-1.86" x1="35.101" y1="-79.645" x2="35.101"/>
+  <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y2="-1.86" x1="44.821" y1="-79.645" x2="44.821"/>
+  <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y2="-1.86" x1="54.541" y1="-79.645" x2="54.541"/>
+  <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y2="-1.86" x1="64.26" y1="-79.645" x2="64.26"/>
+  <line style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:0.43;" y2="-1.86" x1="73.979" y1="-79.645" x2="73.979"/>
  </g>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" y="0px" x="0px" version="1.1" viewBox="0 -80.646 80.646 80.646" xmlns:xlink="http://www.w3.org/1999/xlink" width="80.646" xml:space="preserve" height="80.646">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="80.646" width="80.646" viewBox="0 -80.646 80.646 80.646" x="0px" y="0px" baseProfile="tiny" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
-  <rect y="-80.646" x="0" style="fill:none;" width="80.646" height="80.646"/>
+  <rect height="80.646" width="80.646" x="0" y="-80.646" style="fill:none;"/>
   <line y2="-77.967" y1="-80.646" x1="1.843" x2="1.843" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#00AEEF;stroke-width:0.58;"/>
   <line y2="0" y1="-2.529" x1="1.843" x2="1.843" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#00AEEF;stroke-width:0.58;"/>
   <line y2="-77.967" y1="-80.646" x1="7.602" x2="7.602" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#00AEEF;stroke-width:0.58;"/>
@@ -269,7 +269,7 @@
   <line y2="-19.825" y1="-25.388" x1="79.59" x2="79.59" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#00AEEF;stroke-width:0.58;"/>
   <line y2="-10.825" y1="-16.388" x1="79.59" x2="79.59" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#00AEEF;stroke-width:0.58;"/>
   <line y2="-1.825" y1="-7.388" x1="79.59" x2="79.59" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#00AEEF;stroke-width:0.58;"/>
-  <rect y="-80.646" x="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;" width="80.646" height="80.646"/>
-  <rect y="-80.646" x="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;" width="80.646" height="80.646"/>
+  <rect height="80.646" width="80.646" x="0" y="-80.646" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;"/>
+  <rect height="80.646" width="80.646" x="0" y="-80.646" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;"/>
  </g>
 </svg>
