@@ -5,8 +5,10 @@ All notable changes to the gsymblib project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased][]
+## [1.1.0] - 2021-12-11
 
+- added experimental support for Resource Manager Plugin (online install)
+- added rotary symbols
 - conversion of SVG patterns to SVG 1.2 Tiny which is required by Qt5
   see discussion on QGIS [#32270](https://github.com/qgis/QGIS/issues/32270)
 

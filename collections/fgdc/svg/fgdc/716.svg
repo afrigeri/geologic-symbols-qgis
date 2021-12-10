@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" y="0px" viewBox="1 -47.254 46 46" baseProfile="tiny" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" width="46" height="46">
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" viewBox="1 -47.254 46 46" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" height="46" baseProfile="tiny" version="1.1" width="46">
  <g>
-  <rect y="-47.254" style="fill:none;" x="1" width="46" height="46"/>
+  <rect x="1" style="fill:none;" y="-47.254" height="46" width="46"/>
   <polyline points="6.289,-43.142 8.373,-43.142 6.039,-39.975 8.373,-39.975      " style="fill:none;stroke:#000000;stroke-width:0.3;"/>
   <polyline points="21.539,-43.142 23.622,-43.142 21.289,-39.975    23.622,-39.975   " style="fill:none;stroke:#000000;stroke-width:0.3;"/>
   <polyline points="36.852,-43.142 38.935,-43.142 36.602,-39.975    38.935,-39.975   " style="fill:none;stroke:#000000;stroke-width:0.3;"/>

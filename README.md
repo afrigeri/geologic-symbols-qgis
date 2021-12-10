@@ -2,7 +2,7 @@
 ![QGIS](docs/images/ss02.png)
 
 # gsymblib: Geologic mapping symbols library and development for QGIS
-#### Alessandro Frigeri, IAPS/INAF - Jan, 2021
+#### Alessandro Frigeri, IAPS/INAF - Dec, 2021
 
 
 This project brings into QGIS symbols useful in geological mapping.  Styling for points, lines, fill patterns and gradients are included.  The symbols currently included in the library can be found in the [STATUS table](STATUS.md).  Currently the library includes symbols defined by the
@@ -16,6 +16,8 @@ The features of __gsymblib__ are:
 
 ## News
 
+* Dec 10, 2021: added experiental support to Resource Manager Plugin (online install process)
+* Sep  1, 2021: added rotational symbols
 * Jan 25, 2021: develop tree created
 * Feb 22, 2020: added symbolsplitter script
 * Oct 16, 2019: [gsymblib 1.0.0-rc1 is out](https://github.com/afrigeri/geologic-symbols-qgis/releases).  The first release of the gsymblib includes all the FGDC symbol-set for planetary geology.
@@ -30,7 +32,7 @@ A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software in
 
 Here you are the instructions to install the gsymblib (all symbols and patterns) in your local QGIS installation.
 
-1. Download the [latest gsymblib](./dist/gsymblib-1.0.0.zip) or the [official release](https://github.com/afrigeri/geologic-symbols-qgis/releases) zip files.
+1. Download the [latest gsymblib](./dist/gsymblib-1.1.0.zip) or the [official release](https://github.com/afrigeri/geologic-symbols-qgis/releases) zip files.
 2. Extract the zip archive and move the __gsymblib-svg__ directory to a place where you want to store the patterns and symbols.  It can be any directory.
 3. Now open QGis and go to 'Settings -> Options' (Ubuntu) or 'Preferences' (OSX) and select the second tab from the top: 'System'
 4. Under the __SVG Paths__ formi, click the add button and select the the __gsymblib-svg__ directory from your file system.

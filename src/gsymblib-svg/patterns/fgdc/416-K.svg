@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" height="16.899" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1.729 -18.883 16.9 16.899" version="1.1" x="0px" y="0px" width="16.9">
+<svg xmlns="http://www.w3.org/2000/svg" width="16.9" height="16.899" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" viewBox="1.729 -18.883 16.9 16.899" xml:space="preserve" baseProfile="tiny" version="1.1" x="0px">
  <g>
-  <rect height="16.899" style="fill:none;" x="1.729" y="-18.883" width="16.9"/>
+  <rect width="16.9" height="16.899" y="-18.883" style="fill:none;" x="1.729"/>
   <line x2="8.426" y2="-11.29" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;" x1="8.426" y1="-11.29"/>
   <line x2="5.884" y2="-12.684" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;" x1="5.884" y1="-12.684"/>
   <line x2="2.869" y2="-12.994" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;" x1="2.869" y1="-12.994"/>
@@ -28,9 +28,9 @@
   <line x2="10.801" y2="-6.113" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;" x1="10.801" y1="-6.113"/>
   <line x2="13.399" y2="-6.777" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;" x1="13.399" y1="-6.777"/>
   <line x2="16.786" y2="-10.748" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;" x1="16.786" y1="-10.748"/>
-  <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M5.668-16.276c0.998-1.097,3.422,0.986,1.402,1.93    C6.025-13.858,3.933-14.373,5.668-16.276z"/>
-  <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M13.557-13.767c0.765-1.271,3.55,0.299,1.753,1.619    C14.381-11.465,12.229-11.56,13.557-13.767z"/>
-  <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M6.517-7.763c0.764-1.269,3.614,1.326,1.752,1.619    C7.131-5.964,5.188-5.555,6.517-7.763z"/>
-  <path style="fill:none;stroke:#000000;stroke-width:0.43;" d="M14.961-4.922c2.058-0.589,2.693-0.014,1.752,1.619    C15.882-1.86,12.485-4.213,14.961-4.922z"/>
+  <path d="M5.668-16.276c0.998-1.097,3.422,0.986,1.402,1.93    C6.025-13.858,3.933-14.373,5.668-16.276z" style="fill:none;stroke:#000000;stroke-width:0.43;"/>
+  <path d="M13.557-13.767c0.765-1.271,3.55,0.299,1.753,1.619    C14.381-11.465,12.229-11.56,13.557-13.767z" style="fill:none;stroke:#000000;stroke-width:0.43;"/>
+  <path d="M6.517-7.763c0.764-1.269,3.614,1.326,1.752,1.619    C7.131-5.964,5.188-5.555,6.517-7.763z" style="fill:none;stroke:#000000;stroke-width:0.43;"/>
+  <path d="M14.961-4.922c2.058-0.589,2.693-0.014,1.752,1.619    C15.882-1.86,12.485-4.213,14.961-4.922z" style="fill:none;stroke:#000000;stroke-width:0.43;"/>
  </g>
 </svg>

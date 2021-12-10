@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" height="57.601" baseProfile="tiny" width="57.601" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" viewBox="1 -58.601 57.601 57.601" x="0px">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="57.601" viewBox="1 -58.601 57.601 57.601" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.601" version="1.1" baseProfile="tiny">
  <g>
-  <rect height="57.601" width="57.601" y="-58.601" style="fill:none;" x="1"/>
+  <rect height="57.601" y="-58.601" style="fill:none;" x="1" width="57.601"/>
   <circle cx="50.634" style="fill:#EC008C;" cy="-45.225" r="0.777"/>
   <circle cx="49.884" style="fill:#EC008C;" cy="-56.433" r="0.777"/>
   <circle cx="43.467" style="fill:#EC008C;" cy="-52.224" r="0.777"/>
@@ -12,8 +12,8 @@
   <circle cx="11.05" style="fill:#EC008C;" cy="-53.224" r="0.777"/>
   <circle cx="5.634" style="fill:#EC008C;" cy="-49.391" r="0.777"/>
   <circle cx="2.55" style="fill:#EC008C;" cy="-50.475" r="0.778"/>
-  <path style="fill:#EC008C;" d="M1-51.621c0.427-0.003,0.773-0.35,0.773-0.778c0-0.428-0.346-0.775-0.773-0.778"/>
-  <path style="fill:#EC008C;" d="M58.601-53.176c-0.004,0-0.008,0-0.012,0c-0.43,0-0.777,0.349-0.777,0.778s0.348,0.778,0.777,0.778    c0.004,0,0.008,0,0.012,0"/>
+  <path d="M1-51.621c0.427-0.003,0.773-0.35,0.773-0.778c0-0.428-0.346-0.775-0.773-0.778" style="fill:#EC008C;"/>
+  <path d="M58.601-53.176c-0.004,0-0.008,0-0.012,0c-0.43,0-0.777,0.349-0.777,0.778s0.348,0.778,0.777,0.778    c0.004,0,0.008,0,0.012,0" style="fill:#EC008C;"/>
   <circle cx="9.634" style="fill:#EC008C;" cy="-43.558" r="0.777"/>
   <circle cx="17.709" style="fill:#EC008C;" cy="-44.884" r="0.777"/>
   <circle cx="22.292" style="fill:#EC008C;" cy="-45.967" r="0.777"/>
@@ -35,8 +35,8 @@
   <circle cx="57.634" style="fill:#EC008C;" cy="-9.474" r="0.777"/>
   <circle cx="53.384" style="fill:#EC008C;" cy="-3.391" r="0.777"/>
   <circle cx="42.55" style="fill:#EC008C;" cy="-1.808" r="0.777"/>
-  <path style="fill:#EC008C;" d="M46.494-1c0.019-0.413,0.358-0.741,0.775-0.741c0.417,0,0.756,0.328,0.775,0.741"/>
-  <path style="fill:#EC008C;" d="M48.045-58.601c-0.011,0.419-0.354,0.757-0.776,0.757c-0.423,0-0.766-0.338-0.776-0.757"/>
+  <path d="M46.494-1c0.019-0.413,0.358-0.741,0.775-0.741c0.417,0,0.756,0.328,0.775,0.741" style="fill:#EC008C;"/>
+  <path d="M48.045-58.601c-0.011,0.419-0.354,0.757-0.776,0.757c-0.423,0-0.766-0.338-0.776-0.757" style="fill:#EC008C;"/>
   <circle cx="14.55" style="fill:#EC008C;" cy="-4.391" r="0.777"/>
   <circle cx="7.55" style="fill:#EC008C;" cy="-4.891" r="0.777"/>
   <circle cx="2.3" style="fill:#EC008C;" cy="-17.475" r="0.777"/>
@@ -277,8 +277,8 @@
   <circle cx="35.717" style="fill:#EC008C;" cy="-56.221" r="0.408"/>
   <circle cx="36.384" style="fill:#EC008C;" cy="-54.472" r="0.408"/>
   <circle cx="33.217" style="fill:#EC008C;" cy="-57.305" r="0.408"/>
-  <path style="fill:#EC008C;" d="M36.657-58.601c-0.002,0.224-0.185,0.404-0.409,0.404c-0.224,0-0.406-0.18-0.408-0.404"/>
-  <path style="fill:#EC008C;" d="M35.841-1c0.011-0.215,0.189-0.388,0.407-0.388c0.218,0,0.396,0.172,0.408,0.388"/>
+  <path d="M36.657-58.601c-0.002,0.224-0.185,0.404-0.409,0.404c-0.224,0-0.406-0.18-0.408-0.404" style="fill:#EC008C;"/>
+  <path d="M35.841-1c0.011-0.215,0.189-0.388,0.407-0.388c0.218,0,0.396,0.172,0.408,0.388" style="fill:#EC008C;"/>
   <circle cx="6.884" style="fill:#EC008C;" cy="-58.055" r="0.408"/>
   <circle cx="4.55" style="fill:#EC008C;" cy="-57.222" r="0.408"/>
   <circle cx="2.55" style="fill:#EC008C;" cy="-55.055" r="0.408"/>
