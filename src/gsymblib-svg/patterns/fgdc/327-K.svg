@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" y="0px" xml:space="preserve" version="1.1" x="0px" height="11.808" viewBox="1 -12.808 11.808 11.808" baseProfile="tiny" width="11.808" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" xml:space="preserve" viewBox="1 -12.808 11.808 11.808" xmlns:xlink="http://www.w3.org/1999/xlink" height="11.808" version="1.1" y="0px" width="11.808" baseProfile="tiny">
  <g>
-  <rect y="-12.808" x="1" style="fill:none;" height="11.808" width="11.808"/>
-  <line style="fill:none;stroke:#000000;stroke-width:0.43;" y1="-3.931" y2="-3.931" x2="5.54" x1="2.483"/>
-  <line style="fill:none;stroke:#000000;stroke-width:0.43;" y1="-5.459" y2="-2.404" x2="3.98" x1="3.98"/>
-  <line style="fill:none;stroke:#000000;stroke-width:0.43;" y1="-9.914" y2="-9.914" x2="11.442" x1="8.386"/>
-  <line style="fill:none;stroke:#000000;stroke-width:0.43;" y1="-11.442" y2="-8.386" x2="9.881" x1="9.881"/>
+  <rect x="1" height="11.808" y="-12.808" style="fill:none;" width="11.808"/>
+  <line x1="2.483" y2="-3.931" style="fill:none;stroke:#000000;stroke-width:0.43;" y1="-3.931" x2="5.54"/>
+  <line x1="3.98" y2="-2.404" style="fill:none;stroke:#000000;stroke-width:0.43;" y1="-5.459" x2="3.98"/>
+  <line x1="8.386" y2="-9.914" style="fill:none;stroke:#000000;stroke-width:0.43;" y1="-9.914" x2="11.442"/>
+  <line x1="9.881" y2="-8.386" style="fill:none;stroke:#000000;stroke-width:0.43;" y1="-11.442" x2="9.881"/>
  </g>
 </svg>

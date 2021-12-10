@@ -60,7 +60,8 @@ from qgis.core import *
 # Supply path to qgis install location
 
 if sys.platform == "darwin":
-    QgsApplication.setPrefixPath("/Applications/QGIS3.10.app/Contents/MacOS/", True)
+	# /Applications/QGIS3.10.app/Contents/MacOS/
+    QgsApplication.setPrefixPath("/Applications/QGIS.app/Contents/MacOS/", True)
 elif sys.platform == "linux":
     QgsApplication.setPrefixPath("/usr/", True)
 elif sys.platform == "win32":
@@ -121,11 +122,18 @@ def indent(elem, level=0):
 
 def name_parser(name):
     '''
-    name convention:
-    
+    symbol's name convention:
     [name or id] : [ description ]
+    
+    ":" is mandatory
+    
     '''
-    a, b = name.split(':')
+    try:
+        a, b = name.split(':')
+    except:
+        print("The symbol name \" %s \" does not follow the gsymlib naming convention"%name)
+        sys.exit(0)
+		
     return a.strip(), b.strip()
 
 srcdir = sys.argv[1]
@@ -158,8 +166,8 @@ for rootdir, dirs, files in os.walk( srcdir ):
          tree = ET.parse( xmlfile )
          root = tree.getroot()
 
-         if not validate_and_clean_xml(root,filename=extract_name(filename)):
-             log.error(f"cannot validate {filename}")
+         #if not validate_and_clean_xml(root,filename=extract_name(filename)):
+         #    log.error(f"cannot validate {filename}")
 
          if root.findall("./symbols/symbol"):
             for symbol in root.findall("./symbols/symbol"):    

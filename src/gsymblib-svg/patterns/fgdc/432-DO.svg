@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" width="37.801" baseProfile="tiny" x="0px" height="37.8" viewBox="0.246 -38.046 37.801 37.8" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" version="1.1" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" height="37.8" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.801" version="1.1" xml:space="preserve" viewBox="0.246 -38.046 37.801 37.8" baseProfile="tiny">
  <g>
-  <rect width="37.801" style="fill:none;" x="0.246" height="37.8" y="-38.046"/>
-  <rect width="37.801" x="0.246" height="37.8" y="-38.046"/>
+  <rect x="0.246" y="-38.046" height="37.8" width="37.801" style="fill:none;"/>
+  <rect x="0.246" y="-38.046" height="37.8" width="37.801"/>
   <path style="fill:none;stroke:#FFFFFF;stroke-width:0.58;" d="M17.687-34.688c-0.643-1.23-1.376-2.347-2.172-3.358"/>
   <path style="fill:none;stroke:#FFFFFF;stroke-width:0.58;" d="M23.744-38.046c0.303,0.667,0.577,1.366,0.817,2.108    c1.375,4.25,3.5,16.75,12,21.75"/>
   <path style="fill:none;stroke:#FFFFFF;stroke-width:0.58;" d="M1.469-38.046c1.867,1.131,3.668,2.032,4.843,2.983"/>

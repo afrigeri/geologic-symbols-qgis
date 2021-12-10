@@ -1,11 +1,12 @@
-# Gsymblib symbols list, updated April 19, 2021
+# Gsymblib symbols list, updated December 10, 2021
 There are:
  * 1 entries for extra.
- * 130 entries for fgdc.
+ * 131 entries for fgdc.
 
 
 graphics|authority|code|description|notes
 ---|---|---|---|---|
+![](docs/images/library/fgdc/06.002.png)|fgdc|6.2|Inclined bedding -- Showing strike and dip|
 ![](docs/images/library/fgdc/17.001.png)|fgdc|17.001|Outline of slip surface of landslide—Identity and existence certain, location accurate|
 ![](docs/images/library/fgdc/25.001.png)|fgdc|25.001|Contact, planetary - Location accurate|
 ![](docs/images/library/fgdc/25.002.png)|fgdc|25.002|Contact, planetary - Location approximate|

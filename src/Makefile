@@ -13,9 +13,9 @@ UNAME := $(shell uname)
 
 PYTHON=python3
 ifeq ($(UNAME), Darwin)
-PYTHON=/Applications/QGIS3.10.app/Contents/MacOS/bin/python3 
+#PYTHON=/Applications/QGIS3.10.app/Contents/MacOS/bin/python3 
 # QGIS dev in OSX brings to segfault
-#PYTHON=/Applications/QGIS.app/Contents/MacOS/bin/python3
+PYTHON=/Applications/QGIS.app/Contents/MacOS/bin/python3
 endif
 ifeq ($(UNAME), Linux)
 PYTHON=python3.8

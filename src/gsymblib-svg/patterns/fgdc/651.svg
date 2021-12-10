@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" y="0px" baseProfile="tiny" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" viewBox="0.15 -54.355 54.126 54.125" xml:space="preserve" width="54.126" version="1.1" height="54.125">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.15 -54.355 54.126 54.125" y="0px" width="54.126" height="54.125" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" x="0px" version="1.1">
  <g>
-  <rect y="-54.355" style="fill:none;" x="0.15" width="54.126" height="54.125"/>
+  <rect y="-54.355" width="54.126" height="54.125" style="fill:none;" x="0.15"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M45.837-50.551c-0.057-0.02-0.113-0.042-0.17-0.064    c-0.53-0.294-1.178-0.707-1.414-1.296c-0.354-0.943,0.209-1.822,1.12-2.092c0.653-0.193,1.266-0.297,1.857-0.352"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M45.837-50.551c0.799,0.285,1.621,0.343,2.455,0.335"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M47.231-54.355c1.077-0.099,2.087-0.031,3.151-0.031    c0.373,0,0.735,0.011,1.092,0.031"/>
@@ -552,8 +552,8 @@
   <path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.276-32.959c-0.45-0.085-0.951-0.254-1.582-0.5    c0.387,0.851,0.96,1.383,1.582,1.614"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.276-40.712c-0.826,0.143-1.555-0.046-2.77-0.518    c0.628,1.382,1.747,1.922,2.77,1.699"/>
   <path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.276-48.41c-0.364-0.095-0.769-0.237-1.249-0.424    c0.316,0.696,0.758,1.179,1.249,1.458"/>
-  <line x2="54.276" style="fill:none;stroke:#000000;stroke-width:0.3;" y1="-50.32" y2="-50.396" x1="54.276"/>
-  <line x2="0.15" style="fill:none;stroke:#000000;stroke-width:0.3;" y1="-42.616" y2="-42.627" x1="0.15"/>
-  <line x2="54.276" style="fill:none;stroke:#000000;stroke-width:0.3;" y1="-42.615" y2="-42.625" x1="54.276"/>
+  <line x1="54.276" y2="-50.396" style="fill:none;stroke:#000000;stroke-width:0.3;" x2="54.276" y1="-50.32"/>
+  <line x1="0.15" y2="-42.627" style="fill:none;stroke:#000000;stroke-width:0.3;" x2="0.15" y1="-42.616"/>
+  <line x1="54.276" y2="-42.625" style="fill:none;stroke:#000000;stroke-width:0.3;" x2="54.276" y1="-42.615"/>
  </g>
 </svg>
