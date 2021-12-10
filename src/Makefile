@@ -34,6 +34,7 @@ HANDOUT_PDF := $(PACKAGE_NAME)-handout.pdf
 
 # COLLECTIONS (QGIS RESOURCE MANAGER PLUGIN)
 COLL_DIR := $(REPO_DIR)/collections
+COLL_AUTHS := fgdc
 COLL_SVG_DIR := $(COLL_DIR)/svg
 COLL_SYM_DIR := $(COLL_DIR)/symbol
 
@@ -68,6 +69,15 @@ dist: clean distclean all
 	#cd $(DIST_DIR); cp $(SVG_DIR) $(COLL_XML_DIR)
 	#cd $(DIST_DIR); cp $(PACKAGE_NAME)/$(HANDOUT_PDF) $(HANDOUT_PDF)
 	rm -rf $(PACKAGE_DIR)
+
+collection_dirs: 
+	mkdir -p $(COLL_DIR)/fgdc
+	mkdir -p $(COLL_DIR)/fgdc/svg
+	mkdir -p $(COLL_DIR)/fgdc/symbol
+
+resmanager: collection_dirs
+	python scripts/authsplit.py fgdc $(TARGET) $(COLL_DIR)/fgdc/symbol/fgdc.xml
+	cp -r gsymblib-svg/patterns/fgdc $(COLL_DIR)/fgdc/svg
 
 distclean:
 	-rm -rf $(PACKAGE_DIR)
