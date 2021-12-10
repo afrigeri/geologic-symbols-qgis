@@ -36,3 +36,5 @@ for event, elem in context:
                     f.write(ET.tostring(elem))
 
 f.write(b"\n</symbols>")
+f.write(b"\n<<qgis_style>")
+f.close()
