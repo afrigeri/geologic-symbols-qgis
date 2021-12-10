@@ -16,7 +16,7 @@ outfile = sys.argv[3]
 
 filename = format( outfile )
 f = open(filename, 'wb')
-f.write(b"<qgis_style version=1>\n<symbols>\n")
+f.write(b"<qgis_style version=\"1\">\n<symbols>\n")
 
 context = ET.iterparse( infile , events=('end','start' ))
 depth = 0
@@ -36,5 +36,5 @@ for event, elem in context:
                     f.write(ET.tostring(elem))
 
 f.write(b"\n</symbols>")
-f.write(b"\n<qgis_style>")
+f.write(b"\n</qgis_style>")
 f.close()
