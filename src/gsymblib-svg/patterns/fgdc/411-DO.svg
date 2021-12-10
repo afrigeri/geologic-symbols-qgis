@@ -5,5 +5,5 @@
   <path id="a" d="M0 0h6.94v7.33H0z"/>
  </defs>
  <path d="M0 0h6.94v7.33H0z"/>
- <path stroke="#fff" fill="none" stroke-width=".58" d="M2.54 3.36L.2 3.34V1.1M6.04 6.98H3.7V4.7"/>
+ <path d="M2.54 3.36L.2 3.34V1.1M6.04 6.98H3.7V4.7" stroke-width=".58" stroke="#fff" fill="none"/>
 </svg>

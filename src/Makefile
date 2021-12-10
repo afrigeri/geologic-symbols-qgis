@@ -69,6 +69,7 @@ dist: clean distclean all
 	#cd $(DIST_DIR); cp $(SVG_DIR) $(COLL_XML_DIR)
 	#cd $(DIST_DIR); cp $(PACKAGE_NAME)/$(HANDOUT_PDF) $(HANDOUT_PDF)
 	rm -rf $(PACKAGE_DIR)
+	git add ../docs/images/
 
 collection_dirs: 
 	mkdir -p $(COLL_DIR)/fgdc

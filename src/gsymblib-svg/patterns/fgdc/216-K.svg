@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" version="1.1" xml:space="preserve" height="76.785" baseProfile="tiny" y="0px" width="76.785" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -76.785 76.785 76.785">
+<svg xmlns="http://www.w3.org/2000/svg" y="0px" viewBox="0 -76.785 76.785 76.785" version="1.1" height="76.785" x="0px" xml:space="preserve" width="76.785" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny">
  <g>
-  <rect x="0" height="76.785" y="-76.785" style="fill:none;" width="76.785"/>
-  <line y1="-76.785" y2="0" x1="3.011" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="3.011"/>
-  <line y1="-76.785" y2="0" x1="8.913" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="8.913"/>
-  <line y1="-76.785" y2="0" x1="14.816" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="14.816"/>
-  <line y1="-76.785" y2="0" x1="20.719" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="20.719"/>
-  <line y1="-76.785" y2="0" x1="26.622" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="26.622"/>
-  <line y1="-76.785" y2="0" x1="32.525" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="32.525"/>
-  <line y1="-76.785" y2="0" x1="38.428" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="38.428"/>
-  <line y1="-76.785" y2="0" x1="44.331" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="44.331"/>
-  <line y1="-76.785" y2="0" x1="50.234" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="50.234"/>
-  <line y1="-76.785" y2="0" x1="56.137" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="56.137"/>
-  <line y1="-76.785" y2="0" x1="62.04" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="62.04"/>
-  <line y1="-76.785" y2="0" x1="67.943" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="67.943"/>
-  <line y1="-76.785" y2="0" x1="73.846" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x2="73.846"/>
+  <rect y="-76.785" height="76.785" x="0" width="76.785" style="fill:none;"/>
+  <line x2="3.011" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="3.011"/>
+  <line x2="8.913" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="8.913"/>
+  <line x2="14.816" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="14.816"/>
+  <line x2="20.719" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="20.719"/>
+  <line x2="26.622" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="26.622"/>
+  <line x2="32.525" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="32.525"/>
+  <line x2="38.428" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="38.428"/>
+  <line x2="44.331" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="44.331"/>
+  <line x2="50.234" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="50.234"/>
+  <line x2="56.137" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="56.137"/>
+  <line x2="62.04" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="62.04"/>
+  <line x2="67.943" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="67.943"/>
+  <line x2="73.846" y1="-76.785" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.8;" x1="73.846"/>
  </g>
 </svg>
