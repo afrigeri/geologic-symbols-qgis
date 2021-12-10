@@ -1,10 +1,10 @@
 ---
 name: New Symbols
 about: New symbol or symbols to add to the library
-title: ''
-labels: ''
+title: 'New Symbol Submission'
+labels: 'New Symbol'
 assignees: ''
 
 ---
 
-Add the symbol or symbols in .zip file
+Add a single symbol or multiple symbols in .zip file.  Add a comment or details.
