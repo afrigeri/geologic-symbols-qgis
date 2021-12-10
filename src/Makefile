@@ -79,6 +79,7 @@ collection_dirs:
 resmanager: collection_dirs
 	python scripts/authsplit.py fgdc $(TARGET) $(COLL_DIR)/fgdc/symbol/fgdc.xml
 	cp -r gsymblib-svg/patterns/fgdc $(COLL_DIR)/fgdc/svg
+	git add $(COLL_DIR)
 
 distclean:
 	-rm -rf $(PACKAGE_DIR)
