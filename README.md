@@ -1,7 +1,7 @@
 
 ![QGIS](docs/images/ss02.png)
 
-# gsymblib: Geologic symbols library and development for QGIS
+# gsymblib: Geologic mapping symbols library and development for QGIS
 #### Alessandro Frigeri, IAPS/INAF - Jan, 2021
 
 
@@ -22,18 +22,22 @@ The features of __gsymblib__ are:
 
 ## System requirements
 
-A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software installation on MS Windows, OS X or GNU/Linux.
+A functional QGIS 3.8.x (released on June 21st, 2019) or more recent software installation on MS Windows, OS X or GNU/Linux.  For building the library on your own or developing the build framework, we spot QGIS 3.10 LTR as the target version.
 
 ## Installation and setup
 
-1. Download the latest [gsymblib release](https://github.com/afrigeri/geologic-symbols-qgis/releases) containing the symbology files (symbols and patterns).
-2. Extract the zip archive and move the __svg__ directory to a place where you want to store the patterns and symbols.  It can be any directory.
-3. Open QGis and go to 'Settings -> Options' (Ubuntu) or 'Preferences' (OSX) and select the second tab from the top: 'System'
-4. Under the __SVG Paths__ form click the add button and select the the __svg__ directory you have just extracted from the zipfile.
-5. Quit and open QGIS to make __SVG Paths__ modification active
-5. In QGis, go to 'Settings -> Style Manager' and click on 'Import/Export -> Import items' button (at bottom-left)
-6. Select the __geologic_symblib.xml__ file you have found in the zip file
-7. You should now have the geologic symbols working in your QGis!
+![Dir structure](docs/images/dir.png)
+
+Here you are the instructions to install the gsymblib (all symbols and patterns) in your local QGIS installation.
+
+1. Download the [latest gsymblib](./dist/gsymblib-1.0.0.zip) or the [official release](https://github.com/afrigeri/geologic-symbols-qgis/releases) zip files.
+2. Extract the zip archive and move the __gsymblib-svg__ directory to a place where you want to store the patterns and symbols.  It can be any directory.
+3. Now open QGis and go to 'Settings -> Options' (Ubuntu) or 'Preferences' (OSX) and select the second tab from the top: 'System'
+4. Under the __SVG Paths__ formi, click the add button and select the the __gsymblib-svg__ directory from your file system.
+5. Exit from QGIS and re-open it to make __SVG Paths__ modifications active.
+5. In QGis, go to __Settings__ -> __Style Manager__ and click on __Import/Export__ -> __Import items__ button (at bottom-left)
+6. Select the __geologic_symblib-X.Y.Z.xml__ file extracted from the zip file, then __select all__ button at the bottom, and then __import__ button.
+7. Now you should now have the geologic symbols listed and ready to style your geologic maps in your QGis!
 
 ## How to contribute: add new symbols or fix existing ones
 
@@ -47,12 +51,19 @@ or
 
 Remember to follow these simple guidelines:
 1. Symbols should comply as much as possible with the original instructions.  If something can not be replicated, just indicate it in the issue tracker for future reference.
-2. __Naming__: all the symbols should be named as follow: [code or id] : [Description]. This way it will be much more easier to use the symbols in QGIS.
+2. __Naming__: all the symbols should be named as follow: [code or id] : [Description]. This way it will be much more easier to use the symbols in QGIS as they will be ordered and can be dynamically searched from the graphical interface.
 3. For __asymmetric symbols__ ad scarps or thrusts, convention here is to draw features clockwise, or leave the symbol to the left of the line.  For example, the downthrown block of a normal fault is stays on the left of the line.
+
 
 ## Usage notes and conventions
 
 Convention here is to draw area features clockwise, and linear features with patterns drawn on the left side, so non-symmetric symbology is displayed correctly.
+
+
+##  Developer info
+
+If you want to contrbute to the development of the build system, you need to setup your environment. If you have OSX, the reference development environment is QGIS 3.10-LTR, which is know to to run standalone python/QGIS scripts without problems.  With GNU/Linux you can use the most up-to-date package, but you have to make sure to have python3-qgis package installed.  We also need [svg2svgt](https://github.com/manisandro/svg2svgt) to convert SVG into TinySVG.
+
 
 ## Similar projects
 
@@ -61,8 +72,11 @@ The problem of having a meaningful symbology in modern softwares has been in the
  * [QGis Geologic Symbols project from Ryan Mikulovsky at ucdavis, 2010](http://geo.distortions.net/2010/12/geologic-symbology-for-qgis.html)
  * [Stefan Revets project on SourceForge, 2015-2016](https://sourceforge.net/projects/qgisgeologysymbology/)
  * [FGCD Geologic Patterns for the Web by Daven Quinn, 2017](https://davenquinn.com/projects/geologic-patterns/). This project adopts the FGDC pattern of Daven Quinn, contributed by USGS personnell.
+ * [FGDC-4-QGIS by GeoProc.com](https://github.com/BC-Consulting/FGDC-4-QGIS) FGDC fill geology symbols library for QGIS 3.x.
 
 ## References
+
+* gsymblib v1.0 - Geologic symbols library and development environment for QGIS [doi:10.20371/INAF/SW/2019_00007](http://dx.doi.org/10.20371/INAF/SW/2019_00007)
 
 * A. Nass, S. van Gasselt, R. Jaumann, H. Asche, Implementation of cartographic symbols for planetary mapping in geographic information systems, Planetary and Space Science, Volume 59, Issues 11-12, September 2011, Pages 1255-1264, ISSN 0032-0633, http://dx.doi.org/10.1016/j.pss.2010.08.022.
 (http://www.sciencedirect.com/science/article/pii/S0032063310002606)

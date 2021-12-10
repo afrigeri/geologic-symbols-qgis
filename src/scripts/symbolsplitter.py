@@ -2,7 +2,7 @@
 #!/bin/env python3
 #
 #
-# (c) 2020 - Alessandro Frigeri, Istituto Nazionale di Astrofisica
+# (c) 2020-2021 - Alessandro Frigeri, Istituto Nazionale di Astrofisica
 #
 # symbolsplitter - splits qgis xml style file into n xml files containing one symbol each
 # 

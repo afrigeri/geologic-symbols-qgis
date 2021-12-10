@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol name="25.126: &#xa;Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow" tags="fgdc,geology,geologic_symblib" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
+    <symbol name="25.126: Detached lobe, planetary—Arrow points in direction of interpreted landslide or debris flow" tags="fgdc,geology,geologic_symblib" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
       <layer class="SVGFill" pass="0" enabled="1" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,255,255"/>

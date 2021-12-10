@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!-- Converted with SVG Converter - Version 0.9.5 (Compiled Fri Feb 21 09:53:38 2020) - Copyright (C) 2011 Nokia -->
-<svg xmlns="http://www.w3.org/2000/svg" y="0px" xml:space="preserve" height="80.131" viewBox="0 -80.131 80.131 80.131" baseProfile="tiny" x="0px" version="1.1" width="80.131" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" y="0px" height="80.131" x="0px" viewBox="0 -80.131 80.131 80.131" width="80.131" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny">
  <g>
   <rect y="-80.131" height="80.131" width="80.131" style="fill:none;"/>
   <path d="M35.479-47.123c2.473,0.915,3.204-1.924,2.654-2.016    c-0.549-0.09-0.367,0.184-1.097,1.192C36.304-46.94,34.788-47.38,35.479-47.123z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#00AEEF;"/>
@@ -1064,6 +1064,6 @@
   <path d="M19.898,0c0.078-0.476-0.051-0.965-0.744-0.712    C18.815-0.588,18.697-0.297,18.724,0" style="fill-rule:evenodd;clip-rule:evenodd;fill:#00AEEF;"/>
   <path d="M49.604,0c0.006-0.135-0.021-0.28-0.089-0.434    C49.11-1.322,48.178-0.74,48.182,0" style="fill-rule:evenodd;clip-rule:evenodd;fill:#00AEEF;"/>
   <path d="M77.12,0c-0.058-0.553-0.34-1.13-0.783-1.13    c-0.415,0-0.666,0.577-0.639,1.13" style="fill-rule:evenodd;clip-rule:evenodd;fill:#00AEEF;"/>
-  <line y1="0" x1="18.724" x2="19.898" y2="0" style="fill-rule:evenodd;clip-rule:evenodd;fill:#00AEEF;"/>
+  <line x1="18.724" x2="19.898" style="fill-rule:evenodd;clip-rule:evenodd;fill:#00AEEF;" y2="0" y1="0"/>
  </g>
 </svg>

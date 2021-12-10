@@ -6,14 +6,14 @@
 # 
 # merge-symbols: merge geologic symbols into a single library. 
 #
-# (c) 2019-2020 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali - INAF - Rome
+# (c) 2019-2021 Alessandro Frigeri, Istituto di Astrofisica e Planetologia Spaziali - INAF - Rome
 #
-# it'd critical to:
-# export QT_QPA_PLATFORM_PLUGIN_PATH=/Applications/QGIS3.14.app/Contents/PlugIns/
+# it's critical to:
+# export QT_QPA_PLATFORM_PLUGIN_PATH=/Applications/QGIS3.10.app/Contents/PlugIns/
 
 import os, sys
 #sys.path.insert(0, "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/")
-sys.path.append("/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/")
+#sys.path.append("/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/")
 
 import logging as log
 
@@ -28,8 +28,10 @@ from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
 from xml.dom import minidom
 import glob
 
-import pytablewriter
-from pytablewriter import MarkdownTableWriter
+#import pytablewriter
+#from pytablewriter import MarkdownTableWriter
+
+from scripts.md_writer import MyMarkdownTableWriter as MarkdownTableWriter
 
 import datetime
 
@@ -40,17 +42,31 @@ from PyQt5.QtCore import QSize, QSettings
 from PyQt5.QtGui import QImage, QPainter
  
 import qgis
-from qgis.core import (QgsSymbol,
-                       QgsFillSymbol,
-                       QgsMarkerSymbol,
-                       QgsLineSymbol,
-                       QgsLimitedRandomColorRamp,
-                       QgsStyleModel,
-                       QgsStyle,
-                       QgsStyleProxyModel,
-                       QgsTextFormat,
-                       QgsPalLayerSettings,
-                       QgsWkbTypes)
+
+#from qgis.core import (QgsSymbol,
+#                       QgsFillSymbol,
+#                       QgsMarkerSymbol,
+#                       QgsLineSymbol,
+#                       QgsLimitedRandomColorRamp,
+#                       QgsStyleModel,
+#                       QgsStyle,
+#                       QgsStyleProxyModel,
+#                       QgsTextFormat,
+#                       QgsPalLayerSettings,
+#                       QgsWkbTypes)
+
+from qgis.core import *
+
+# Supply path to qgis install location
+
+if sys.platform == "darwin":
+	# /Applications/QGIS3.10.app/Contents/MacOS/
+    QgsApplication.setPrefixPath("/Applications/QGIS.app/Contents/MacOS/", True)
+elif sys.platform == "linux":
+    QgsApplication.setPrefixPath("/usr/", True)
+elif sys.platform == "win32":
+    QgsApplication.setPrefixPath("C:/Program Files/QGIS 3.10", True) 
+
 
 #svg_paths = QSettings().value('svg/searchPathsForSVG')
 #print(svg_paths)
@@ -61,9 +77,14 @@ from qgis.core import (QgsSymbol,
 
 SVG_DIR="gsymblib-svg"
 
-from qgis.testing import start_app
+#from qgis.testing import start_app
+# QGISAPP = start_app()
+# Create a reference to the QgsApplication.  
+QGISAPP = QgsApplication([], False)
 
-QGISAPP = start_app()
+# Load providers
+# QGISAPP.initQgis()
+
 
 svgpaths = QGISAPP.svgPaths()
 svgpaths.append('.%s/'%SVG_DIR)
@@ -71,12 +92,15 @@ svgpaths.append( os.path.join( os.getcwd(), SVG_DIR ) )
 QGISAPP.setDefaultSvgPaths(svgpaths)
 print(QGISAPP.svgPaths())
 
+import locale
+#locale.setlocale(locale.LC_TIME, "en_US.utf8") # date in english
+locale.setlocale(locale.LC_TIME, "en_US.UTF-8")
 
 writer = MarkdownTableWriter()
-status_header = "# Table of symbols, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
+status_header = "# Gsymblib symbols list, updated "+datetime.date.today().strftime("%B %d, %Y")+"\n"
 writer.table_name = ""
 writer.headers = ["graphics","authority", "code", "description", "notes"]
-writer.type_hints = [pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String]
+#writer.type_hints = [pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String, pytablewriter.String]
 writer.value_matrix = []
 
 def indent(elem, level=0):
@@ -98,11 +122,18 @@ def indent(elem, level=0):
 
 def name_parser(name):
     '''
-    name convention:
-    
+    symbol's name convention:
     [name or id] : [ description ]
+    
+    ":" is mandatory
+    
     '''
-    a, b = name.split(':')
+    try:
+        a, b = name.split(':')
+    except:
+        print("The symbol name \" %s \" does not follow the gsymlib naming convention"%name)
+        sys.exit(0)
+		
     return a.strip(), b.strip()
 
 srcdir = sys.argv[1]
@@ -135,8 +166,8 @@ for rootdir, dirs, files in os.walk( srcdir ):
          tree = ET.parse( xmlfile )
          root = tree.getroot()
 
-         if not validate_and_clean_xml(root,filename=extract_name(filename)):
-             log.error(f"cannot validate {filename}")
+         #if not validate_and_clean_xml(root,filename=extract_name(filename)):
+         #    log.error(f"cannot validate {filename}")
 
          if root.findall("./symbols/symbol"):
             for symbol in root.findall("./symbols/symbol"):    
@@ -190,3 +221,8 @@ status_file.write("\n")
 status_file.write(writer.dumps()) 
 status_file.close()
 print(count_dict)
+
+# Finally, exitQgis() is called to remove the
+# provider and layer registries from memory
+QGISAPP.exitQgis()
+

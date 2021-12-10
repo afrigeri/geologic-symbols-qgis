@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="1">
   <symbols>
-    <symbol name="25.081: Large cone, planetary (mapped to scale)—&#xa;Hachures point downscarp" type="line" alpha="1" clip_to_extent="1">
+    <symbol name="25.081: Large cone, planetary (mapped to scale)—Hachures point downscarp" type="line" alpha="1" clip_to_extent="1">
       <layer enabled="1" locked="0" pass="0" class="MarkerLine">
         <prop k="interval" v="3.5"/>
         <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0"/>
