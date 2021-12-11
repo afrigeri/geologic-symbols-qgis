@@ -16,7 +16,8 @@ The features of __gsymblib__ are:
 
 ## News
 
-* Dec 10, 2021: added experiental support to Resource Manager Plugin (online install process)
+* Dec 11, 2021: [gsymblib 1.1 is out](https://github.com/afrigeri/geologic-symbols-qgis/releases). 
+* Dec 10, 2021: added experiental support to Resource Manager Plugin (online install process), see discussion on [#15](/../../issues/15)
 * Sep  1, 2021: added rotational symbols
 * Jan 25, 2021: develop tree created
 * Feb 22, 2020: added symbolsplitter script
