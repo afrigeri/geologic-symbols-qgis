@@ -22,4 +22,4 @@ gsymblib contributors (sorted alphabetically)
 
   * Symbols contribution
 
-
+* All the people contributing with comments and suggestion in the [issue](https://github.com/afrigeri/geologic-symbols-qgis/issues) page
