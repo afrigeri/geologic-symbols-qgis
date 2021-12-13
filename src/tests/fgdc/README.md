@@ -5,7 +5,3 @@ The test for the FGDC symbol is the Geologic map of the Arctic quadrangle, Alaka
 
 The map has been georefenced using the !(topogrpahic map)[https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Arctic_360544_1956_250000_geo.tif]
 
-
-
-
-
